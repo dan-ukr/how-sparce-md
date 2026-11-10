@@ -1,0 +1,12 @@
+23:09:45 gold-A artists: {'Amapiano (control)': 68, 'Asian Underground': 31, 'Kyiv techno/rave (Ukrainian artists only)': 34, 'Mahraganat': 21, 'Neoperreo': 36}
+23:10:52 artists 20/190
+23:12:08 artists 40/190
+23:13:21 artists 60/190
+23:14:46 artists 80/190
+23:15:54 artists 100/190
+23:17:03 artists 120/190
+23:18:11 artists 140/190
+23:19:25 artists 160/190
+23:20:42 artists 180/190
+23:21:27 pool sizes: {'Kyiv techno/rave (Ukrainian artists only)': 658, 'Amapiano (control)': 480, 'Neoperreo': 533, 'Mahraganat': 229, 'Asian Underground': 124} -> target per case: 124
+23:21:50 wrote capstone_corpus_stage2.xlsx {'Amapiano (control)': 124, 'Asian Underground': 124, 'Kyiv techno/rave (Ukrainian artists only)': 124, 'Mahraganat': 124, 'Neoperreo': 124}

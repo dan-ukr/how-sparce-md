@@ -1,0 +1,1007 @@
+﻿row,case,artist,track,origin,old_status,method,dz_track,dz_title,title_exact,dz_artist_name,dz_album,dz_preview,dz_duration,detail,dur_diff,level
+0,Kyiv techno/rave (Ukrainian artists only),Andriy Kostyukov,HIMARS,stage1:S02,not matched on Deezer,not found,,,,,,,,,,
+1,Kyiv techno/rave (Ukrainian artists only),Biøs,Elektromontaz,stage1:S01,not matched on Deezer,not found,,,,,,,,,,
+2,Kyiv techno/rave (Ukrainian artists only),Bodro,Wrong Illusions,stage1:S01,not matched on Deezer,not found,,,,,,,,,,
+3,Kyiv techno/rave (Ukrainian artists only),Borys,Askania,stage1:S25,not matched on Deezer,not found,,,,,,,,,,
+4,Kyiv techno/rave (Ukrainian artists only),Chaosy,Into The Dark,stage1:S02,not matched on Deezer,not found,,,,,,,,,,
+5,Kyiv techno/rave (Ukrainian artists only),D.Dan,Blue In Yellow,stage1:S01,not matched on Deezer,not found,,,,,,,,,,
+7,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Spirits Sliding Down The Stairs,stage1:S20,not matched on Deezer,catalog,3767788282.0,Spirits Sliding Down The Stairs,Y,Demian Feriy,Spirits Sliding Down The Stairs,Y,179.0,title_sim=1.00,0.2,same recording
+8,Kyiv techno/rave (Ukrainian artists only),Distortion (UA),Deceptions,stage1:S01,not matched on Deezer,not found,,,,,,,,,,
+9,Kyiv techno/rave (Ukrainian artists only),Ezy,Stasis,stage1:S01,not matched on Deezer,not found,,,,,,,,,,
+10,Kyiv techno/rave (Ukrainian artists only),Gael,Mess,stage1:S04,not matched on Deezer,catalog,1564668162.0,Mess,Y,Gael,Vertex,Y,323.0,title_sim=1.00,0.5,same recording
+11,Kyiv techno/rave (Ukrainian artists only),Hanna Svirska,Inner (Ambient Version),stage1:S02,not matched on Deezer,catalog,1807411217.0,Inner,N,Hanna Svirska,Echo,Y,200.0,title_sim=1.00,38.7,other version
+12,Kyiv techno/rave (Ukrainian artists only),Incorrect Waves,No Mercy,stage1:S01,not matched on Deezer,not found,,,,,,,,,,
+14,Kyiv techno/rave (Ukrainian artists only),Julia Govor,No Way Back,stage1:S01,not matched on Deezer,not found,,,,,,,,,,
+15,Kyiv techno/rave (Ukrainian artists only),Katarina Gryvul,Ocean,stage1:S02,not matched on Deezer,not found,,,,,,,,,,
+16,Kyiv techno/rave (Ukrainian artists only),Koloah,Colours feat. Studnitzky,stage1:S02,not matched on Deezer,not found,,,,,,,,,,
+17,Kyiv techno/rave (Ukrainian artists only),Lectromagnetique,Lockheed Martin,stage1:S07,not matched on Deezer,album_search,2556947492.0,Lockheed Martin,Y,Lectromagnetique,Counteroffensive,Y,305.0,album=Counteroffensive,0.8,same recording
+18,Kyiv techno/rave (Ukrainian artists only),Lostlojic,Sich 11,stage1:S01,not matched on Deezer,not found,,,,,,,,,,
+19,Kyiv techno/rave (Ukrainian artists only),Louwave,Dixing,stage1:S02,not matched on Deezer,not found,,,,,,,,,,
+20,Kyiv techno/rave (Ukrainian artists only),Maryana Klochko,I Heard Em Whisper,stage1:S02,not matched on Deezer,not found,,,,,,,,,,
+23,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,Zion,stage1:S01,not matched on Deezer,not found,,,,,,,,,,
+24,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Herbal Essences,stage1:S06,not matched on Deezer,not found,,,,,,,,,,
+25,Kyiv techno/rave (Ukrainian artists only),Potreba,Snowflake,stage1:S06,not matched on Deezer,not found,,,,,,,,,,
+26,Kyiv techno/rave (Ukrainian artists only),Radiant Futur,Please Don't Destroy Your Home,stage1:S06,not matched on Deezer,not found,,,,,,,,,,
+28,Kyiv techno/rave (Ukrainian artists only),Spekulant,People101,stage1:S23,not matched on Deezer,not found,,,,,,,,,,
+29,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Uglevod,stage1:S06,not matched on Deezer,not found,,,,,,,,,,
+30,Kyiv techno/rave (Ukrainian artists only),Tofudj,2018,stage1:S03,not matched on Deezer,catalog,1159277462.0,2018,Y,Tofudj,Intermission,Y,309.0,title_sim=1.00,0.0,same recording
+31,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,UNtitled 00,stage1:S21,not matched on Deezer,not found,,,,,,,,,,
+33,Kyiv techno/rave (Ukrainian artists only),Wulffius,Let My Piano Go,stage1:S06,not matched on Deezer,not found,,,,,,,,,,
+34,Kyiv techno/rave (Ukrainian artists only),Andriy Kostyukov,Bosozoku,itunes_artist,not checked,album_search,2453903605.0,Bosozoku,Y,Andriy Kostyukov,From Dusk Till Bog,Y,235.0,album=From Dusk Till Bog,0.4,same recording
+36,Kyiv techno/rave (Ukrainian artists only),Borys,Xeno-Canto,stage1:S25,not matched on Deezer,not found,,,,,,,,,,
+39,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Silver Globe,stage1:S20,not matched on Deezer,not found,,,,,,,,,,
+40,Kyiv techno/rave (Ukrainian artists only),Distortion (UA),Purple rave,stage1:S07,not matched on Deezer,album_search,2556947532.0,Purple Rave,Y,Distortion (UA),Counteroffensive,Y,212.0,album=Counteroffensive,0.6,same recording
+41,Kyiv techno/rave (Ukrainian artists only),Ezy,Maps,itunes_artist,not checked,album_search,2593547472.0,Maps,Y,Ezy,"The Collective Capsule, Vol. 2",Y,386.0,"album=The Collective Capsule, Vol. 2",0.0,same recording
+43,Kyiv techno/rave (Ukrainian artists only),Hanna Svirska,Son,stage1:S13,not matched on Deezer,not found,,,,,,,,,,
+44,Kyiv techno/rave (Ukrainian artists only),Incorrect Waves,Metallistic,stage1:S05,not matched on Deezer,not found,,,,,,,,,,
+45,Kyiv techno/rave (Ukrainian artists only),John Object,Kiss (Live),stage1:S06,not matched on Deezer,not found,,,,,,,,,,
+46,Kyiv techno/rave (Ukrainian artists only),Julia Govor,"""1991""",itunes_artist,not checked,catalog,550581882.0,"""1991""",Y,Julia Govor,1,Y,373.0,title_sim=1.00,0.1,same recording
+48,Kyiv techno/rave (Ukrainian artists only),Lostlojic,Wings of Lina,stage1:S07,not matched on Deezer,album_search,2556947582.0,Wings of Lina,Y,Lostlojic,Counteroffensive,Y,259.0,album=Counteroffensive,0.2,same recording
+49,Kyiv techno/rave (Ukrainian artists only),Louwave,To Be Continued,itunes_artist,not checked,catalog,2442046865.0,To Be Continued,Y,Louwave,NECH022,Y,397.0,title_sim=1.00,0.2,same recording
+51,Kyiv techno/rave (Ukrainian artists only),Nastya Vogan,Xaw,stage1:S04,not matched on Deezer,catalog,1564668142.0,Xaw,Y,Nastya Vogan,Vertex,Y,355.0,title_sim=1.00,0.4,same recording
+52,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,Bad Future ft. Garden Krist,stage1:S04,not matched on Deezer,catalog,1564668192.0,Bad Future ft. Garden Krist,Y,Omon Breaker,Vertex,Y,334.0,title_sim=1.00,0.8,same recording
+53,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Stolen Treasure,stage1:S07,not matched on Deezer,album_search,2556947552.0,Stolen Treasure,Y,Poly Chain,Counteroffensive,Y,260.0,album=Counteroffensive,0.6,same recording
+54,Kyiv techno/rave (Ukrainian artists only),Radiant Futur,Clipdating,stage1:S07,not matched on Deezer,album_search,2556947572.0,Clipdating,Y,radiant futur,Counteroffensive,Y,254.0,album=Counteroffensive,0.8,same recording
+55,Kyiv techno/rave (Ukrainian artists only),Recid,When Shiku Met Techno,stage1:S04,not matched on Deezer,catalog,1564668172.0,When Shiku Met Techno,Y,Recid,Vertex,Y,348.0,title_sim=1.00,0.8,same recording
+56,Kyiv techno/rave (Ukrainian artists only),Spekulant,Only Electro,stage1:S23,not matched on Deezer,not found,,,,,,,,,,
+58,Kyiv techno/rave (Ukrainian artists only),Tofudj,Ust' Lup'yanka,stage1:S25,not matched on Deezer,not found,,,,,,,,,,
+59,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,UNtitled 01,stage1:S21,not matched on Deezer,not found,,,,,,,,,,
+60,Kyiv techno/rave (Ukrainian artists only),Voin Oruwu,Untitled,stage1:S06,not matched on Deezer,not found,,,,,,,,,,
+61,Kyiv techno/rave (Ukrainian artists only),Andriy Kostyukov,Glassed,itunes_artist,not checked,album_search,2425712485.0,Glassed,Y,Andriy Kostyukov,Cosmic Inflation,Y,244.0,album=Cosmic Inflation,0.6,same recording
+64,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Ice Queen,stage1:S20,not matched on Deezer,not found,,,,,,,,,,
+65,Kyiv techno/rave (Ukrainian artists only),Distortion (UA),Flying Round,itunes_artist,not checked,album_search,2120193907.0,Flying Round,Y,Distortion (UA),"VOLUNTEERS, Vol. 1 — BLACKOUT",Y,202.0,"album=VOLUNTEERS, Vol. 1 — BLACKOUT",0.1,same recording
+67,Kyiv techno/rave (Ukrainian artists only),Hanna Svirska,Sny Derev,stage1:S28,not matched on Deezer,not found,,,,,,,,,,
+68,Kyiv techno/rave (Ukrainian artists only),Incorrect Waves,Mod9,itunes_artist,not checked,album_search,1204893192.0,MOD9,Y,Incorrect Waves,NECH006 Scary Beautiful LP #1,Y,398.0,album=NECH006 Scary Beautiful LP #1,0.5,same recording
+69,Kyiv techno/rave (Ukrainian artists only),John Object,Vomit the Heart Forget the Mind,itunes_artist,not checked,album_search,2891506242.0,vomit the heart forget the mind,Y,John Object,◇ (Uncertainty) FUTURE,Y,83.0,album=◇ (Uncertainty) FUTURE,0.6,same recording
+70,Kyiv techno/rave (Ukrainian artists only),Julia Govor,A Regret,itunes_artist,not checked,catalog,378198111.0,A Regret,Y,Julia Govor,A Regret,Y,362.0,title_sim=1.00,0.1,same recording
+71,Kyiv techno/rave (Ukrainian artists only),Lostlojic,Distant Star (DMX Krew remix),stage1:S07,not matched on Deezer,catalog,1785767937.0,Distant Star,N,Lostlojic,Distant Star,Y,354.0,title_sim=1.00,0.1,same recording
+72,Kyiv techno/rave (Ukrainian artists only),Louwave,Different Souls,itunes_artist,not checked,catalog,2442046855.0,Different Souls,Y,Louwave,NECH022,Y,350.0,title_sim=1.00,0.9,same recording
+75,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,Stinger,stage1:S14,not matched on Deezer,not found,,,,,,,,,,
+76,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Visa,itunes_artist,not checked,catalog,1614636012.0,Visa,Y,Poly Chain,Dogtooth,Y,330.0,title_sim=1.00,0.4,same recording
+77,Kyiv techno/rave (Ukrainian artists only),Recid,Do Not Stop Dancing,itunes_artist,not checked,catalog,356987821.0,Do Not Stop Dancing,Y,Recid,Too Fast,Y,393.0,title_sim=1.00,0.1,same recording
+79,Kyiv techno/rave (Ukrainian artists only),Tofudj,May,stage1:S25,not matched on Deezer,catalog,3922722121.0,May,Y,Tofudj,care,Y,110.0,title_sim=1.00,0.0,same recording
+80,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,OSAKA,stage1:S21,not matched on Deezer,not found,,,,,,,,,,
+82,Kyiv techno/rave (Ukrainian artists only),Bodro,Classified Technology,stage1:S26,not matched on Deezer,not found,,,,,,,,,,
+84,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Vr Undead,stage1:S20,not matched on Deezer,not found,,,,,,,,,,
+86,Kyiv techno/rave (Ukrainian artists only),Hanna Svirska,Zozulia,itunes_artist,not checked,not found,,,,,,,,,,
+87,Kyiv techno/rave (Ukrainian artists only),Incorrect Waves,TON 618,itunes_artist,not checked,album_search,1463806832.0,TON 618,Y,Incorrect Waves,NECH012 Scary Beautiful LP #6,Y,450.0,album=NECH012 Scary Beautiful LP #6,0.0,same recording
+88,Kyiv techno/rave (Ukrainian artists only),Julia Govor,Standing Alone,itunes_artist,not checked,album_search,3631737122.0,Standing Alone,Y,Julia Govor,Stone Techno Series 2022 - Triclinic,Y,253.0,album=Stone Techno Series 2022 - Triclinic,0.1,same recording
+89,Kyiv techno/rave (Ukrainian artists only),Lostlojic,This Is Why I Love Her,itunes_artist,not checked,album_search,70488363.0,This Is Why I Love Her,Y,Lostlojic,Frequencies Of The Mind 2,Y,290.0,album=Frequencies Of The Mind 2,0.0,same recording
+90,Kyiv techno/rave (Ukrainian artists only),Louwave,Face Off,itunes_artist,not checked,catalog,2442046885.0,Face Off,Y,Louwave,NECH022,Y,324.0,title_sim=1.00,0.4,same recording
+91,Kyiv techno/rave (Ukrainian artists only),Maryana Klochko,Bloody Mary,itunes_artist,not checked,not found,,,,,,,,,,
+93,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,Freak Machine,itunes_artist,not checked,catalog,1167066682.0,Freak Machine,Y,Omon Breaker,Spitfire,Y,330.0,title_sim=1.00,0.9,same recording
+94,Kyiv techno/rave (Ukrainian artists only),Poly Chain,I Feel Like a Tourist in My Hometown,itunes_artist,not checked,catalog,814043922.0,I Feel Like a Tourist in My Hometown,Y,Poly Chain,Currency,Y,322.0,title_sim=1.00,0.3,same recording
+95,Kyiv techno/rave (Ukrainian artists only),Recid,Jazz in the Underpass,itunes_artist,not checked,catalog,356987831.0,Jazz In The Underpass,Y,Recid,Too Fast,Y,316.0,title_sim=1.00,0.1,same recording
+96,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Now We Are Talking,itunes_artist,not checked,catalog,2775308771.0,Now We Are Talking,Y,Stanislav Tolkachev,NECH024,Y,330.0,title_sim=1.00,0.2,same recording
+97,Kyiv techno/rave (Ukrainian artists only),Tofudj,Reminiscence Of,stage1:S25,not matched on Deezer,catalog,3922722051.0,Reminiscence Of,Y,Tofudj,care,Y,272.0,title_sim=1.00,0.0,same recording
+98,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,UNtitled 10,stage1:S21,not matched on Deezer,not found,,,,,,,,,,
+100,Kyiv techno/rave (Ukrainian artists only),Bodro,Everything,itunes_artist,not checked,album_search,2120193827.0,Everything,Y,Bodro,"VOLUNTEERS, Vol. 1 — BLACKOUT",Y,300.0,"album=VOLUNTEERS, Vol. 1 — BLACKOUT",0.0,same recording
+101,Kyiv techno/rave (Ukrainian artists only),D.Dan,Pursuit,itunes_artist,not checked,search,2789211192.0,Pursuit,Y,D.Dan,Omni [Part 1],Y,448.0,q=D.Dan Pursuit,0.7,same recording
+102,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Steel And Rubber Crematory,stage1:S20,not matched on Deezer,album_search,3090359081.0,Steel And Rubber Crematory,Y,Demian Feriy,"Drones for Drones, Vol. 3",Y,300.0,"album=Drones for Drones, Vol. 3",0.0,same recording
+104,Kyiv techno/rave (Ukrainian artists only),Hanna Svirska,Znamennya (feat. Pymin),itunes_artist,not checked,catalog,2505946101.0,Znamennya,Y,Hanna Svirska,Zabuttya,Y,209.0,title_sim=1.00,0.2,same recording
+105,Kyiv techno/rave (Ukrainian artists only),Incorrect Waves,Radiopulsar,itunes_artist,not checked,search,1247429692.0,Radiopulsar,Y,Incorrect Waves,NECH009 Scary Beautiful LP #4,Y,328.0,q=Incorrect Waves Radiopulsar,0.3,same recording
+106,Kyiv techno/rave (Ukrainian artists only),Julia Govor,Nobody,itunes_artist,not checked,album_search,1915619397.0,Nobody,Y,Julia Govor,"Full Body Workout, Vol. 11",Y,388.0,"album=Full Body Workout, Vol. 11",0.6,same recording
+107,Kyiv techno/rave (Ukrainian artists only),Lostlojic,Nightxplode,itunes_artist,not checked,catalog,2682935662.0,Nightxplode,Y,Lostlojic,Nightxplode,Y,272.0,title_sim=1.00,0.7,same recording
+108,Kyiv techno/rave (Ukrainian artists only),Louwave,Baby Let's Vibe,itunes_artist,not checked,catalog,2442046845.0,Baby Let's Vibe,Y,Louwave,NECH022,Y,384.0,title_sim=1.00,0.3,same recording
+109,Kyiv techno/rave (Ukrainian artists only),Maryana Klochko,Sasha Leaves the Class,itunes_artist,not checked,not found,,,,,,,,,,
+110,Kyiv techno/rave (Ukrainian artists only),Nastya Vogan,This Is Not a Love Song,stage1:S14,not matched on Deezer,not found,,,,,,,,,,
+111,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,Interpreting Scars (feat. Garden Krist),itunes_artist,not checked,catalog,3261888071.0,Interpreting Scars (feat. Garden Krist),Y,Omon Breaker,Interpreting Scars (feat. Garden Krist),Y,288.0,title_sim=1.00,0.7,same recording
+112,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Kieł,itunes_artist,not checked,catalog,1614636002.0,Kieł,Y,Poly Chain,Dogtooth,Y,278.0,title_sim=1.00,0.3,same recording
+113,Kyiv techno/rave (Ukrainian artists only),Recid,Cave,itunes_artist,not checked,catalog,356987811.0,Cave,Y,Recid,Too Fast,Y,379.0,title_sim=1.00,0.8,same recording
+114,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Something Breaks Something Grows,itunes_artist,not checked,catalog,4157569772.0,Something Breaks Something Grows,Y,Stanislav Tolkachev,Dog Flavored Cat Chew EP,Y,447.0,title_sim=1.00,0.2,same recording
+115,Kyiv techno/rave (Ukrainian artists only),Tofudj,Unt,itunes_artist,not checked,album_search,1985426547.0,Unt,Y,Tofudj,29 Speedway: Channel Plus,Y,62.0,album=29 Speedway: Channel Plus,0.4,same recording
+116,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,UNtitled 11,stage1:S21,not matched on Deezer,not found,,,,,,,,,,
+117,Kyiv techno/rave (Ukrainian artists only),Voin Oruwu,Sunray,itunes_artist,not checked,catalog,896614982.0,Sunray,Y,Voin Oruwu,NECH002 EP,Y,405.0,title_sim=1.00,0.5,same recording
+118,Kyiv techno/rave (Ukrainian artists only),D.Dan,If Ya Name's Not Dan Ya Not Comin In,itunes_artist,not checked,catalog,466072882.0,If Ya Name's Not Dan Ya Not Comin In,Y,D.Dan,Dan's Dilemma,Y,296.0,title_sim=1.00,0.8,same recording
+119,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Cold Gas Cathedral,stage1:S20,not matched on Deezer,not found,,,,,,,,,,
+121,Kyiv techno/rave (Ukrainian artists only),Hanna Svirska,Echo,itunes_artist,not checked,catalog,1807411207.0,Echo,Y,Hanna Svirska,Echo,Y,257.0,title_sim=1.00,1.0,same recording
+122,Kyiv techno/rave (Ukrainian artists only),Incorrect Waves,Room of Dirt,itunes_artist,not checked,album_search,1475151642.0,Room of Dirt,Y,Incorrect Waves,NECH013 Scary Beautiful LP #7,Y,361.0,album=NECH013 Scary Beautiful LP #7,0.2,same recording
+123,Kyiv techno/rave (Ukrainian artists only),Julia Govor,"""0031""",itunes_artist,not checked,catalog,550581872.0,"""0031""",Y,Julia Govor,1,Y,397.0,title_sim=1.00,0.5,same recording
+124,Kyiv techno/rave (Ukrainian artists only),Lostlojic,"Brother, Wake Up",itunes_artist,not checked,not found,,,,,,,,,,
+125,Kyiv techno/rave (Ukrainian artists only),Louwave,Doom Drummer,itunes_artist,not checked,catalog,2442046875.0,Doom Drummer,Y,Louwave,NECH022,Y,397.0,title_sim=1.00,0.5,same recording
+126,Kyiv techno/rave (Ukrainian artists only),Maryana Klochko,Masha Goes to School,itunes_artist,not checked,not found,,,,,,,,,,
+127,Kyiv techno/rave (Ukrainian artists only),Nastya Vogan,Limerence Practice Mantra,itunes_artist,not checked,search,3393383291.0,Limerence Practice Mantra,Y,Nastya Vogan,Transitioning Practice,Y,253.0,q=Nastya Vogan Limerence Practice Mantra,0.3,same recording
+128,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,Compromat,itunes_artist,not checked,catalog,2442546075.0,Compromat,Y,Omon Breaker,Compromat,Y,322.0,title_sim=1.00,0.0,same recording
+129,Kyiv techno/rave (Ukrainian artists only),Poly Chain,How Deep is the Black Sea,itunes_artist,not checked,catalog,814043932.0,How Deep is the Black Sea,Y,Poly Chain,Currency,Y,436.0,title_sim=1.00,0.5,same recording
+130,Kyiv techno/rave (Ukrainian artists only),Recid,Too Fast,itunes_artist,not checked,catalog,356987801.0,Too Fast,Y,Recid,Too Fast,Y,413.0,title_sim=1.00,0.1,same recording
+131,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Breathworks,itunes_artist,not checked,catalog,2641462112.0,Breathworks,Y,Stanislav Tolkachev,Seasoned Greetings,Y,307.0,title_sim=1.00,0.1,same recording
+132,Kyiv techno/rave (Ukrainian artists only),Tofudj,Warmix,itunes_artist,not checked,album_search,3034079501.0,Warmix,Y,Tofudj,Tendrils (i),Y,210.0,album=Tendrils (i),0.5,same recording
+133,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,Lets Try Agin,stage1:S21,not matched on Deezer,not found,,,,,,,,,,
+134,Kyiv techno/rave (Ukrainian artists only),Voin Oruwu,After All,itunes_artist,not checked,not found,,,,,,,,,,
+135,Kyiv techno/rave (Ukrainian artists only),D.Dan,Raw Jam,itunes_artist,not checked,search,1672237647.0,Raw Jam,Y,D.Dan,src003,Y,400.0,q=D.Dan Raw Jam,0.8,same recording
+136,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Golden Mine 99,stage1:S20,not matched on Deezer,not found,,,,,,,,,,
+138,Kyiv techno/rave (Ukrainian artists only),Hanna Svirska,Zabuttya,itunes_artist,not checked,catalog,2505946081.0,Zabuttya,Y,Hanna Svirska,Zabuttya,Y,243.0,title_sim=1.00,0.0,same recording
+139,Kyiv techno/rave (Ukrainian artists only),Incorrect Waves,Chorna Tysa,itunes_artist,not checked,not found,,,,,,,,,,
+140,Kyiv techno/rave (Ukrainian artists only),Julia Govor,Winter Mute,itunes_artist,not checked,catalog,1333602872.0,Winter Mute,Y,Julia Govor,Winter Mute,Y,209.0,title_sim=1.00,0.5,same recording
+141,Kyiv techno/rave (Ukrainian artists only),Lostlojic,Science Fiction,itunes_artist,not checked,catalog,2682935672.0,Science Fiction,Y,Lostlojic,Nightxplode,Y,297.0,title_sim=1.00,0.1,same recording
+142,Kyiv techno/rave (Ukrainian artists only),Louwave,Attendance,itunes_artist,not checked,album_search,2542242721.0,Attendance,Y,Louwave,"Traiettorie, Vol.3",Y,312.0,"album=Traiettorie, Vol.3",0.0,same recording
+143,Kyiv techno/rave (Ukrainian artists only),Maryana Klochko,Morning Before School,itunes_artist,not checked,not found,,,,,,,,,,
+144,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,Augmentation (feat. Phase Fatale),itunes_artist,not checked,catalog,2442546105.0,Augmentation,Y,Omon Breaker,Compromat,Y,297.0,title_sim=1.00,0.5,same recording
+145,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Acid Regular,itunes_artist,not checked,catalog,1614636022.0,Acid Regular,Y,Poly Chain,Dogtooth,Y,264.0,title_sim=1.00,0.3,same recording
+146,Kyiv techno/rave (Ukrainian artists only),Recid,Yellow Horse,itunes_artist,not checked,catalog,1655067192.0,Yellow Horse,Y,Recid,NECH019,Y,336.0,title_sim=1.00,0.4,same recording
+147,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,The Dirty Water,itunes_artist,not checked,catalog,797729832.0,The Dirty Water,Y,Stanislav Tolkachev,It Will Be Too Late Then,Y,288.0,title_sim=1.00,0.0,same recording
+148,Kyiv techno/rave (Ukrainian artists only),Tofudj,Ef,itunes_artist,not checked,not found,,,,,,,,,,
+150,Kyiv techno/rave (Ukrainian artists only),Voin Oruwu,Iterance,itunes_artist,not checked,catalog,896614942.0,Iterance,Y,Voin Oruwu,NECH002 EP,Y,377.0,title_sim=1.00,0.2,same recording
+151,Kyiv techno/rave (Ukrainian artists only),D.Dan,Final Dantasy,itunes_artist,not checked,catalog,466072902.0,Final Dantasy,Y,D.Dan,Dan's Dilemma,Y,497.0,title_sim=1.00,0.5,same recording
+152,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Breathy Speech,stage1:S20,not matched on Deezer,not found,,,,,,,,,,
+153,Kyiv techno/rave (Ukrainian artists only),Gael,A82,itunes_artist,not checked,catalog,2256040067.0,A82 (Cello Version),N,Gael,Glencoe (Cello Version),Y,160.0,title_sim=1.00,0.0,same recording
+154,Kyiv techno/rave (Ukrainian artists only),Incorrect Waves,Reflection,itunes_artist,not checked,catalog,2219525017.0,Reflection,Y,Incorrect Waves,Constructions,Y,359.0,title_sim=1.00,0.6,same recording
+155,Kyiv techno/rave (Ukrainian artists only),Julia Govor,"""1984""",itunes_artist,not checked,catalog,550581892.0,"""1984""",Y,Julia Govor,1,Y,432.0,title_sim=1.00,0.0,same recording
+156,Kyiv techno/rave (Ukrainian artists only),Lostlojic,Slowly & Surely,itunes_artist,not checked,catalog,2682935652.0,Slowly & Surely,Y,Lostlojic,Nightxplode,Y,401.0,title_sim=1.00,0.8,same recording
+157,Kyiv techno/rave (Ukrainian artists only),Louwave,Sloppy Steps,itunes_artist,not checked,not found,,,,,,,,,,
+158,Kyiv techno/rave (Ukrainian artists only),Maryana Klochko,Sasha Goes Home,itunes_artist,not checked,not found,,,,,,,,,,
+159,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,Somebody Broke My Legs,itunes_artist,not checked,catalog,1167066662.0,Somebody Broke My Legs,Y,Omon Breaker,Spitfire,Y,305.0,title_sim=1.00,0.1,same recording
+160,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Visa Reprise,itunes_artist,not checked,catalog,1614636032.0,Visa Reprise,Y,Poly Chain,Dogtooth,Y,213.0,title_sim=1.00,0.7,same recording
+161,Kyiv techno/rave (Ukrainian artists only),Recid,Red Horse,itunes_artist,not checked,catalog,1655067202.0,Red Horse,Y,Recid,NECH019,Y,314.0,title_sim=1.00,0.3,same recording
+162,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Unspoken Feelings,itunes_artist,not checked,catalog,2775308761.0,Unspoken Feelings,Y,Stanislav Tolkachev,NECH024,Y,283.0,title_sim=1.00,0.4,same recording
+163,Kyiv techno/rave (Ukrainian artists only),Tofudj,Take 2,itunes_artist,not checked,catalog,3908162451.0,Take 2,Y,Tofudj,Take,N,280.0,title_sim=1.00,0.5,same recording
+164,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,Sisters Brothers,stage1:S21,not matched on Deezer,not found,,,,,,,,,,
+165,Kyiv techno/rave (Ukrainian artists only),Voin Oruwu,Steel,itunes_artist,not checked,search,1231115532.0,Steel,Y,Voin Oruwu,NECH008 Scary Beautiful LP #3,Y,289.0,q=Voin Oruwu Steel,0.0,same recording
+166,Kyiv techno/rave (Ukrainian artists only),D.Dan,Dananas,itunes_artist,not checked,catalog,466221292.0,Dananas,Y,D.Dan,The Danger Zone,Y,524.0,title_sim=1.00,0.5,same recording
+167,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Barcode Ritual,stage1:S20,not matched on Deezer,not found,,,,,,,,,,
+168,Kyiv techno/rave (Ukrainian artists only),Gael,Glencoe,itunes_artist,not checked,catalog,2256040057.0,Glencoe (Cello Version),N,Gael,Glencoe (Cello Version),Y,223.0,title_sim=1.00,0.2,same recording
+169,Kyiv techno/rave (Ukrainian artists only),Incorrect Waves,Reversed,itunes_artist,not checked,catalog,2219525037.0,Reversed,Y,Incorrect Waves,Constructions,Y,380.0,title_sim=1.00,0.5,same recording
+170,Kyiv techno/rave (Ukrainian artists only),Julia Govor,Drama C,itunes_artist,not checked,catalog,1333602882.0,Drama C,Y,Julia Govor,Winter Mute,Y,356.0,title_sim=1.00,0.5,same recording
+171,Kyiv techno/rave (Ukrainian artists only),Lostlojic,Double Booked,itunes_artist,not checked,catalog,2682935682.0,Double Booked,Y,Lostlojic,Nightxplode,Y,313.0,title_sim=1.00,1.0,same recording
+172,Kyiv techno/rave (Ukrainian artists only),Maryana Klochko,The Second Dream About Badminton,itunes_artist,not checked,not found,,,,,,,,,,
+173,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,Контрабанда,itunes_artist,not checked,catalog,994818132.0,Контрабанда,Y,Omon Breaker,Культура длинных ночей,Y,298.0,title_sim=1.00,0.5,same recording
+174,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Knight of Pentacles,itunes_artist,not checked,catalog,814043962.0,Knight of Pentacles,Y,Poly Chain,Currency,Y,472.0,title_sim=1.00,0.9,same recording
+175,Kyiv techno/rave (Ukrainian artists only),Recid,White Horse,itunes_artist,not checked,catalog,1655067222.0,White Horse,Y,Recid,NECH019,Y,391.0,title_sim=1.00,0.2,same recording
+176,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,See You Tomorrow,itunes_artist,not checked,catalog,138060033.0,See you tomorrow,Y,Stanislav Tolkachev,When you are not at home,Y,278.0,title_sim=1.00,0.4,same recording
+177,Kyiv techno/rave (Ukrainian artists only),Tofudj,Take 3,itunes_artist,not checked,catalog,3908162461.0,Take 3,Y,Tofudj,Take,N,250.0,title_sim=1.00,0.3,same recording
+178,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,TREMBEAT,stage1:S21,not matched on Deezer,catalog,4037065741.0,Trembeat,Y,Ujif Notfound,Hypogonadism,Y,571.0,title_sim=1.00,0.7,same recording
+179,Kyiv techno/rave (Ukrainian artists only),Voin Oruwu,The Ticker,itunes_artist,not checked,catalog,896614972.0,The Ticker,Y,Voin Oruwu,NECH002 EP,Y,431.0,title_sim=1.00,0.6,same recording
+180,Kyiv techno/rave (Ukrainian artists only),D.Dan,Haashish Gadani,itunes_artist,not checked,catalog,560442812.0,Haashish Gadani,Y,D.Dan,Covert Operation,Y,378.0,title_sim=1.00,0.0,same recording
+181,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Sleuth,stage1:S20,not matched on Deezer,catalog,1696932757.0,Sleuth,Y,Demian Feriy,"Creep, Dope And Crazy",Y,214.0,title_sim=1.00,0.9,same recording
+182,Kyiv techno/rave (Ukrainian artists only),Gael,Provence,itunes_artist,not checked,catalog,1874977147.0,Provence,Y,Gael,Provence,Y,195.0,title_sim=1.00,0.4,same recording
+183,Kyiv techno/rave (Ukrainian artists only),Incorrect Waves,Physical,itunes_artist,not checked,catalog,2219525047.0,Physical,Y,Incorrect Waves,Constructions,Y,375.0,title_sim=1.00,0.9,same recording
+184,Kyiv techno/rave (Ukrainian artists only),Julia Govor,Icebreaker,itunes_artist,not checked,catalog,1333602902.0,Icebreaker,Y,Julia Govor,Winter Mute,Y,341.0,title_sim=1.00,0.7,same recording
+185,Kyiv techno/rave (Ukrainian artists only),Lostlojic,Atomic Naїvity,itunes_artist,not checked,catalog,3326060041.0,Atomic Naїvity,Y,Lostlojic,Anomaly,Y,409.0,title_sim=1.00,0.0,same recording
+186,Kyiv techno/rave (Ukrainian artists only),Maryana Klochko,Military Defense Class,itunes_artist,not checked,not found,,,,,,,,,,
+187,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,Екатеринославский бульвар,itunes_artist,not checked,catalog,994818172.0,Екатеринославский бульвар,Y,Omon Breaker,Культура длинных ночей,Y,294.0,title_sim=1.00,1.0,same recording
+188,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Render Slave,itunes_artist,not checked,catalog,1087366792.0,Render Slave,Y,Poly Chain,Standard Deviation,Y,298.0,title_sim=1.00,0.0,same recording
+189,Kyiv techno/rave (Ukrainian artists only),Recid,Green Horse,itunes_artist,not checked,catalog,1655067212.0,Green Horse,Y,Recid,NECH019,Y,312.0,title_sim=1.00,0.7,same recording
+190,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Mostly Harmless,itunes_artist,not checked,catalog,138059977.0,Mostly Harmless,Y,Stanislav Tolkachev,When you are not at home,Y,431.0,title_sim=1.00,0.9,same recording
+191,Kyiv techno/rave (Ukrainian artists only),Tofudj,Touching,itunes_artist,not checked,catalog,3922722031.0,Touching,Y,Tofudj,care,Y,102.0,title_sim=1.00,0.9,same recording
+192,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,PEACE YOUR TRANQUILITY,stage1:S21,not matched on Deezer,catalog,4026922951.0,Peace Your Tranquility,Y,Ujif Notfound,Postulate,Y,196.0,title_sim=1.00,0.8,same recording
+193,Kyiv techno/rave (Ukrainian artists only),D.Dan,Rising,itunes_artist,not checked,catalog,2705604692.0,Rising,Y,D.Dan,sequence.01,Y,321.0,title_sim=1.00,0.1,same recording
+194,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Scrap Metal Church,stage1:S20,not matched on Deezer,catalog,3914540521.0,Scrap Metal Church,Y,Demian Feriy,Fusionhood,Y,107.0,title_sim=1.00,0.5,same recording
+195,Kyiv techno/rave (Ukrainian artists only),Incorrect Waves,Chemical,itunes_artist,not checked,catalog,2219525027.0,Chemical,Y,Incorrect Waves,Constructions,Y,335.0,title_sim=1.00,0.7,same recording
+196,Kyiv techno/rave (Ukrainian artists only),Julia Govor,Manovra Di Gravità,itunes_artist,not checked,catalog,2623710192.0,Manovra Di Gravità,Y,Julia Govor,Laika and Ulka Were Here,Y,301.0,title_sim=1.00,0.7,same recording
+197,Kyiv techno/rave (Ukrainian artists only),Lostlojic,Pyrrhula,itunes_artist,not checked,catalog,3326060071.0,Pyrrhula,Y,Lostlojic,Anomaly,Y,260.0,title_sim=1.00,0.6,same recording
+198,Kyiv techno/rave (Ukrainian artists only),Maryana Klochko,Friend’s Ritual,itunes_artist,not checked,not found,,,,,,,,,,
+199,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,Unidentified,itunes_artist,not checked,catalog,2442546085.0,Unidentified,Y,Omon Breaker,Compromat,Y,312.0,title_sim=1.00,0.0,same recording
+200,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Jerry,itunes_artist,not checked,catalog,1087366802.0,Jerry,Y,Poly Chain,Standard Deviation,Y,314.0,title_sim=1.00,0.7,same recording
+201,Kyiv techno/rave (Ukrainian artists only),Recid,Black Horse,itunes_artist,not checked,catalog,1655067232.0,Black Horse,Y,Recid,NECH019,Y,297.0,title_sim=1.00,0.2,same recording
+202,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,About Time,itunes_artist,not checked,catalog,999409512.0,About Time,Y,Stanislav Tolkachev,There Is No Cure,Y,350.0,title_sim=1.00,0.1,same recording
+203,Kyiv techno/rave (Ukrainian artists only),Tofudj,Sep B,itunes_artist,not checked,catalog,3922722101.0,Sep B,Y,Tofudj,care,Y,110.0,title_sim=1.00,0.0,same recording
+204,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,CATCH THE GIFTS,stage1:S21,not matched on Deezer,catalog,4026922931.0,Catch the Gifts,Y,Ujif Notfound,Postulate,Y,367.0,title_sim=1.00,0.5,same recording
+205,Kyiv techno/rave (Ukrainian artists only),D.Dan,Nightshade,itunes_artist,not checked,search,3631737092.0,Nightshade,Y,D.Dan,Stone Techno Series 2022 - Triclinic,Y,426.0,q=D.Dan Nightshade,0.2,same recording
+206,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Tribe Of Horror,stage1:S20,not matched on Deezer,not found,,,,,,,,,,
+207,Kyiv techno/rave (Ukrainian artists only),Incorrect Waves,Singularity,itunes_artist,not checked,catalog,2219525057.0,Singularity,Y,Incorrect Waves,Constructions,Y,445.0,title_sim=1.00,0.1,same recording
+208,Kyiv techno/rave (Ukrainian artists only),Julia Govor,Awake,itunes_artist,not checked,catalog,1333602892.0,Awake,Y,Julia Govor,Winter Mute,Y,308.0,title_sim=1.00,0.5,same recording
+209,Kyiv techno/rave (Ukrainian artists only),Lostlojic,Stugna,itunes_artist,not checked,not found,,,,,,,,,,
+210,Kyiv techno/rave (Ukrainian artists only),Maryana Klochko,Alone at Home but Together,itunes_artist,not checked,not found,,,,,,,,,,
+211,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,Aldea Malvada,itunes_artist,not checked,catalog,2442546095.0,Aldea Malvada,Y,Omon Breaker,Compromat,Y,280.0,title_sim=1.00,0.0,same recording
+212,Kyiv techno/rave (Ukrainian artists only),Poly Chain,788 Km,itunes_artist,not checked,catalog,814043942.0,788 km,Y,Poly Chain,Currency,Y,295.0,title_sim=1.00,0.6,same recording
+213,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Very You,itunes_artist,not checked,catalog,4157569782.0,Very You,Y,Stanislav Tolkachev,Dog Flavored Cat Chew EP,Y,283.0,title_sim=1.00,0.6,same recording
+214,Kyiv techno/rave (Ukrainian artists only),Tofudj,Take 1,itunes_artist,not checked,catalog,3908162431.0,Take 1,Y,Tofudj,Take,Y,88.0,title_sim=1.00,0.6,same recording
+215,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,Rostrum,itunes_artist,not checked,catalog,4037065791.0,Rostrum,Y,Ujif Notfound,Hypogonadism,Y,470.0,title_sim=1.00,0.0,same recording
+216,Kyiv techno/rave (Ukrainian artists only),D.Dan,Sun over I-5 South,itunes_artist,not checked,catalog,859965242.0,Sun Over I-5 South,Y,D.Dan,Mutant Future,Y,257.0,title_sim=1.00,0.5,same recording
+217,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Cave Butterflies,stage1:S20,not matched on Deezer,not found,,,,,,,,,,
+218,Kyiv techno/rave (Ukrainian artists only),Julia Govor,Shelter 909,itunes_artist,not checked,album_search,1650665982.0,Shelter 909,Y,Julia Govor,hot steel: round 2,Y,363.0,album=hot steel: round 2,0.3,same recording
+219,Kyiv techno/rave (Ukrainian artists only),Lostlojic,Body Flash,itunes_artist,not checked,catalog,2682935642.0,Body Flash,Y,Lostlojic,Nightxplode,Y,324.0,title_sim=1.00,1.0,same recording
+220,Kyiv techno/rave (Ukrainian artists only),Maryana Klochko,Improvisation for Voice and Piano,itunes_artist,not checked,not found,,,,,,,,,,
+221,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,Crime Code,itunes_artist,not checked,catalog,1737963327.0,Crime Code,Y,Omon Breaker,World Tears,Y,301.0,title_sim=1.00,0.7,same recording
+222,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Passion's Precipice,itunes_artist,not checked,catalog,814043952.0,Passion's Precipice,Y,Poly Chain,Currency,Y,409.0,title_sim=1.00,0.7,same recording
+223,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Middle Finger Variation,itunes_artist,not checked,catalog,2775308741.0,Middle Finger Variation,Y,Stanislav Tolkachev,NECH024,Y,436.0,title_sim=1.00,0.0,same recording
+224,Kyiv techno/rave (Ukrainian artists only),Tofudj,Geo (Tight Remix),itunes_artist,not checked,catalog,2588785752.0,Geo (Tight Remix),Y,Tofudj,Borderline,Y,216.0,title_sim=1.00,1.0,same recording
+225,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,Tnt Molfar,itunes_artist,not checked,catalog,4037065731.0,Tnt Molfar,Y,Ujif Notfound,Hypogonadism,Y,528.0,title_sim=1.00,0.5,same recording
+226,Kyiv techno/rave (Ukrainian artists only),D.Dan,X - Dreams,itunes_artist,not checked,catalog,1578324052.0,X-Dreams,Y,D.Dan,summerpup,Y,391.0,title_sim=1.00,0.6,same recording
+227,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Cognita Malaria,stage1:S20,not matched on Deezer,catalog,2562698932.0,Cognita Malaria,Y,Demian Feriy,My Alchemy,Y,272.0,title_sim=1.00,0.7,same recording
+228,Kyiv techno/rave (Ukrainian artists only),Julia Govor,Disappear,itunes_artist,not checked,search,126264865.0,Disappear,Y,Julia Govor,Dots And Pearls 3,Y,370.0,q=Julia Govor Disappear,0.2,same recording
+229,Kyiv techno/rave (Ukrainian artists only),Lostlojic,Beauty Expand,itunes_artist,not checked,catalog,3326060051.0,Beauty Expand,Y,Lostlojic,Anomaly,Y,352.0,title_sim=1.00,0.9,same recording
+230,Kyiv techno/rave (Ukrainian artists only),Maryana Klochko,Near the Chemistry Cabinet,itunes_artist,not checked,not found,,,,,,,,,,
+231,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,World Tears,itunes_artist,not checked,catalog,1737963307.0,World Tears,Y,Omon Breaker,World Tears,Y,327.0,title_sim=1.00,0.7,same recording
+232,Kyiv techno/rave (Ukrainian artists only),Poly Chain,+ (Side A),itunes_artist,not checked,not found,,,,,,,,,,
+233,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Five Grams Will Be OK,itunes_artist,not checked,catalog,138060013.0,Five grams will be ok,Y,Stanislav Tolkachev,When you are not at home,Y,519.0,title_sim=1.00,0.8,same recording
+234,Kyiv techno/rave (Ukrainian artists only),Tofudj,Take 5,itunes_artist,not checked,catalog,3908162481.0,Take 5,Y,Tofudj,Take,Y,192.0,title_sim=1.00,0.0,same recording
+235,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,Urnext,itunes_artist,not checked,catalog,4037065721.0,Urnext,Y,Ujif Notfound,Hypogonadism,Y,267.0,title_sim=1.00,0.7,same recording
+236,Kyiv techno/rave (Ukrainian artists only),D.Dan,Escape from the Echo Chamber,itunes_artist,not checked,catalog,859965222.0,Escape from the Echo Chamber,Y,D.Dan,Mutant Future,Y,308.0,title_sim=1.00,0.8,same recording
+237,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Sarcastic Fairies,stage1:S20,not matched on Deezer,not found,,,,,,,,,,
+238,Kyiv techno/rave (Ukrainian artists only),Julia Govor,Naked Soul,itunes_artist,not checked,catalog,893855682.0,Naked Soul,Y,Julia Govor,RAW REFLEX,Y,247.0,title_sim=1.00,0.7,same recording
+239,Kyiv techno/rave (Ukrainian artists only),Lostlojic,Anomaly,itunes_artist,not checked,catalog,3326060061.0,Anomaly,Y,Lostlojic,Anomaly,Y,226.0,title_sim=1.00,0.3,same recording
+240,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,Б. Р. Е. Н. Ь,itunes_artist,not checked,catalog,994818162.0,Б. Р. Е. Н. Ь,Y,Omon Breaker,Культура длинных ночей,Y,284.0,title_sim=1.00,0.5,same recording
+241,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Acid Bubble Gum,itunes_artist,not checked,catalog,390641061.0,Acid Bubble Gum,Y,Poly Chain,Music For Candy Shops,Y,281.0,title_sim=1.00,0.2,same recording
+242,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Overthinking,itunes_artist,not checked,catalog,4157569822.0,Overthinking,Y,Stanislav Tolkachev,Dog Flavored Cat Chew EP,Y,375.0,title_sim=1.00,0.1,same recording
+243,Kyiv techno/rave (Ukrainian artists only),Tofudj,No Doubt,itunes_artist,not checked,catalog,3922722091.0,No Doubt,Y,Tofudj,care,Y,288.0,title_sim=1.00,0.0,same recording
+244,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,Pieta,itunes_artist,not checked,catalog,4037065761.0,Pieta,Y,Ujif Notfound,Hypogonadism,Y,276.0,title_sim=1.00,0.9,same recording
+245,Kyiv techno/rave (Ukrainian artists only),D.Dan,Dangstuh,itunes_artist,not checked,catalog,3547768801.0,Dangstuh,Y,D.Dan,Vaults,Y,324.0,title_sim=1.00,0.3,same recording
+246,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Agoraphobic Labyrinth,stage1:S20,not matched on Deezer,catalog,3567471161.0,Agoraphobic Labyrinth,Y,Demian Feriy,Utopicalypse,Y,225.0,title_sim=1.00,0.1,same recording
+247,Kyiv techno/rave (Ukrainian artists only),Julia Govor,Close to the Sun,itunes_artist,not checked,catalog,2623710172.0,Close to the Sun,Y,Julia Govor,Laika and Ulka Were Here,Y,298.0,title_sim=1.00,0.7,same recording
+248,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,Kill Born,itunes_artist,not checked,catalog,2442546115.0,Kill Born,Y,Omon Breaker,Compromat,Y,306.0,title_sim=1.00,0.0,same recording
+249,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Salty Caramel,itunes_artist,not checked,catalog,390641051.0,Salty Caramel,Y,Poly Chain,Music For Candy Shops,Y,270.0,title_sim=1.00,0.1,same recording
+250,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Proof,itunes_artist,not checked,catalog,138060001.0,Proof,Y,Stanislav Tolkachev,When you are not at home,Y,315.0,title_sim=1.00,0.0,same recording
+251,Kyiv techno/rave (Ukrainian artists only),Tofudj,Take 4,itunes_artist,not checked,catalog,3908162471.0,Take 4,Y,Tofudj,Take,Y,264.0,title_sim=1.00,0.1,same recording
+252,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,Napryamok,itunes_artist,not checked,catalog,4037065751.0,Napryamok,Y,Ujif Notfound,Hypogonadism,Y,311.0,title_sim=1.00,0.9,same recording
+253,Kyiv techno/rave (Ukrainian artists only),D.Dan,Freak,itunes_artist,not checked,catalog,2705604702.0,Freak,Y,D.Dan,sequence.01,Y,238.0,title_sim=1.00,0.5,same recording
+254,Kyiv techno/rave (Ukrainian artists only),Demian Feriy,Не Бачу Снів,itunes_artist,not checked,catalog,3680344422.0,Не Бачу Снів,Y,Demian Feriy,Не Бачу Снів,Y,231.0,title_sim=1.00,0.3,same recording
+255,Kyiv techno/rave (Ukrainian artists only),Julia Govor,Ulka Was Here,itunes_artist,not checked,catalog,2623710202.0,Ulka Was Here,Y,Julia Govor,Laika and Ulka Were Here,Y,262.0,title_sim=1.00,0.4,same recording
+256,Kyiv techno/rave (Ukrainian artists only),Omon Breaker,My Mi,itunes_artist,not checked,catalog,1660793612.0,My Mi,Y,Omon Breaker,Various Artist 004 - 2 Years,Y,308.0,title_sim=1.00,0.6,same recording
+257,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Frose,itunes_artist,not checked,catalog,2088929497.0,Frose,Y,Poly Chain,Fairy Disco,Y,301.0,title_sim=1.00,0.7,same recording
+258,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Scar,itunes_artist,not checked,catalog,138059985.0,Scar,Y,Stanislav Tolkachev,When you are not at home,Y,374.0,title_sim=1.00,0.1,same recording
+259,Kyiv techno/rave (Ukrainian artists only),Tofudj,Paf,itunes_artist,not checked,catalog,3922722061.0,Paf,Y,Tofudj,care,Y,247.0,title_sim=1.00,0.0,same recording
+260,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,Reketau,itunes_artist,not checked,catalog,4037065771.0,Reketau,Y,Ujif Notfound,Hypogonadism,Y,287.0,title_sim=1.00,0.0,same recording
+261,Kyiv techno/rave (Ukrainian artists only),D.Dan,Switchblade (Descendant),itunes_artist,not checked,catalog,859965192.0,Switchblade (Descendant),Y,D.Dan,Mutant Future,Y,306.0,title_sim=1.00,0.1,same recording
+262,Kyiv techno/rave (Ukrainian artists only),Julia Govor,"Space Dust, Born Trust",itunes_artist,not checked,catalog,2623710182.0,"Space Dust, Born Trust",Y,Julia Govor,Laika and Ulka Were Here,Y,294.0,title_sim=1.00,0.9,same recording
+263,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Fairy Disco,itunes_artist,not checked,catalog,2088929537.0,Fairy Disco,Y,Poly Chain,Fairy Disco,Y,261.0,title_sim=1.00,0.4,same recording
+264,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Disposable Killer,itunes_artist,not checked,catalog,138059997.0,Disposable Killer,Y,Stanislav Tolkachev,When you are not at home,Y,217.0,title_sim=1.00,0.0,same recording
+265,Kyiv techno/rave (Ukrainian artists only),Tofudj,Octa Past,itunes_artist,not checked,catalog,3922722081.0,Octa Past,Y,Tofudj,care,Y,217.0,title_sim=1.00,0.4,same recording
+266,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,Postril,itunes_artist,not checked,catalog,4026922881.0,Postril,Y,Ujif Notfound,Postulate,Y,291.0,title_sim=1.00,0.9,same recording
+267,Kyiv techno/rave (Ukrainian artists only),D.Dan,Take It Easy,itunes_artist,not checked,catalog,859965232.0,Take It Easy,Y,D.Dan,Mutant Future,Y,339.0,title_sim=1.00,0.6,same recording
+268,Kyiv techno/rave (Ukrainian artists only),Julia Govor,Cold Shadow of Jupiter,itunes_artist,not checked,catalog,2623710162.0,Cold Shadow of Jupiter,Y,Julia Govor,Laika and Ulka Were Here,Y,263.0,title_sim=1.00,0.1,same recording
+269,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Vidlunnia,itunes_artist,not checked,catalog,2088929547.0,Vidlunnia,Y,Poly Chain,Fairy Disco,Y,220.0,title_sim=1.00,0.0,same recording
+270,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Goodbye Medellin,itunes_artist,not checked,catalog,2775308751.0,Goodbye Medellin,Y,Stanislav Tolkachev,NECH024,Y,390.0,title_sim=1.00,0.4,same recording
+271,Kyiv techno/rave (Ukrainian artists only),Tofudj,P_seshion,itunes_artist,not checked,catalog,3922722041.0,P_seshion,Y,Tofudj,care,Y,272.0,title_sim=1.00,0.0,same recording
+272,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,In Trio,itunes_artist,not checked,catalog,4037065711.0,In Trio,Y,Ujif Notfound,Hypogonadism,Y,249.0,title_sim=1.00,0.2,same recording
+273,Kyiv techno/rave (Ukrainian artists only),D.Dan,Burnout,itunes_artist,not checked,catalog,859965212.0,Burnout,Y,D.Dan,Mutant Future,Y,260.0,title_sim=1.00,0.3,same recording
+274,Kyiv techno/rave (Ukrainian artists only),Julia Govor,Laika Was Here,itunes_artist,not checked,catalog,2623710152.0,Laika Was Here,Y,Julia Govor,Laika and Ulka Were Here,Y,288.0,title_sim=1.00,0.0,same recording
+275,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Peanut Butter,itunes_artist,not checked,catalog,390641071.0,Peanut Butter,Y,Poly Chain,Music For Candy Shops,Y,354.0,title_sim=1.00,0.1,same recording
+276,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Ball Of Fire,itunes_artist,not checked,catalog,797729792.0,Ball Of Fire,Y,Stanislav Tolkachev,It Will Be Too Late Then,Y,144.0,title_sim=1.00,0.0,same recording
+277,Kyiv techno/rave (Ukrainian artists only),Tofudj,Rework,itunes_artist,not checked,catalog,3922722071.0,Rework,Y,Tofudj,care,Y,98.0,title_sim=1.00,0.0,same recording
+278,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,+1.3,itunes_artist,not checked,catalog,4037065781.0,+1.3,Y,Ujif Notfound,Hypogonadism,Y,304.0,title_sim=1.00,0.8,same recording
+279,Kyiv techno/rave (Ukrainian artists only),D.Dan,Hide and Seek,itunes_artist,not checked,catalog,2705604712.0,Hide and Seek,Y,D.Dan,sequence.01,Y,347.0,title_sim=1.00,0.5,same recording
+280,Kyiv techno/rave (Ukrainian artists only),Julia Govor,Research Not Over,itunes_artist,not checked,catalog,2504212521.0,Research Not Over,Y,Julia Govor,You Are The Machine EP,Y,396.0,title_sim=1.00,0.2,same recording
+281,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Mad Bee,itunes_artist,not checked,catalog,2088929507.0,Mad Bee,Y,Poly Chain,Fairy Disco,Y,301.0,title_sim=1.00,0.7,same recording
+282,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,These Are Not Butterflies,itunes_artist,not checked,catalog,2622062702.0,These Are Not Butterflies,Y,Stanislav Tolkachev,Vira,Y,259.0,title_sim=1.00,0.7,same recording
+283,Kyiv techno/rave (Ukrainian artists only),Tofudj,Never Forget,itunes_artist,not checked,album_search,2891506132.0,Never Forget,Y,Tofudj,◇ (Uncertainty) FUTURE,Y,260.0,album=◇ (Uncertainty) FUTURE,0.6,same recording
+284,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,Promova,itunes_artist,not checked,catalog,4026922901.0,Promova,Y,Ujif Notfound,Postulate,Y,331.0,title_sim=1.00,0.5,same recording
+285,Kyiv techno/rave (Ukrainian artists only),D.Dan,Shred,itunes_artist,not checked,catalog,2705604732.0,Shred,Y,D.Dan,sequence.01,Y,290.0,title_sim=1.00,0.9,same recording
+286,Kyiv techno/rave (Ukrainian artists only),Julia Govor,You Are the Machine,itunes_artist,not checked,catalog,2504212511.0,You Are The Machine,Y,Julia Govor,You Are The Machine EP,Y,370.0,title_sim=1.00,0.9,same recording
+287,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Mint Icecream,itunes_artist,not checked,catalog,390641081.0,Mint Icecream,Y,Poly Chain,Music For Candy Shops,Y,264.0,title_sim=1.00,0.2,same recording
+288,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Prononciation,itunes_artist,not checked,catalog,2775308781.0,Prononciation,Y,Stanislav Tolkachev,NECH024,Y,313.0,title_sim=1.00,0.1,same recording
+289,Kyiv techno/rave (Ukrainian artists only),Tofudj,Take 6,itunes_artist,not checked,catalog,3908162491.0,Take 6,Y,Tofudj,Take,Y,185.0,title_sim=1.00,0.1,same recording
+290,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,Coda Shturm,itunes_artist,not checked,catalog,4026922921.0,Coda Shturm,Y,Ujif Notfound,Postulate,Y,77.0,title_sim=1.00,0.5,same recording
+291,Kyiv techno/rave (Ukrainian artists only),D.Dan,Suspicious Frozen Products,itunes_artist,not checked,catalog,560442822.0,Suspicious Frozen Products,Y,D.Dan,Covert Operation,Y,366.0,title_sim=1.00,1.0,same recording
+292,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Hate Club Convention,itunes_artist,not checked,catalog,2088929527.0,Hate Club Convention,Y,Poly Chain,Fairy Disco,Y,382.0,title_sim=1.00,0.0,same recording
+293,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Misfire,itunes_artist,not checked,catalog,138059967.0,Misfire,Y,Stanislav Tolkachev,When you are not at home,Y,202.0,title_sim=1.00,0.1,same recording
+294,Kyiv techno/rave (Ukrainian artists only),Tofudj,Day After Night,itunes_artist,not checked,album_search,2276761437.0,Day After Night,Y,Tofudj,KYUB: this war,Y,299.0,album=KYUB: this war,0.3,same recording
+295,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,Kordon,itunes_artist,not checked,catalog,4026922911.0,Kordon,Y,Ujif Notfound,Postulate,Y,317.0,title_sim=1.00,0.4,same recording
+296,Kyiv techno/rave (Ukrainian artists only),D.Dan,The Danger Zone,itunes_artist,not checked,catalog,466221302.0,The Danger Zone,Y,D.Dan,The Danger Zone,Y,376.0,title_sim=1.00,0.2,same recording
+297,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Wind Map,itunes_artist,not checked,catalog,2088929517.0,Wind Map,Y,Poly Chain,Fairy Disco,Y,361.0,title_sim=1.00,0.7,same recording
+298,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Eternal Dawn,itunes_artist,not checked,catalog,434309432.0,Eternal Dawn,Y,Stanislav Tolkachev,There Is Almost No God EP,Y,186.0,title_sim=1.00,0.5,same recording
+299,Kyiv techno/rave (Ukrainian artists only),Tofudj,Nord Plus,itunes_artist,not checked,catalog,3922722111.0,Nord Plus,Y,Tofudj,care,Y,174.0,title_sim=1.00,0.0,same recording
+300,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,Kashtone,itunes_artist,not checked,catalog,4026922941.0,Kashtone,Y,Ujif Notfound,Postulate,Y,207.0,title_sim=1.00,0.5,same recording
+301,Kyiv techno/rave (Ukrainian artists only),D.Dan,Organic Mechanism,itunes_artist,not checked,catalog,2705604722.0,Organic Mechanism,Y,D.Dan,sequence.01,Y,266.0,title_sim=1.00,0.9,same recording
+302,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Melted Marshmellow,itunes_artist,not checked,catalog,390641101.0,Melted Marshmellow,Y,Poly Chain,Music For Candy Shops,Y,322.0,title_sim=1.00,0.2,same recording
+303,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,OK U Can Mix This One,itunes_artist,not checked,catalog,797729802.0,OK U Can Mix This One,Y,Stanislav Tolkachev,It Will Be Too Late Then,Y,263.0,title_sim=1.00,0.5,same recording
+304,Kyiv techno/rave (Ukrainian artists only),Tofudj,Vechirniy Kyiv,itunes_artist,not checked,not found,,,,,,,,,,
+305,Kyiv techno/rave (Ukrainian artists only),Ujif Notfound,Coda Misto,itunes_artist,not checked,catalog,4026922971.0,Coda Misto,Y,Ujif Notfound,Postulate,Y,160.0,title_sim=1.00,0.0,same recording
+306,Kyiv techno/rave (Ukrainian artists only),D.Dan,D.Core,itunes_artist,not checked,catalog,1578324062.0,D.Core,Y,D.Dan,summerpup,Y,318.0,title_sim=1.00,0.6,same recording
+307,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Hazelntu,itunes_artist,not checked,catalog,390641091.0,Hazelntu,Y,Poly Chain,Music For Candy Shops,Y,520.0,title_sim=1.00,0.1,same recording
+308,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,The Plant That Heals,itunes_artist,not checked,catalog,1012894252.0,The Plant That Heals,Y,Stanislav Tolkachev,Unity,Y,179.0,title_sim=1.00,0.6,same recording
+309,Kyiv techno/rave (Ukrainian artists only),D.Dan,Covert Operation,itunes_artist,not checked,catalog,560442802.0,Covert Operation,Y,D.Dan,Covert Operation,Y,351.0,title_sim=1.00,1.0,same recording
+310,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Blueberry,itunes_artist,not checked,catalog,390641111.0,Blueberry,Y,Poly Chain,Music For Candy Shops,Y,428.0,title_sim=1.00,0.1,same recording
+311,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,The Saddest Music in the World,itunes_artist,not checked,catalog,2622062742.0,The Saddest Music in the World,Y,Stanislav Tolkachev,Vira,Y,400.0,title_sim=1.00,0.9,same recording
+312,Kyiv techno/rave (Ukrainian artists only),D.Dan,Pins and Needles,itunes_artist,not checked,catalog,2705604742.0,Pins and Needles,Y,D.Dan,sequence.01,Y,329.0,title_sim=1.00,0.0,same recording
+313,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Related Questions (feat. Stanislav Tolkachev),itunes_artist,not checked,catalog,3259878401.0,Related Questions,Y,Poly Chain,Aswang,Y,799.0,title_sim=1.00,0.1,same recording
+314,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Bring,itunes_artist,not checked,catalog,138060019.0,Bring,Y,Stanislav Tolkachev,When you are not at home,Y,212.0,title_sim=1.00,0.5,same recording
+315,Kyiv techno/rave (Ukrainian artists only),D.Dan,Surfacing,itunes_artist,not checked,catalog,3547768811.0,Surfacing,Y,D.Dan,Vaults,Y,332.0,title_sim=1.00,0.6,same recording
+316,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Turbulent,itunes_artist,not checked,not found,,,,,,,,,,
+317,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Delayed Gratification,itunes_artist,not checked,catalog,999409492.0,Delayed Gratification,Y,Stanislav Tolkachev,There Is No Cure,Y,403.0,title_sim=1.00,0.7,same recording
+318,Kyiv techno/rave (Ukrainian artists only),D.Dan,Hadal,itunes_artist,not checked,search,2593547632.0,Hadal,Y,D.Dan,"The Collective Capsule, Vol. 2",Y,374.0,q=D.Dan Hadal,0.1,same recording
+319,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Aswang I,itunes_artist,not checked,catalog,3259878411.0,Aswang I,Y,Poly Chain,Aswang,Y,378.0,title_sim=1.00,0.4,same recording
+320,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,I'm Not a Number,itunes_artist,not checked,catalog,72128151.0,I'm Not a Number,Y,Stanislav Tolkachev,Five,Y,360.0,title_sim=1.00,0.0,same recording
+321,Kyiv techno/rave (Ukrainian artists only),D.Dan,Danarchy in the UK,itunes_artist,not checked,catalog,466221312.0,Danarchy In The UK,Y,D.Dan,The Danger Zone,Y,596.0,title_sim=1.00,0.3,same recording
+322,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Ice 4's,itunes_artist,not checked,album_search,1096790042.0,Ice 4's,Y,Poly Chain,Ransom Note Presents Pen Pals Vol. 2,Y,262.0,album=Ransom Note Presents Pen Pals Vol. 2,0.9,same recording
+323,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Double Damage,itunes_artist,not checked,catalog,797729822.0,Double Damage,Y,Stanislav Tolkachev,It Will Be Too Late Then,Y,317.0,title_sim=1.00,0.5,same recording
+324,Kyiv techno/rave (Ukrainian artists only),D.Dan,Vaults,itunes_artist,not checked,catalog,3547768831.0,Vaults,Y,D.Dan,Vaults,Y,287.0,title_sim=1.00,0.9,same recording
+325,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Powder Room Gossip,itunes_artist,not checked,album_search,2601929982.0,Powder Room Gossip,Y,Poly Chain,KEYI MAGAZINE (Sonic Reflections: A Charity Compilation),Y,396.0,album=KEYI MAGAZINE (Sonic Reflections: A Charity Compilation),0.0,same recording
+326,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Two Treats Right Now,itunes_artist,not checked,catalog,999409472.0,Two Treats Right Now,Y,Stanislav Tolkachev,There Is No Cure,Y,207.0,title_sim=1.00,0.8,same recording
+327,Kyiv techno/rave (Ukrainian artists only),D.Dan,Damager,itunes_artist,not checked,catalog,3547768821.0,Damager,Y,D.Dan,Vaults,Y,312.0,title_sim=1.00,0.0,same recording
+328,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Can't,itunes_artist,not checked,catalog,2307019395.0,Can't,Y,Poly Chain,RELAX,Y,298.0,title_sim=1.00,0.1,same recording
+329,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,There Is No Cure,itunes_artist,not checked,catalog,999409502.0,There Is No Cure,Y,Stanislav Tolkachev,There Is No Cure,Y,336.0,title_sim=1.00,0.2,same recording
+330,Kyiv techno/rave (Ukrainian artists only),D.Dan,Dan's Dilemma,itunes_artist,not checked,catalog,466072892.0,Dan's Dilemma,Y,D.Dan,Dan's Dilemma,Y,321.0,title_sim=1.00,0.3,same recording
+331,Kyiv techno/rave (Ukrainian artists only),Poly Chain,You,itunes_artist,not checked,catalog,2307019385.0,You,Y,Poly Chain,RELAX,Y,277.0,title_sim=1.00,0.5,same recording
+332,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,And Then She Fell,itunes_artist,not checked,catalog,138060009.0,And then she fell,Y,Stanislav Tolkachev,When you are not at home,Y,277.0,title_sim=1.00,0.2,same recording
+333,Kyiv techno/rave (Ukrainian artists only),D.Dan,Bound,itunes_artist,not checked,search,4195653642.0,Bound,Y,D.Dan,Curation Two: D.Dan,Y,359.0,q=D.Dan Bound,0.3,same recording
+334,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Aswang II,itunes_artist,not checked,catalog,3259878421.0,Aswang II,Y,Poly Chain,Aswang,Y,412.0,title_sim=1.00,0.2,same recording
+335,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Draw Me A Seal,itunes_artist,not checked,catalog,797729812.0,Draw Me A Seal,Y,Stanislav Tolkachev,It Will Be Too Late Then,Y,242.0,title_sim=1.00,0.5,same recording
+336,Kyiv techno/rave (Ukrainian artists only),D.Dan,Contamination,itunes_artist,not checked,catalog,3547768791.0,Contamination,Y,D.Dan,Vaults,Y,192.0,title_sim=1.00,0.1,same recording
+337,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Enhanced Comfort,itunes_artist,not checked,catalog,3340618801.0,Enhanced Comfort (Original),N,Poly Chain,Nemesis,Y,272.0,title_sim=1.00,0.0,same recording
+338,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Curly,itunes_artist,not checked,catalog,797729862.0,Curly,Y,Stanislav Tolkachev,It Will Be Too Late Then,Y,250.0,title_sim=1.00,0.0,same recording
+339,Kyiv techno/rave (Ukrainian artists only),D.Dan,The Danpire Strikes Back,itunes_artist,not checked,catalog,466221322.0,The Danpire Strikes Back,Y,D.Dan,The Danger Zone,Y,268.0,title_sim=1.00,0.8,same recording
+340,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Have,itunes_artist,not checked,catalog,2307019405.0,Have,Y,Poly Chain,RELAX,Y,285.0,title_sim=1.00,0.2,same recording
+341,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,The Fridge 2,itunes_artist,not checked,catalog,496259102.0,The Fridge 2,Y,Stanislav Tolkachev,The Fridge,Y,273.0,title_sim=1.00,0.8,same recording
+342,Kyiv techno/rave (Ukrainian artists only),D.Dan,Quarantine,itunes_artist,not checked,catalog,3547768841.0,Quarantine,Y,D.Dan,Vaults,Y,249.0,title_sim=1.00,0.1,same recording
+343,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Salt,itunes_artist,not checked,catalog,3340618811.0,Salt (Original),N,Poly Chain,Nemesis,Y,300.0,title_sim=1.00,0.0,same recording
+344,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Idiom,itunes_artist,not checked,catalog,138060047.0,Idiom,Y,Stanislav Tolkachev,When you are not at home,Y,432.0,title_sim=1.00,0.2,same recording
+345,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Sunflower,itunes_artist,not checked,catalog,3340618821.0,Sunflower (Original),N,Poly Chain,Nemesis,Y,235.0,title_sim=1.00,0.0,same recording
+346,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,It Wasn't All in Vain,itunes_artist,not checked,catalog,2622062722.0,It Wasn't All in Vain,Y,Stanislav Tolkachev,Vira,Y,251.0,title_sim=1.00,0.9,same recording
+347,Kyiv techno/rave (Ukrainian artists only),Poly Chain,What You Truly Desire,itunes_artist,not checked,catalog,2307019415.0,What You Truly Desire,Y,Poly Chain,RELAX,Y,285.0,title_sim=1.00,0.6,same recording
+348,Kyiv techno/rave (Ukrainian artists only),Stanislav Tolkachev,Landowner,itunes_artist,not checked,catalog,434309442.0,Landowner,Y,Stanislav Tolkachev,There Is Almost No God EP,Y,293.0,title_sim=1.00,0.8,same recording
+349,Kyiv techno/rave (Ukrainian artists only),Poly Chain,Elisiv,itunes_artist,not checked,catalog,3340618831.0,Elisiv (Original),N,Poly Chain,Nemesis,Y,298.0,title_sim=1.00,0.5,same recording
+356,Amapiano (control),Ceeka RSA,Jealousy,stage1:A05,not matched on Deezer,isrc,2773805271.0,Jealousy (Mixed),N,Khalil Harrison,Piano Heat 5 (DJ Mix),N,299.0,USA2P2423828; title_sim=1.00,0.9,same recording
+370,Amapiano (control),Gaba Cannal,Umhlaba Wonke,stage1:A06,not matched on Deezer,not found,,,,,,,,,,
+373,Amapiano (control),KMAT,MKK [Mkhukhu],stage1:A07,not matched on Deezer,catalog,2949487261.0,MKK (Radio Edit),N,Kmat,"MKK (feat. CowBoii, djygubzin.live & Ranger)[Radio Edit]",Y,150.0,title_sim=1.00,215.2,other version
+399,Amapiano (control),Scorpion Kings,Suka,stage1:A06,not matched on Deezer,not found,,,,,,,,,,
+401,Amapiano (control),Semi Tee,Labantwana Ama Uber,stage1:A03,not matched on Deezer,not found,,,,,,,,,,
+445,Amapiano (control),Mas Musiq,Amalanga Awafani,stage1:A07,not matched on Deezer,catalog,2979347891.0,"Amalanga (feat. TO Starquality, Chley & Kabza De Small)",N,Mas Musiq,Lane Yam,Y,385.0,title_sim=0.90,0.7,same recording
+446,Amapiano (control),Megadrumz,Umjolo (feat. Mazet SA),itunes_artist,not checked,catalog,2462129055.0,Umjolo (feat. Mazet SA),Y,Megadrumz,For Your Soul (Extended Edition),Y,368.0,title_sim=1.00,0.6,same recording
+460,Amapiano (control),Semi Tee,Gabadiya,stage1:A06,not matched on Deezer,not found,,,,,,,,,,
+462,Amapiano (control),Sha Sha,Going In,stage1:A06,not matched on Deezer,not found,,,,,,,,,,
+476,Amapiano (control),2Point1,African King (feat. Stormrise),itunes_artist,not checked,catalog,1860475557.0,African King (feat. StormRise),Y,2Point1,Tsa Ko Kasi Vol.1,Y,379.0,title_sim=1.00,0.4,same recording
+489,Amapiano (control),DJ Tshegu,Mzokwana (feat. Sims Noreng),itunes_artist,not checked,catalog,2456112895.0,Mzokwana (feat. Sims Noreng),Y,Dj Tshegu,Mzokwana (feat. Sims Noreng),Y,293.0,title_sim=1.00,0.1,same recording
+503,Amapiano (control),Megadrumz,Exe Bafethu (feat. Zanda Zakuza),itunes_artist,not checked,catalog,2462129115.0,Exe Bafethu (feat. Zanda Zakuza),Y,Megadrumz,For Your Soul (Extended Edition),Y,317.0,title_sim=1.00,0.2,same recording
+508,Amapiano (control),Oscar Mbo,Fallin,itunes_artist,not checked,catalog,2262376937.0,Fallin (Reprise),N,Oscar Mbo,Mashed-Up Remixes,Y,393.0,title_sim=1.00,0.9,same recording
+521,Amapiano (control),TNK MusiQ,Saka,itunes_artist,not checked,catalog,2448593745.0,Saka,Y,TNK MusiQ,Le Premier Chapitre,Y,385.0,title_sim=1.00,0.8,same recording
+528,Amapiano (control),2Point1,Jwaleng Mo (feat. Deekay),itunes_artist,not checked,catalog,1860475477.0,Jwaleng Mo (feat. Deekay),Y,2Point1,Tsa Ko Kasi Vol.1,Y,391.0,title_sim=1.00,0.3,same recording
+529,Amapiano (control),2wobunnies,Thandolwethu (feat. Yumbs and Baby S.O.N),itunes_artist,not checked,catalog,2672637092.0,Thandolwethu (feat. Yumbs and Baby S.O.N),Y,2woBunnies,Thandolwethu (feat. Yumbs and Baby S.O.N),Y,415.0,title_sim=1.00,0.8,same recording
+535,Amapiano (control),Ch'cco,"Funk 100 (feat. Pabi Cooper, M.J, Djy Biza & Yumbs)",itunes_artist,not checked,not found,,,,,,,,,,
+537,Amapiano (control),Cyfred,Private Piano,itunes_artist,not checked,catalog,803121932.0,Private Piano,Y,Cyfred,45 Degrees Piano,Y,309.0,title_sim=1.00,0.4,same recording
+541,Amapiano (control),DJ Tshegu,Tiya Mfana (Mzokwana) [feat. Sims Noreng],itunes_artist,not checked,catalog,2521289451.0,Tiya Mfana (Mzokwana) [feat. Sims Noreng],Y,Dj Tshegu,Tiya Mfana (Mzokwana) [feat. Sims Noreng],Y,265.0,title_sim=1.00,0.2,same recording
+555,Amapiano (control),Megadrumz,Izinto Zami (feat. Babii),itunes_artist,not checked,catalog,2462129075.0,Izinto Zami (feat. Babii),Y,Megadrumz,For Your Soul (Extended Edition),Y,334.0,title_sim=1.00,0.3,same recording
+560,Amapiano (control),Oscar Mbo,Ulele,itunes_artist,not checked,catalog,2262376977.0,Ulele (Mashed-Up Remix),N,Oscar Mbo,Mashed-Up Remixes,Y,452.0,title_sim=1.00,14.8,other version
+572,Amapiano (control),TNK MusiQ,Weh Sweetie (feat. Scotts Maphuma),itunes_artist,not checked,catalog,3044829431.0,Weh Sweetie (feat. Scotts Maphuma),Y,TNK MusiQ,Ask & Receive 2,Y,390.0,title_sim=1.00,8.5,"same title, length differs"
+573,Amapiano (control),Tyler ICU,Ebasini Wav.files,stage1:A05,not matched on Deezer,catalog,2671671832.0,"Ebasini (feat. Tman Xpress, Visca, Ceeka RSA, Sjavasdadeejay & Al Xapo)",N,Tyler ICU,"Ebasini (feat. Tman Xpress, Visca, Ceeka RSA, Sjavasdadeejay & Al Xapo)",Y,407.0,title_sim=0.90,0.8,same recording
+578,Amapiano (control),uLazi,ULAZI Infinity MusiQ (yey),itunes_artist,not checked,not found,,,,,,,,"manual reject: Deezer 'ULAZI INFINITY MUSIQ (PAIN)' is another track, 114 s longer",,
+579,Amapiano (control),2Point1,Sekunjalo (feat. Minollar),itunes_artist,not checked,catalog,1860475527.0,Sekunjalo (feat. Minollar),Y,2Point1,Tsa Ko Kasi Vol.1,Y,355.0,title_sim=1.00,0.4,same recording
+580,Amapiano (control),2wobunnies,Busiswa (feat. Nevrr49 & PXB DJS),itunes_artist,not checked,catalog,3670190522.0,Busiswa (feat. Nevrr49 & PXB DJS),Y,2woBunnies,Rabbit Society Vol. 1,Y,319.0,title_sim=1.00,0.3,same recording
+583,Amapiano (control),Bassie,Thandumuntu (feat. Happy Jazzman),itunes_artist,not checked,catalog,2140178677.0,Thandumuntu,Y,Bassie,Thandumuntu,Y,328.0,title_sim=1.00,0.8,same recording
+586,Amapiano (control),Ch'cco,Banyana Ke Bafana (feat. LuuDadeejay and Nobantu Vilakazi),itunes_artist,not checked,catalog,1861728927.0,Banyana Ke Bafana (feat. LuuDadeejay and Nobantu Vilakazi),Y,Pabi Cooper,Banyana Ke Bafana (feat. LuuDadeejay and Nobantu Vilakazi),Y,274.0,title_sim=1.00,0.2,same recording
+588,Amapiano (control),Cyfred,Alostro Effect (feat. Mellow & Sleazy),itunes_artist,not checked,catalog,1225637342.0,Alostro Effect (feat. Mellow & Sleazy),Y,Cyfred,Alostro Effect (feat. Mellow & Sleazy),Y,326.0,title_sim=1.00,0.3,same recording
+592,Amapiano (control),DJ Tshegu,Basela (feat. Ceehle & Sims Noreng),itunes_artist,not checked,catalog,3483589061.0,Basela (feat. Ceehle & Sims Noreng),Y,Dj Tshegu,Basela (feat. Ceehle & Sims Noreng),Y,376.0,title_sim=1.00,0.7,same recording
+606,Amapiano (control),Megadrumz,Uyisiphephelo Sami (feat. Pholoso),itunes_artist,not checked,catalog,2462129125.0,Uyisiphephelo Sami (feat. Pholoso),Y,Megadrumz,For Your Soul (Extended Edition),Y,334.0,title_sim=1.00,0.4,same recording
+609,Amapiano (control),Murumba Pitch,Impi (feat. PHILA DLOZI),itunes_artist,not checked,catalog,3059925151.0,Impi,Y,Murumba Pitch,Impi,Y,365.0,title_sim=1.00,0.3,same recording
+611,Amapiano (control),Oscar Mbo,Asambeni,itunes_artist,not checked,catalog,2387490285.0,Asambeni,Y,Oscar Mbo,Asambeni (Remixes),Y,418.0,title_sim=1.00,0.5,same recording
+614,Amapiano (control),Pcee,Gabriella (feat. Officixl Rsa),itunes_artist,not checked,catalog,2581900412.0,Gabriella (feat. Officixl RSA),Y,Pcee,Mama,Y,383.0,title_sim=1.00,0.6,same recording
+619,Amapiano (control),Sha Sha,Sing It Back (feat. DJ Maphorisa & Kabza De Small),itunes_artist,not checked,catalog,767797922.0,Sing It Back (feat. DJ Maphorisa & Kabza De Small),Y,Sha Sha,Blossom - EP,Y,374.0,title_sim=1.00,1.0,same recording
+623,Amapiano (control),TNK MusiQ,MasterPiece (feat. Rivalz),itunes_artist,not checked,catalog,2244531447.0,MasterPiece (feat. RIVALZ),Y,TNK MusiQ,MasterPiece (feat. RIVALZ),Y,334.0,title_sim=1.00,0.2,same recording
+629,Amapiano (control),uLazi,"Ma Zaks (feat. Navaro, Mid9t & Nerrow DeMusica)",itunes_artist,not checked,catalog,3911243551.0,Ma Zaks,Y,uLazi,WETHU (Deluxe Edition),Y,390.0,title_sim=1.00,0.9,same recording
+630,Amapiano (control),2Point1,Moleko (feat. Lebo Molax & Butana),itunes_artist,not checked,catalog,1860475547.0,Moleko (feat. Butana and Lebo G Molax),Y,2Point1,Tsa Ko Kasi Vol.1,Y,307.0,title_sim=1.00,0.3,same recording
+631,Amapiano (control),2wobunnies,"Umthwalo Wam (feat. Sandza De Keys, Slade, DJ Target)",itunes_artist,not checked,catalog,2702344602.0,"Umthwalo Wam (feat. Sandza De Keys, Slade, DJ Target)",Y,2woBunnies,"Umthwalo Wam (feat. Sandza De Keys, Slade, DJ Target)",Y,395.0,title_sim=1.00,0.8,same recording
+633,Amapiano (control),Babalwa M,Amaphutha,itunes_artist,not checked,catalog,3627237382.0,Amaphutha,Y,Babalwa M,Acquiesce,Y,333.0,title_sim=1.00,0.7,same recording
+634,Amapiano (control),Bassie,"Mzali (feat. Tee Jay, Cheez Beezy & Le Sax)",itunes_artist,not checked,catalog,1973728317.0,Mzali,Y,Bassie,Mzali,Y,385.0,title_sim=1.00,0.8,same recording
+638,Amapiano (control),Cyfred,Get Down (feat. Sino Msolo & FakeLove),itunes_artist,not checked,catalog,1500859062.0,Get Down,Y,Cyfred,Chapter 1,Y,341.0,title_sim=1.00,0.1,same recording
+648,Amapiano (control),Kamo Mphela,Thula Thula (Edit),itunes_artist,not checked,catalog,1427201922.0,Thula Thula (Edit),Y,Kamo Mphela,Thula Thula (Edit),Y,245.0,title_sim=1.00,0.8,same recording
+654,Amapiano (control),Megadrumz,Forever (feat. Pholoso),itunes_artist,not checked,catalog,2462129085.0,Forever (feat. Pholoso),Y,Megadrumz,For Your Soul (Extended Edition),Y,303.0,title_sim=1.00,0.2,same recording
+657,Amapiano (control),Murumba Pitch,Imvula (feat. Russell Zuma & Sipho Magudulela),itunes_artist,not checked,catalog,1961049537.0,Imvula,Y,Murumba Pitch,Horumar,Y,385.0,title_sim=1.00,0.8,same recording
+659,Amapiano (control),Oscar Mbo,Grateful (feat. SGVO & Seko),itunes_artist,not checked,catalog,1130359222.0,Grateful (feat. SGVO & Seko),Y,Oscar Mbo,For The Groovists,Y,461.0,title_sim=1.00,0.5,same recording
+660,Amapiano (control),Oskido,Tsa Ma Ndebele Kids (feat. Candy Tsamandebele) [Main Edit],itunes_artist,not checked,catalog,3569979721.0,Tsa Ma Ndebele Kids (Remix),N,OSKIDO,Tsa Ma Ndebele (Remixes),Y,224.0,title_sim=1.00,1.6,same recording
+662,Amapiano (control),Pcee,Woza madala (feat. Toss & M.J),itunes_artist,not checked,catalog,2581900372.0,Woza madala (feat. Toss & M.J),Y,Pcee,Mama,Y,340.0,title_sim=1.00,0.5,same recording
+666,Amapiano (control),Sfarzo Rtee,Sgija88,itunes_artist,not checked,catalog,1879722557.0,Sgija88,Y,Sfarzo Rtee,House Of Sgija,Y,426.0,title_sim=1.00,0.3,same recording
+667,Amapiano (control),Sha Sha,Ndawana,itunes_artist,not checked,catalog,3496875021.0,Ndawana,Y,Sha Sha,Ndawana,Y,361.0,title_sim=1.00,0.2,same recording
+671,Amapiano (control),TNK MusiQ,Hayi Baleka (feat. Ricky Lenyora & Tman Xpress),itunes_artist,not checked,catalog,2448593735.0,Hayi Baleka (feat. Ricky Lenyora & Tman Xpress),Y,TNK MusiQ,Le Premier Chapitre,Y,402.0,title_sim=1.00,0.9,same recording
+677,Amapiano (control),uLazi,3 Man down,itunes_artist,not checked,catalog,2116835987.0,3 Man down,Y,uLazi,"Nobody Can Stop Mguzu, Vol. 1",Y,396.0,title_sim=1.00,0.5,same recording
+678,Amapiano (control),2Point1,"Batho Bana (feat. Butana, Phlyvocals and Berita M)",itunes_artist,not checked,catalog,1860475537.0,"Batho Bana (feat. Butana, Phlyvocals and Berita M)",Y,2Point1,Tsa Ko Kasi Vol.1,Y,348.0,title_sim=1.00,110.0,"same title, length differs"
+679,Amapiano (control),2wobunnies,Rekere Waffla (feat. DBN Gogo),itunes_artist,not checked,catalog,3670190542.0,Rekere Waffla (feat. DBN Gogo),Y,2woBunnies,Rabbit Society Vol. 1,Y,342.0,title_sim=1.00,0.5,same recording
+680,Amapiano (control),Aymos,Lyf Styl (feat. Mas Musiq),itunes_artist,not checked,catalog,1474822362.0,Lyf Styl,Y,Aymos,Yimi Lo,Y,381.0,title_sim=1.00,0.4,same recording
+681,Amapiano (control),Babalwa M,Feza,itunes_artist,not checked,catalog,3287850621.0,Feza,Y,Babalwa M,Bayeke,Y,509.0,title_sim=1.00,0.8,same recording
+682,Amapiano (control),Bassie,Ekhaya (feat. Axdy Beats AU & Nello Guitar),itunes_artist,not checked,catalog,4249738971.0,Ekhaya,Y,Bassie,Ekhaya,Y,348.0,title_sim=1.00,0.3,same recording
+686,Amapiano (control),Cyfred,"Saka Malume (feat. Tumelo_za, Sayfar)",itunes_artist,not checked,catalog,2723579602.0,"Saka Malume (feat. Tumelo_za, Sayfar)",Y,Cyfred,"Saka Malume (feat. Tumelo_za, Sayfar)",Y,328.0,title_sim=1.00,0.2,same recording
+696,Amapiano (control),Kamo Mphela,Percy Tau (feat. Nobantu Vilakazi and 9umba),itunes_artist,not checked,catalog,1858286167.0,Percy Tau (feat. Nobantu Vilakazi and 9umba),Y,Kamo Mphela,Nkulunkulu,Y,365.0,title_sim=1.00,0.4,same recording
+699,Amapiano (control),MFR Souls,Bathandwa (feat. Bassie),itunes_artist,not checked,catalog,1051557662.0,Bathandwa (feat. Bassie),Y,MFR Souls,Musical Kings,Y,375.0,title_sim=1.00,0.6,same recording
+707,Neoperreo,El Plvybxy,Saoko (Pogo Rework),stage1:N13,not matched on Deezer,not found,,,,,,,,,,
+710,Neoperreo,Jace Kimura,Morena,stage1:N05,not matched on Deezer,catalog,1432941522.0,Morena,Y,Jace Kimura,Morena,Y,180.0,title_sim=1.00,,same recording
+711,Neoperreo,Jamez Manuel,Coke & Pastillas,stage1:N13,not matched on Deezer,catalog,3395197601.0,Coke y Pastillas,N,Jamez Manuel,Nunca Dudes,Y,166.0,title_sim=0.93,,unverified (no length)
+712,Neoperreo,Kelman Duran,Matar,stage1:N13,not matched on Deezer,not found,,,,,,,,,,
+713,Neoperreo,Khaled,Con Mis Niñas,stage1:N14,not matched on Deezer,not found,,,,,,,,,,
+716,Neoperreo,La Goony Chonga,Pegate,stage1:N06,not matched on Deezer,not found,,,,,,,,,,
+719,Neoperreo,MC Buzz,Bota (King Doudou Afro Mix),stage1:N14,not matched on Deezer,catalog,2817337292.0,Bota Bota,N,Chris Lorenzo,Bota Bota,Y,193.0,title_sim=0.90,0.1,same recording
+722,Neoperreo,Rosa Perreo,Cabrona Virus,stage1:N15,not matched on Deezer,not found,,,,,,,,,,
+728,Neoperreo,TECH GRL,Ella Fuma,stage1:N13,not matched on Deezer,not found,,,,,,,,,,
+732,Neoperreo,Ynfynyt Scroll,Blow The Whistle X Lento,stage1:N13,not matched on Deezer,not found,,,,,,,,,,
+733,Neoperreo,Yung Beef,Baby Hell,stage1:N14,not matched on Deezer,not found,,,,,,,,,,
+741,Neoperreo,DJ Sustancia,Sucio Y Duro,stage1:N14,not matched on Deezer,album_search,1264307322.0,Sucio y Duro (Demo),N,DJ Sustancia,Promesses Vol. 1,Y,186.0,album=Promesses Vol. 1,0.0,same recording
+746,Neoperreo,Kelman Duran,Raisa,stage1:N13,not matched on Deezer,not found,,,,,,,,,,
+749,Neoperreo,La Goony Chonga,Duro 2005,stage1:N11,not matched on Deezer,not found,,,,,,,,,,
+754,Neoperreo,Rosa Pistola,Tributo a La Mulata,stage1:N07,not matched on Deezer,not found,,,,,,,,,,
+759,Neoperreo,TECH GRL,Ni Como,stage1:N13,not matched on Deezer,not found,,,,,,,,,,
+763,Neoperreo,Ynfynyt Scroll,Pónteme,stage1:N13,not matched on Deezer,not found,,,,,,,,,,
+776,Neoperreo,Kelman Duran,Rihanna X William Basinki II,stage1:N14,not matched on Deezer,not found,,,,,,,,,,
+790,Neoperreo,Ynfynyt Scroll,Run Away Conmigo,stage1:N16,not matched on Deezer,not found,,,,,,,,,,
+801,Neoperreo,Florentino,Tu Mirada,stage1:N05,not matched on Deezer,not found,,,,,,,,,,
+804,Neoperreo,King Doudou,Amor,stage1:N13,not matched on Deezer,not found,,,,,,,,,,
+817,Neoperreo,Ynfynyt Scroll,Donde Estas Ahora,stage1:N16,not matched on Deezer,not found,,,,,,,,,,
+819,Neoperreo,lila sky,Sexo en exceso,stage1:N01,not matched on Deezer,catalog,2575512332.0,Sexo en exceso,Y,lila sky,Candyxx world of luv,Y,169.0,title_sim=1.00,0.5,same recording
+827,Neoperreo,Florentino,Vacio,stage1:N16,not matched on Deezer,not found,,,,,,,,,,
+836,Neoperreo,Paul Marmota,lloradera,stage1:N12,not matched on Deezer,not found,,,,,,,,,,
+856,Neoperreo,La Goony Chonga,Vicio,itunes_artist,not checked,album_search,3728475282.0,Vicio,Y,La Goony,Dimen5ión,Y,190.0,album=Dimen5ión,0.3,same recording
+878,Neoperreo,La Goony Chonga,Traviesa,itunes_artist,not checked,album_search,3728475172.0,Traviesa,Y,La Goony,Dimen5ión,Y,151.0,album=Dimen5ión,0.1,same recording
+892,Neoperreo,Chico Sonido,Chupa (feat. Happy Colors & Miss Nina),itunes_artist,not checked,catalog,454982982.0,Chupa (feat. Happy Colors & Miss Nina),Y,Chico Sonido,Insomniac Records Presents: EDC Mexico 2018,Y,181.0,title_sim=1.00,0.9,same recording
+893,Neoperreo,DJ Sustancia,Conejita :3,itunes_artist,not checked,not found,,,,,,,,,,
+899,Neoperreo,La Favi,Sana Sana,itunes_artist,not checked,catalog,1818859837.0,Sana Sana,Y,Dinamarca,Is It Real,Y,186.0,title_sim=1.00,0.7,same recording
+903,Neoperreo,Paul Marmota,No Más (feat. Foudeqush),itunes_artist,not checked,catalog,2421000515.0,No Más,Y,Paul Marmota,ZONA III,Y,171.0,title_sim=1.00,5.1,"same title, length differs"
+905,Neoperreo,Sassyggirl,Dale,itunes_artist,not checked,not found,,,,,,,,,,
+908,Neoperreo,cherry chola,Intoxicame,itunes_artist,not checked,catalog,2993233121.0,Intoxicame,Y,cherry chola,Bimbo Esoterica,Y,200.0,title_sim=1.00,0.5,same recording
+913,Neoperreo,Chico Sonido,Tamos Redy (feat. Tomasa del Real),itunes_artist,not checked,catalog,4042157691.0,Tamos Redy,Y,Chico Sonido,Club Redy,Y,195.0,title_sim=1.00,0.2,same recording
+919,Neoperreo,La Favi,No Contestaste,itunes_artist,not checked,catalog,1818859847.0,No Contestaste,Y,Dinamarca,Is It Real,Y,155.0,title_sim=1.00,0.1,same recording
+923,Neoperreo,Paul Marmota,Aire,itunes_artist,not checked,catalog,2253413497.0,Aire,Y,Paul Marmota,Aire,Y,169.0,title_sim=1.00,0.0,same recording
+925,Neoperreo,Sassyggirl,Pégate a mí,itunes_artist,not checked,not found,,,,,,,,,,
+928,Neoperreo,cherry chola,Fantasy Perreo,itunes_artist,not checked,catalog,2993233101.0,Fantasy Perreo,Y,cherry chola,Bimbo Esoterica,Y,245.0,title_sim=1.00,0.2,same recording
+932,Neoperreo,Bellakath,Cumbiatronik,itunes_artist,not checked,catalog,4290891892.0,Cumbiatronik,Y,Bellakath,Cumbiatronik,Y,190.0,title_sim=1.00,0.9,same recording
+933,Neoperreo,Chico Sonido,Kiere Kolombia,itunes_artist,not checked,catalog,4042183711.0,Kiere Kolombia (Dj Rankng Remix),N,Chico Sonido,Mundo Unity (Remixxxed),Y,264.0,title_sim=1.00,83.3,other version
+939,Neoperreo,La Favi,Te Buscé,itunes_artist,not checked,catalog,1818859887.0,Te Buscé,Y,Dinamarca,Is It Real,Y,126.0,title_sim=1.00,0.0,same recording
+943,Neoperreo,Paul Marmota,Hum,itunes_artist,not checked,catalog,411173492.0,Hum,Y,Paul Marmota,Adaptacion,Y,288.0,title_sim=1.00,0.0,same recording
+945,Neoperreo,Sassyggirl,Multifasetika,itunes_artist,not checked,catalog,4312456002.0,Multifasetika (Sped Up),N,Sassyggirl,Multifasetika,Y,129.0,title_sim=1.00,14.0,other version
+948,Neoperreo,cherry chola,Chupeta,itunes_artist,not checked,catalog,3868631091.0,Chupeta (Chula Mix),N,cherry chola,Bimbo Esoterica Deluxe,Y,204.0,title_sim=1.00,67.6,other version
+949,Neoperreo,lila sky,dreamy muñequita,itunes_artist,not checked,catalog,3933483821.0,dreamy muñequita,Y,lila sky,dreamy muñequita,Y,194.0,title_sim=1.00,0.2,same recording
+952,Neoperreo,Bellakath,Fabulosa de Paris (Deluxe),itunes_artist,not checked,catalog,4290877732.0,Fabulosa de Paris (Deluxe),Y,Bellakath,Fabulosa de Paris (Deluxe),Y,173.0,title_sim=1.00,0.4,same recording
+953,Neoperreo,Chico Sonido,Atraccion Fatal (Instrumental),itunes_artist,not checked,catalog,4042157721.0,Atraccion Fatal,N,Chico Sonido,Club Redy,Y,191.0,title_sim=1.00,3.3,other version
+955,Neoperreo,Florentino,2 Late (Dont Call),itunes_artist,not checked,catalog,995798812.0,2 Late (Dont Call),Y,Florentino,Fragmentos,Y,222.0,title_sim=1.00,0.9,same recording
+959,Neoperreo,La Favi,By My Side,itunes_artist,not checked,catalog,1818859857.0,By My Side,Y,Dinamarca,Is It Real,Y,118.0,title_sim=1.00,0.2,same recording
+961,Neoperreo,Lizz,INFIERNO REGGAETON,itunes_artist,not checked,catalog,1850107007.0,INFIERNO REGGAETON,Y,Lizz,NALGOTHIC,Y,133.0,title_sim=1.00,0.4,same recording
+963,Neoperreo,Paul Marmota,Gostosa (feat. Mc Buseta),itunes_artist,not checked,catalog,710694132.0,Gostosa,Y,Paul Marmota,Zona,Y,181.0,title_sim=1.00,0.9,same recording
+967,Neoperreo,cherry chola,<3 s o l i t a <3,itunes_artist,not checked,catalog,3993580121.0,<3 s o l i t a <3,Y,cherry chola,✿★⁂,Y,144.0,title_sim=1.00,0.0,same recording
+970,Neoperreo,Bellakath,SIKITTY,itunes_artist,not checked,catalog,4290782452.0,SIKITTY,Y,Bellakath,ROMANTIKEO.COM,Y,134.0,title_sim=1.00,0.9,same recording
+971,Neoperreo,Chico Sonido,Mega Mix 100,itunes_artist,not checked,catalog,4042155661.0,Mega Mix 100,Y,Chico Sonido,Mundo Unity,Y,189.0,title_sim=1.00,0.6,same recording
+973,Neoperreo,Florentino,Pressure Funk (feat. Shygirl),itunes_artist,not checked,catalog,2989670611.0,Pressure Funk,Y,Florentino,Pressure Funk,Y,215.0,title_sim=1.00,0.5,same recording
+977,Neoperreo,La Favi,Get Lost,itunes_artist,not checked,catalog,1818859867.0,Get Lost,Y,Dinamarca,Is It Real,Y,113.0,title_sim=1.00,0.5,same recording
+979,Neoperreo,Lizz,DALE ARCA DALE (DON OMAR REMIX),itunes_artist,not checked,catalog,1850107027.0,DALE ARCA DALE (DON OMAR REMIX),Y,Lizz,NALGOTHIC,Y,126.0,title_sim=1.00,0.8,same recording
+981,Neoperreo,Paul Marmota,Vamo a Gastar (feat. Mc Buseta),itunes_artist,not checked,catalog,710694212.0,Vamo a Gastar,Y,Paul Marmota,Zona,Y,183.0,title_sim=1.00,0.9,same recording
+985,Neoperreo,cherry chola,Cristalina,itunes_artist,not checked,catalog,4319010652.0,Cristalina,Y,cherry chola,El Cuarto Rosa,Y,173.0,title_sim=1.00,0.6,same recording
+988,Neoperreo,Bellakath,MAMI CHAKALOSA,itunes_artist,not checked,catalog,4290788742.0,MAMI CHAKALOSA,Y,Bellakath,LA REINA DEL REGGAETON MEXICANO: TOMO I: La chica de las poesías,Y,136.0,title_sim=1.00,0.8,same recording
+989,Neoperreo,Chico Sonido,Born Latina,itunes_artist,not checked,catalog,4042155671.0,Born Latina,Y,Chico Sonido,Mundo Unity,Y,173.0,title_sim=1.00,0.2,same recording
+991,Neoperreo,Florentino,Sicaria (feat. DJ Python),itunes_artist,not checked,catalog,2475593701.0,Sicaria,Y,Florentino,Kilometro Quinze,Y,279.0,title_sim=1.00,0.0,same recording
+995,Neoperreo,La Favi,Sticky,itunes_artist,not checked,catalog,3403559921.0,Sticky,Y,La Favi,Adicta,Y,158.0,title_sim=1.00,0.2,same recording
+997,Neoperreo,Lizz,A SUDAR (IVY QUEEN REMIX),itunes_artist,not checked,catalog,1850107047.0,A SUDAR (IVY QUEEN REMIX),Y,Lizz,NALGOTHIC,Y,176.0,title_sim=1.00,0.1,same recording
+999,Neoperreo,Paul Marmota,Poquito (feat. Tomasa del Real & L.A.O.),itunes_artist,not checked,catalog,710694142.0,Poquito,Y,Paul Marmota,Zona,Y,180.0,title_sim=1.00,0.8,same recording
+1003,Neoperreo,cherry chola,Nintendo,itunes_artist,not checked,catalog,2993233141.0,Nintendo,Y,cherry chola,Bimbo Esoterica,Y,245.0,title_sim=1.00,0.1,same recording
+1006,Neoperreo,Bellakath,Sonido Bellako,itunes_artist,not checked,catalog,4290850432.0,Sonido Bellako,Y,Bellakath,Sonido Bellako,Y,194.0,title_sim=1.00,0.9,same recording
+1007,Neoperreo,Chico Sonido,Todas Las Perritas,itunes_artist,not checked,catalog,4042157781.0,Todas Las Perritas,Y,Chico Sonido,Club Redy,Y,155.0,title_sim=1.00,0.4,same recording
+1009,Neoperreo,Florentino,Catastrofe,itunes_artist,not checked,catalog,1727673807.0,Catastrofe (DJ Python Remix),N,Florentino,Ilimitado (Remixes),Y,568.0,title_sim=1.00,325.8,other version
+1011,Neoperreo,Kelman Duran,No You,itunes_artist,not checked,catalog,1371189722.0,No You,Y,Kelman Duran,No You,Y,128.0,title_sim=1.00,0.7,same recording
+1013,Neoperreo,La Favi,Controla (feat. Deltatron),itunes_artist,not checked,catalog,3271811141.0,Controla,Y,La Favi,Reir & Llorar,Y,254.0,title_sim=1.00,0.8,same recording
+1015,Neoperreo,Lizz,GUARACHEO 23 (EL JORDAN 23 REMIX),itunes_artist,not checked,catalog,1850107057.0,GUARACHEO 23 (EL JORDAN 23 REMIX),Y,Lizz,NALGOTHIC,Y,188.0,title_sim=1.00,0.4,same recording
+1017,Neoperreo,Paul Marmota,Mercurio (feat. Yung Beef),itunes_artist,not checked,catalog,710694122.0,Mercurio,Y,Paul Marmota,Zona,Y,153.0,title_sim=1.00,0.2,same recording
+1021,Neoperreo,cherry chola,Ninfomaniatica,itunes_artist,not checked,catalog,3868631101.0,Ninfomaniatica (Goa Mix),N,cherry chola,Bimbo Esoterica Deluxe,Y,146.0,title_sim=1.00,42.8,other version
+1024,Neoperreo,Bellakath,PROHIBIDO,itunes_artist,not checked,catalog,4290788632.0,PROHIBIDO,Y,Bellakath,LA REINA DEL REGGAETON MEXICANO: TOMO I: La chica de las poesías,Y,174.0,title_sim=1.00,0.9,same recording
+1025,Neoperreo,Chico Sonido,Chambacú (Hookiaera Intro),itunes_artist,not checked,catalog,4042155631.0,Chambacú (Hookiaera Intro),Y,Chico Sonido,Mundo Unity,Y,227.0,title_sim=1.00,0.4,same recording
+1027,Neoperreo,Florentino,Nadie Se Muere De Amor,itunes_artist,not checked,catalog,995798792.0,Nadie Se Muere De Amor,Y,Florentino,Fragmentos,Y,102.0,title_sim=1.00,0.1,same recording
+1029,Neoperreo,Kelman Duran,Wutang,itunes_artist,not checked,not found,,,,,,,,,,
+1031,Neoperreo,La Favi,En Secreto,itunes_artist,not checked,catalog,2458966225.0,En Secreto,Y,La Favi,No Es Igual,Y,129.0,title_sim=1.00,0.6,same recording
+1034,Neoperreo,Paul Marmota,"Fuiste Mía (feat. Kaydy Cain, Khaled & El Mini)",itunes_artist,not checked,catalog,710694152.0,Fuiste Mia,N,Paul Marmota,Zona,Y,218.0,title_sim=0.90,0.7,same recording
+1035,Neoperreo,Rosa Pistola,La Línea del Sexxx (feat. El Habano),itunes_artist,not checked,catalog,3245377471.0,La Línea del Sexxx,Y,Rosa Pistola,La Linea del Sexxx,Y,233.0,title_sim=1.00,0.1,same recording
+1038,Neoperreo,cherry chola,Perritas a Perrear,itunes_artist,not checked,catalog,3868631111.0,Perritas a Perrear (Merenguito Mix),N,cherry chola,Bimbo Esoterica Deluxe,Y,107.0,title_sim=1.00,15.6,other version
+1041,Neoperreo,Bellakath,GATA FIERA,itunes_artist,not checked,catalog,4290788672.0,GATA FIERA,Y,Bellakath,LA REINA DEL REGGAETON MEXICANO: TOMO I: La chica de las poesías,Y,195.0,title_sim=1.00,0.5,same recording
+1042,Neoperreo,Chico Sonido,Pikachu Wepa,itunes_artist,not checked,catalog,4042183731.0,Pikachu Wepa (Jaijiu Remix),N,Chico Sonido,Mundo Unity (Remixxxed),Y,123.0,title_sim=1.00,67.5,other version
+1044,Neoperreo,Florentino,Seductora,itunes_artist,not checked,catalog,995798842.0,Seductora,Y,Florentino,Fragmentos,Y,184.0,title_sim=1.00,1.0,same recording
+1046,Neoperreo,Kelman Duran,Untitled VI,itunes_artist,not checked,search,1371189842.0,Untitled VI,Y,Kelman Duran,Two Suns,Y,192.0,q=Kelman Duran Untitled VI,0.0,same recording
+1048,Neoperreo,La Favi,Bebiendo (feat. Ms Nina),itunes_artist,not checked,catalog,2458966155.0,Bebiendo,Y,La Favi,No Es Igual,Y,168.0,title_sim=1.00,0.0,same recording
+1052,Mahraganat,Amr Haha,Mahragan 100 Copies Electro Shaabi,stage1:M03,not matched on Deezer,not found,,,,,,,,,,
+1053,Mahraganat,DJ Figo,Mahraganat Ma3ya Matwa,stage1:M01,not matched on Deezer,not found,,,,,,,,,,
+1055,Mahraganat,El Dakhlaweya,فرحة البربري,stage1:M02,not matched on Deezer,catalog,1121907182.0,فرحة البربري,Y,El Dakhlowya,فرحة البربري,Y,378.0,title_sim=1.00,0.4,same recording
+1056,Mahraganat,El Madfaagya,El Magnuna 2012,stage1:M01,not matched on Deezer,not found,,,,,,,,,,
+1057,Mahraganat,El Sawareekh,Meen Bs Kan Ysdaa,stage1:M04,not matched on Deezer,not found,,,,,,,,,,
+1058,Mahraganat,Filo,Odi Yethath,stage1:M01,not matched on Deezer,not found,,,,,,,,,,
+1062,Mahraganat,Oka,El Wesada El 5alya,stage1:M01,not matched on Deezer,catalog,72910131.0,El Wesada El Khalya,N,OKA,Oka W Ortega,Y,59.0,title_sim=0.92,,unverified (no length)
+1063,Mahraganat,Oka W Ortega,Ayh Ya Ragl Inte Dah,stage1:M01,not matched on Deezer,not found,,,,,,,,,,
+1064,Mahraganat,Omar Kamal,Fe Dahya,stage1:M04,not matched on Deezer,not found,,,,,,,,,,
+1065,Mahraganat,Ortega,5alek Nafsk,stage1:M04,not matched on Deezer,not found,,,,,,,,,,
+1066,Mahraganat,Rozzma,Tany Tany (Phil Battiekh Dub),stage1:M01,not matched on Deezer,catalog,424891652.0,Tany Tany,N,Rozzma,Donya Fakka,Y,245.0,title_sim=1.00,0.1,same recording
+1067,Mahraganat,Sadat,Yalla Kullu Yisma3,stage1:M01,not matched on Deezer,not found,,,,,,,,,,
+1068,Mahraganat,Wegz,7elwa Menak,stage1:M04,not matched on Deezer,skeleton_review,3641995652.0,"حلوة منك (من فيلم ""ڤوي! ڤوي! ڤوي!"")",N,Wegz,"حلوة منك (من فيلم ""ڤوي! ڤوي! ڤوي!"")",Y,210.0,identical skeleton hlmnk; no length to compare,,unverified (no length)
+1070,Mahraganat,Amr Haha,Mahragan Etnen Atawla,stage1:M03,not matched on Deezer,not found,,,,,,,,,,
+1071,Mahraganat,DJ Figo,"Ana Baba, Y'lla",stage1:M09,not matched on Deezer,not found,,,,,,,,,,
+1073,Mahraganat,El Dakhlaweya,نادي الصيد,stage1:M02,not matched on Deezer,catalog,1113215062.0,نادي الصيد,Y,El Dakhlowya,نادي الصيد,Y,391.0,title_sim=1.00,0.6,same recording
+1074,Mahraganat,El Madfaagya,The Mixing Secret,stage1:M01,not matched on Deezer,not found,,,,,,,,,,
+1079,Mahraganat,Oka W Ortega,Mahragan Ana Aslan Gamed,stage1:M01,not matched on Deezer,not found,,,,,,,,,,
+1081,Mahraganat,Sadat,Ana elli e'shty haram fi haram,stage1:M07,not matched on Deezer,not found,,,,,,,,,,
+1083,Mahraganat,Amr Haha,Mahragan Howga,stage1:M03,not matched on Deezer,not found,,,,,,,,,,
+1085,Mahraganat,El Dakhlaweya,الدخلاوية و الشطلاوية,stage1:M02,not matched on Deezer,catalog,1130397182.0,الدخلاوية و الشطلاوية,Y,El Dakhlowya,الدخلاوية و الشطلاوية,Y,389.0,title_sim=1.00,47.3,"same title, length differs"
+1086,Mahraganat,El Madfaagya,Haely Baely,stage1:M01,not matched on Deezer,not found,,,,,,,,,,
+1088,Mahraganat,Hamo Bika,Law El Adeem Rahet Aleh El Gedeed Yer'os Ballet,stage1:M05,not matched on Deezer,not found,,,,,,,,,,
+1091,Mahraganat,Omar Kamal,LGHBTITA,stage1:M05,not matched on Deezer,skeleton_review,3172363811.0,لغبطيطا,N,Omar Kamal,لغبطيطا,Y,190.0,identical skeleton lgbt; no length to compare,,unverified (no length)
+1092,Mahraganat,Sadat,Sohobeyia gat be Nadama,stage1:M07,not matched on Deezer,not found,,,,,,,,,,
+1093,Mahraganat,Wegz,El Bakht,stage1:M06,not matched on Deezer,skeleton_review,3642668572.0,البخت,N,Wegz,البخت,Y,206.0,skel=1.00 (lbkt~lbkt); dur_diff=0s,0.0,same recording
+1095,Mahraganat,El Dakhlaweya,Osoud El Ard (Mahragan Welad Rizk),stage1:M02,not matched on Deezer,not found,,,,,,,,,,
+1096,Mahraganat,El Madfaagya,Mahragan Kazabeen El Zaffa,stage1:M03,not matched on Deezer,not found,,,,,,,,,,
+1098,Mahraganat,Hamo Bika,عالم فاسد (Alam Fased),stage1:M11,not matched on Deezer,skeleton_review,3900953511.0,Alam Fased,N,Hamo Bika,Alam Fased,Y,17.0,identical skeleton lmfsd; no length to compare,,unverified (no length)
+1100,Mahraganat,Mohamed Ramadan,Rayheen Nesshar - Bum Bum,itunes_artist,not checked,catalog,1582165752.0,Rayheen Nesshar - Bum Bum,Y,Mohamed Ramadan,Rayheen Nesshar - Bum Bum (Single),Y,169.0,title_sim=1.00,0.5,same recording
+1101,Mahraganat,Omar Kamal,Enti Mealema,stage1:M05,not matched on Deezer,not found,,,,,,,,,,
+1102,Mahraganat,Sadat,Five Pounds Credit,stage1:M07,not matched on Deezer,not found,,,,,,,,,,
+1103,Mahraganat,Wegz,SKERTY,stage1:M06,not matched on Deezer,skeleton_review,3652424102.0,سكرتي,N,Wegz,سكرتي,Y,210.0,identical skeleton skrt; no length to compare,,unverified (no length)
+1105,Mahraganat,El Dakhlaweya,Mahragan el Selk Lammes,stage1:M03,not matched on Deezer,album_search,1673494707.0,Mahragan El Selk Lames,N,El Dakhlaweya,Electro Shaabi (#1),Y,265.0,album=Electro Shaabi (#1),1.0,same recording
+1106,Mahraganat,El Madfaagya,Mahragan Roh El Mazzika,stage1:M03,not matched on Deezer,not found,,,,,,,,,,
+1108,Mahraganat,Hamo Bika,نفديك يا فلسطين,stage1:M11,not matched on Deezer,not found,,,,,,,,,,
+1110,Mahraganat,Mohamed Ramadan,ARABI,itunes_artist,not checked,catalog,2641977492.0,ARABI,Y,Mohamed Ramadan,ARABI,Y,167.0,title_sim=1.00,0.4,same recording
+1112,Mahraganat,Sadat,Enjex,stage1:M07,not matched on Deezer,not found,,,,,,,,,,
+1113,Mahraganat,Wegz,ATM,stage1:M06,not matched on Deezer,not found,,,,,,,,,,
+1114,Mahraganat,DJ Totti,E3dam,itunes_artist,not checked,skeleton_review,1215372622.0,اعدام,N,DJ Totti,اعدام,Y,219.0,skel=1.00 (dm~dm); dur_diff=0s,0.3,same recording
+1115,Mahraganat,El Dakhlaweya,Mahragan Bahgaga,stage1:M03,not matched on Deezer,album_search,1673494757.0,Bahgaga,N,El Dakhlaweya,Electro Shaabi (#1),Y,278.0,album=Electro Shaabi (#1),0.4,same recording
+1116,Mahraganat,El Madfaagya,Millionaire,stage1:M09,not matched on Deezer,not found,,,,,,,,,,
+1117,Mahraganat,El Sawareekh,Daya3 Daya3,itunes_artist,not checked,catalog,2363954355.0,Daya3 Daya3,Y,El Sawareekh,Daya3 Daya3,Y,157.0,title_sim=1.00,0.2,same recording
+1120,Mahraganat,Mohamed Ramadan,HABIBI ANA MEN GHERAK,itunes_artist,not checked,catalog,4200789482.0,HABIBI ANA MEN GHERAK,Y,Mohamed Ramadan,HABIBI ANA MEN GHERAK,Y,171.0,title_sim=1.00,0.3,same recording
+1121,Mahraganat,Omar Kamal,يا محروقين مننا,itunes_artist,not checked,catalog,3532224991.0,يا محروقين مننا,Y,Mahmoud El Lithy,يا محروقين مننا,Y,266.0,title_sim=1.00,0.1,same recording
+1122,Mahraganat,Sadat,Tawze,stage1:M08,not matched on Deezer,not found,,,,,,,,,,
+1123,Mahraganat,Wegz,21,stage1:M06,not matched on Deezer,not found,,,,,,,,,,
+1124,Mahraganat,DJ Totti,A7zany,itunes_artist,not checked,catalog,1622360472.0,A7zany,Y,DJ Totti,A7zany,Y,300.0,title_sim=1.00,0.0,same recording
+1125,Mahraganat,El Dakhlaweya,El Baba El Gadiad,itunes_artist,not checked,catalog,3901317021.0,El Baba El Gadiad,Y,El Dakhlaweya,El Baba El Gadiad,Y,382.0,title_sim=1.00,0.9,same recording
+1126,Mahraganat,El Sawareekh,Albek Bahar Maleh,itunes_artist,not checked,catalog,2364157025.0,Albek Bahar Maleh,Y,El Sawareekh,Albek Bahar Maleh,Y,193.0,title_sim=1.00,0.7,same recording
+1128,Mahraganat,Hassan Shakosh,انا في البلد عضمة (feat. Omar Kamal & Hammo Beka),itunes_artist,not checked,not found,,,,,,,,,,
+1129,Mahraganat,Mohamed Ramadan,El Malek,itunes_artist,not checked,catalog,539490702.0,El Malek,Y,Mohamed Ramadan,El Malek,Y,189.0,title_sim=1.00,0.4,same recording
+1130,Mahraganat,Sadat,أنا نفسي بس في ريس,stage1:M11,not matched on Deezer,not found,,,,,,,,,,
+1131,Mahraganat,Wegz,Hustla,stage1:M06,not matched on Deezer,not found,,,,,,,,,,
+1132,Mahraganat,DJ Totti,Bokra Teshouf,itunes_artist,not checked,catalog,3940806181.0,Bokra Teshouf,Y,DJ Totti,Bokra Teshouf,Y,194.0,title_sim=1.00,0.8,same recording
+1133,Mahraganat,El Dakhlaweya,Mahragan El Selk Lames,itunes_artist,not checked,album_search,1673494707.0,Mahragan El Selk Lames,Y,El Dakhlaweya,Electro Shaabi (#1),Y,265.0,album=Electro Shaabi (#1),1.0,same recording
+1134,Mahraganat,El Sawareekh,Asl W Sora,itunes_artist,not checked,catalog,1666639842.0,Asl w Sora,Y,El Sawareekh,Asl w Sora,Y,206.0,title_sim=1.00,0.5,same recording
+1136,Mahraganat,Mohamed Ramadan,Boom,itunes_artist,not checked,catalog,2668552412.0,Boom,Y,Mohamed Ramadan,Boom,Y,141.0,title_sim=1.00,0.4,same recording
+1137,Mahraganat,Wegz,Nossein,stage1:M06,not matched on Deezer,not found,,,,,,,,,,
+1138,Mahraganat,DJ Totti,Monafqeen,itunes_artist,not checked,catalog,1312219192.0,Monafqeen,Y,DJ Totti,Monafqeen (Explicit Version),Y,207.0,title_sim=1.00,0.4,same recording
+1139,Mahraganat,El Dakhlaweya,Sooaa El Zman,itunes_artist,not checked,catalog,3901317341.0,Sooaa El Zman,Y,El Dakhlaweya,Sooaa El Zman,Y,386.0,title_sim=1.00,0.9,same recording
+1140,Mahraganat,El Sawareekh,Kol El Nas,itunes_artist,not checked,catalog,2364018845.0,Kol El Nas,Y,El Sawareekh,Kol El Nas,Y,193.0,title_sim=1.00,0.3,same recording
+1141,Mahraganat,Hamo Bika,Wada3 Ya Donia Wada3,itunes_artist,not checked,not found,,,,,,,,,,
+1142,Mahraganat,Mohamed Ramadan,Sting Ya King,itunes_artist,not checked,catalog,2668480402.0,Sting Ya King,Y,Mohamed Ramadan,Sting Ya King,Y,115.0,title_sim=1.00,0.4,same recording
+1143,Mahraganat,Wegz,togar haram,stage1:M06,not matched on Deezer,skeleton_review,3641995962.0,تجار حرام,N,Wegz,تجار حرام,Y,184.0,identical skeleton tgrhrm; no length to compare,,unverified (no length)
+1144,Mahraganat,DJ Totti,Ghasham,itunes_artist,not checked,catalog,1867016157.0,Ghasham,Y,DJ Totti,Ghasham,Y,171.0,title_sim=1.00,0.9,same recording
+1145,Mahraganat,El Dakhlaweya,Ahla Dakhlowya,itunes_artist,not checked,catalog,3901317501.0,Ahla Dakhlowya,Y,El Dakhlaweya,Ahla Dakhlowya,Y,465.0,title_sim=1.00,0.1,same recording
+1146,Mahraganat,El Sawareekh,El Amaleya,itunes_artist,not checked,catalog,1666643062.0,El Amaleya,Y,El Sawareekh,El Amaleya,Y,195.0,title_sim=1.00,0.7,same recording
+1147,Mahraganat,Hamo Bika,Shaklatony Fy Bahr Bera,itunes_artist,not checked,search,3901309311.0,Shaklatony Fy Bahr Bera,Y,Hamo Bika,Shaklatony Fy Bahr Bera,Y,388.0,q=Hamo Bika Shaklatony Fy Bahr Bera,0.4,same recording
+1148,Mahraganat,Mohamed Ramadan,The Moon,itunes_artist,not checked,catalog,661681142.0,The Moon,Y,Mohamed Ramadan,The Moon,Y,353.0,title_sim=1.00,0.8,same recording
+1150,Mahraganat,DJ Totti,Kazyon,itunes_artist,not checked,catalog,1639342602.0,Kazyon,Y,DJ Totti,Kazyon,Y,217.0,title_sim=1.00,0.5,same recording
+1151,Mahraganat,El Dakhlaweya,Bahgaga,itunes_artist,not checked,album_search,1673494757.0,Bahgaga,Y,El Dakhlaweya,Electro Shaabi (#1),Y,278.0,album=Electro Shaabi (#1),0.4,same recording
+1152,Mahraganat,El Sawareekh,Marmeya,itunes_artist,not checked,catalog,1666637292.0,Marmeya,Y,El Sawareekh,Marmeya,Y,155.0,title_sim=1.00,0.2,same recording
+1153,Mahraganat,Hamo Bika,Hanedrab Nawawy,itunes_artist,not checked,search,731356202.0,Handrab Nawawi,N,Hamo Bika,Handrab Nawawi,Y,434.0,q=Hamo Bika Hanedrab Nawawy,0.4,same recording
+1154,Mahraganat,Mohamed Ramadan,Money,itunes_artist,not checked,catalog,2668554722.0,Money,Y,Mohamed Ramadan,Money,Y,134.0,title_sim=1.00,0.4,same recording
+1156,Mahraganat,DJ Totti,Bawazan (feat. Almas),itunes_artist,not checked,catalog,1621883152.0,Bawazan,Y,DJ Totti,Bawazan,Y,226.0,title_sim=1.00,0.3,same recording
+1157,Mahraganat,El Dakhlaweya,Bath Mobashar,itunes_artist,not checked,catalog,3901317681.0,Bath Mobashar,Y,El Dakhlaweya,Bath Mobashar,Y,406.0,title_sim=1.00,0.6,same recording
+1158,Mahraganat,El Sawareekh,Ana El Shabah,itunes_artist,not checked,catalog,1666635152.0,Ana El Shabah,Y,El Sawareekh,Ana El Shabah,Y,168.0,title_sim=1.00,0.9,same recording
+1159,Mahraganat,Hamo Bika,Aalam Fased,itunes_artist,not checked,search,694342192.0,Alam Fased,N,Hamo Bika,Alam Fased,Y,419.0,q=Hamo Bika Aalam Fased,0.4,same recording
+1160,Mahraganat,Mohamed Ramadan,Seven,itunes_artist,not checked,catalog,2716217642.0,Seven,Y,Mohamed Ramadan,Seven,Y,111.0,title_sim=1.00,0.9,same recording
+1162,Mahraganat,DJ Totti,Moled El Gezeera (Dj Totti Remix),itunes_artist,not checked,catalog,1983423967.0,Moled El Gezeera,N,DJ Totti,Moled El Gezeera (Dj Totti Remix),Y,110.0,title_sim=1.00,215.0,other version
+1163,Mahraganat,El Dakhlaweya,Azbat Saatak,itunes_artist,not checked,catalog,3901317571.0,Azbat Saatak,Y,El Dakhlaweya,Azbat Saatak,Y,418.0,title_sim=1.00,0.5,same recording
+1164,Mahraganat,El Sawareekh,El Bent Theb,itunes_artist,not checked,catalog,980661152.0,El Bent Theb,Y,El Sawareekh,El Bent Theb,Y,138.0,title_sim=1.00,0.0,same recording
+1165,Mahraganat,Hamo Bika,Rab El Koun,itunes_artist,not checked,catalog,592185042.0,Rab El Koun,Y,Hamo Bika,Hamo Bika Collection,Y,342.0,title_sim=1.00,0.7,same recording
+1166,Mahraganat,Mohamed Ramadan,BABA,itunes_artist,not checked,catalog,1582340372.0,BABA,Y,Mohamed Ramadan,BABA,Y,152.0,title_sim=1.00,0.0,same recording
+1168,Mahraganat,DJ Totti,Laliga,itunes_artist,not checked,catalog,2268875187.0,Laliga,Y,DJ Totti,Laliga,Y,212.0,title_sim=1.00,0.3,same recording
+1169,Mahraganat,El Dakhlaweya,El Aoo Byfgaa,itunes_artist,not checked,catalog,3901317631.0,El Aoo Byfgaa,Y,El Dakhlaweya,El Aoo Byfgaa,Y,359.0,title_sim=1.00,0.1,same recording
+1170,Mahraganat,El Sawareekh,Yasta,itunes_artist,not checked,catalog,1109749262.0,Yasta,Y,El Sawareekh,Yasta,Y,164.0,title_sim=1.00,0.0,same recording
+1171,Mahraganat,Hamo Bika,Ana Einy Ala El Tatoo,itunes_artist,not checked,search,746281942.0,Ana Einy Ala El Tatoo,Y,Hamo Bika,Ana Einy Ala El Tatoo,Y,379.0,q=Hamo Bika Ana Einy Ala El Tatoo,0.7,same recording
+1172,Mahraganat,Mohamed Ramadan,Virus,itunes_artist,not checked,catalog,2668557392.0,Virus,Y,Mohamed Ramadan,Virus,Y,123.0,title_sim=1.00,0.7,same recording
+1174,Mahraganat,DJ Totti,إكس تي سي,itunes_artist,not checked,skeleton_review,1639342592.0,XTC,N,DJ Totti,XTC,Y,195.0,skel=0.75 (ksts~kstk); dur_diff=1s,0.5,same recording
+1175,Mahraganat,El Dakhlaweya,Alaiko Mesh Hasammi,itunes_artist,not checked,catalog,3901334391.0,Alaiko Mesh Hasammi,Y,El Dakhlaweya,Alaiko Mesh Hasammi,Y,456.0,title_sim=1.00,0.1,same recording
+1176,Mahraganat,El Sawareekh,Star,itunes_artist,not checked,catalog,2363951485.0,Star,Y,El Sawareekh,Star,Y,195.0,title_sim=1.00,0.4,same recording
+1177,Mahraganat,Hamo Bika,Hob Omry Neseto W Fatny,itunes_artist,not checked,search,694342372.0,Hob Omry Nseto W Fatny,N,Hamo Bika,Hob Omry Nseto W Fatny,Y,389.0,q=Hamo Bika Hob Omry Neseto W Fatny,0.7,same recording
+1178,Mahraganat,Mohamed Ramadan,Al Sultan,itunes_artist,not checked,catalog,1582339602.0,Al Sultan,Y,Mohamed Ramadan,Al Sultan,Y,146.0,title_sim=1.00,0.5,same recording
+1180,Mahraganat,DJ Totti,Mesh Hases,itunes_artist,not checked,catalog,4300740302.0,Mesh Hases,Y,DJ Totti,Mesh Hases,Y,252.0,title_sim=1.00,0.2,same recording
+1181,Mahraganat,El Dakhlaweya,Paris Askandrya,itunes_artist,not checked,catalog,3901317281.0,Paris Askandrya,Y,El Dakhlaweya,Paris Askandrya,Y,446.0,title_sim=1.00,0.0,same recording
+1182,Mahraganat,El Sawareekh,Abalbat Abalbat (feat. 3enba & Zuksh),itunes_artist,not checked,catalog,2363953715.0,Abalbat Abalbat,Y,El Sawareekh,Abalbat Abalbat,Y,184.0,title_sim=1.00,0.3,same recording
+1183,Mahraganat,Hamo Bika,Saye3 Afandy,itunes_artist,not checked,catalog,594692092.0,Saye3 Afandy,Y,Hamo Bika,Mesh Habayeb,Y,373.0,title_sim=1.00,0.6,same recording
+1184,Mahraganat,Mohamed Ramadan,Enta Gadaa,itunes_artist,not checked,catalog,1583092062.0,Enta Gadaa,Y,Mohamed Ramadan,Enta Gadaa,Y,118.0,title_sim=1.00,0.9,same recording
+1186,Mahraganat,DJ Totti,ضلالي,itunes_artist,not checked,skeleton_review,2015638677.0,Dalaly,N,DJ Totti,Dalaly,Y,227.0,skel=1.00 (dl~dl); dur_diff=1s,0.7,same recording
+1187,Mahraganat,El Dakhlaweya,Tabaa Eswed,itunes_artist,not checked,catalog,3901322281.0,Tabaa Eswed,Y,El Dakhlaweya,Tabaa Eswed,Y,241.0,title_sim=1.00,0.2,same recording
+1188,Mahraganat,El Sawareekh,Mabhbsh Kda,itunes_artist,not checked,catalog,2363950765.0,Mabhbsh Kda,Y,El Sawareekh,Mabhbsh Kda,Y,184.0,title_sim=1.00,0.0,same recording
+1189,Mahraganat,Hamo Bika,قمر التيكتوكايه,itunes_artist,not checked,catalog,1407331782.0,قمر التيكتوكايه,Y,Hamo Bika,قمر التيكتوكايه,Y,264.0,title_sim=1.00,0.1,same recording
+1190,Mahraganat,Mohamed Ramadan,Corona Virus,itunes_artist,not checked,catalog,1583154912.0,Corona Virus,Y,Mohamed Ramadan,Corona Virus,Y,151.0,title_sim=1.00,0.6,same recording
+1192,Mahraganat,DJ Totti,Kharab,itunes_artist,not checked,catalog,2171417987.0,Kharab,Y,DJ Totti,Mahragan El Qahera,Y,288.0,title_sim=1.00,0.1,same recording
+1193,Mahraganat,El Dakhlaweya,El Banat Maganin,itunes_artist,not checked,catalog,3869897781.0,El Banat Maganin,Y,El Dakhlaweya,El Banat Maganin,Y,242.0,title_sim=1.00,0.2,same recording
+1194,Mahraganat,El Sawareekh,Khod Ya Toto,itunes_artist,not checked,catalog,1666640132.0,Khod Ya Toto,Y,El Sawareekh,Khod Ya Toto,Y,180.0,title_sim=1.00,0.9,same recording
+1195,Mahraganat,Hamo Bika,Enty Sarka El Qalb Sark,itunes_artist,not checked,catalog,946362412.0,Enty Sarka El Qalb Sark,Y,Hamo Bika,Enty Sarka El Qalb Sark,Y,344.0,title_sim=1.00,0.9,same recording
+1196,Mahraganat,Mohamed Ramadan,Yakuza,itunes_artist,not checked,catalog,4034194461.0,Yakuza,Y,Mohamed Ramadan,Yakuza,Y,158.0,title_sim=1.00,0.2,same recording
+1198,Mahraganat,DJ Totti,Nemra,itunes_artist,not checked,catalog,2761748811.0,Nemra,Y,DJ Totti,Nemra,Y,163.0,title_sim=1.00,0.2,same recording
+1199,Mahraganat,El Dakhlaweya,Shawazaa,itunes_artist,not checked,catalog,3901317051.0,Shawazaa,Y,El Dakhlaweya,Shawazaa,Y,416.0,title_sim=1.00,0.1,same recording
+1200,Mahraganat,El Sawareekh,Battalna,itunes_artist,not checked,catalog,1222160712.0,Battalna,Y,El Sawareekh,Battalna,Y,158.0,title_sim=1.00,0.0,same recording
+1201,Mahraganat,Hamo Bika,Asef Lhezamy Elnasef,itunes_artist,not checked,search,3900953381.0,Asef Lhezamy Elnasef,Y,Hamo Bika,Asef Lhezamy Elnasef,Y,419.0,q=Hamo Bika Asef Lhezamy Elnasef,0.7,same recording
+1202,Mahraganat,Mohamed Ramadan,قلبي سميتو لبنان,itunes_artist,not checked,catalog,3525888991.0,قلبي سميتو لبنان,Y,Mohamed Ramadan,قلبي سميتو لبنان,Y,204.0,title_sim=1.00,0.7,same recording
+1204,Mahraganat,DJ Totti,Saat Psycheb (feat. Nasser),itunes_artist,not checked,catalog,3145104051.0,Saat Psycheb,Y,DJ Totti,Saat Psycheb,Y,207.0,title_sim=1.00,0.2,same recording
+1205,Mahraganat,El Dakhlaweya,Foaao Yasidna,itunes_artist,not checked,catalog,3901317421.0,Foaao Yasidna,Y,El Dakhlaweya,Foaao Yasidna,Y,421.0,title_sim=1.00,0.1,same recording
+1206,Mahraganat,El Sawareekh,تيجي نولع (feat. Resha Costa & Samara Now),itunes_artist,not checked,search,2971798871.0,تيجي نولع,Y,El Sawareekh,الديسكو,Y,156.0,q=El Sawareekh تيجي نولع,0.5,same recording
+1207,Mahraganat,Hamo Bika,اصحابي اخصامي (انا مش فاندام يلا),itunes_artist,not checked,catalog,2721266982.0,اصحابي اخصامي (انا مش فاندام يلا),Y,Hamo Bika,اصحابي اخصامي (انا مش فاندام يلا),Y,416.0,title_sim=1.00,0.6,same recording
+1208,Mahraganat,Mohamed Ramadan,هو في زي محمد,itunes_artist,not checked,catalog,3778722702.0,هو في زي محمد,Y,Mohamed Ramadan,هو في زي محمد,Y,124.0,title_sim=1.00,0.6,same recording
+1210,Mahraganat,DJ Totti,رضيت؟,itunes_artist,not checked,skeleton_review,3399524401.0,Radeit?,N,DJ Totti,3ala Fen?,Y,225.0,skel=1.00 (rdt~rdt); dur_diff=0s,0.3,same recording
+1211,Mahraganat,El Dakhlaweya,Fartaka Fartaka,itunes_artist,not checked,catalog,1015702572.0,Fartaka Fartaka,Y,El Dakhlowya,Fartaka Fartaka,Y,358.0,title_sim=1.00,0.4,same recording
+1212,Mahraganat,El Sawareekh,مين بس كان يصدق,itunes_artist,not checked,search,2420230135.0,مين بس كان يصدق,Y,El Sawareekh,مين بس كان يصدق,Y,209.0,q=El Sawareekh مين بس كان يصدق,0.1,same recording
+1213,Mahraganat,Hamo Bika,Dokn Fe El Gona,itunes_artist,not checked,skeleton_review,2473969961.0,دكن في الجونه,N,Hamo Bika,دكن في الجونه,Y,319.0,skel=0.93 (dknflgn~dknflgnh); dur_diff=1s,1.1,same recording
+1214,Mahraganat,Mohamed Ramadan,Gamila,itunes_artist,not checked,catalog,3965570951.0,Gamila,Y,Mohamed Ramadan,Gamila,Y,98.0,title_sim=1.00,0.4,same recording
+1216,Mahraganat,DJ Totti,Covid - 19,itunes_artist,not checked,catalog,1656146972.0,Covid-19,Y,DJ Totti,Covid-19,Y,191.0,title_sim=1.00,0.4,same recording
+1217,Mahraganat,El Dakhlaweya,مين فينا,itunes_artist,not checked,catalog,1121907232.0,مين فينا,Y,El Dakhlowya,مين فينا,Y,264.0,title_sim=1.00,0.3,same recording
+1218,Mahraganat,El Sawareekh,Marofeen Fi Kol Makan,itunes_artist,not checked,search,1677553717.0,Marofeen Fi Kol Makan,Y,El Sawareekh,Retune (#4),Y,172.0,q=El Sawareekh Marofeen Fi Kol Makan,0.8,same recording
+1219,Mahraganat,Hamo Bika,Ento Kdabeen W Mesh Salken,itunes_artist,not checked,catalog,920814462.0,Ento Kdabeen W Mesh Salken,Y,Hamo Bika,Ento Kdabeen W Mesh Salken,Y,344.0,title_sim=1.00,0.8,same recording
+1220,Mahraganat,Mohamed Ramadan,واحد اتنين تلاتة,itunes_artist,not checked,not found,,,,,,,,,,
+1221,Mahraganat,Wegz,El Ayam,itunes_artist,not checked,catalog,4345933192.0,El Ayam,Y,Wegz,AQAREB (Deluxe Edition),Y,154.0,title_sim=1.00,0.1,same recording
+1222,Mahraganat,DJ Totti,Gareeh,itunes_artist,not checked,catalog,2654585792.0,Gareeh,Y,DJ Totti,Gareeh,Y,184.0,title_sim=1.00,0.8,same recording
+1223,Mahraganat,El Dakhlaweya,الباب الجديد,itunes_artist,not checked,catalog,3517259861.0,الباب الجديد,Y,El Dakhlowya,الباب الجديد,Y,325.0,title_sim=1.00,124.7,"same title, length differs"
+1224,Mahraganat,El Sawareekh,Salamtek Ya Dmaghy,itunes_artist,not checked,search,2113897827.0,Salamtek Ya Dmaghy,Y,El Sawareekh,Salamtek Ya Dmaghy,Y,196.0,q=El Sawareekh Salamtek Ya Dmaghy,0.4,same recording
+1225,Mahraganat,Hamo Bika,Mesh Habayeb,itunes_artist,not checked,catalog,594691982.0,Mesh Habayeb,Y,Hamo Bika,Mesh Habayeb,Y,487.0,title_sim=1.00,0.2,same recording
+1226,Mahraganat,Mohamed Ramadan,Ta3alali,itunes_artist,not checked,catalog,4130301141.0,Ta3alali,Y,Mohamed Ramadan,Ta3alali,Y,182.0,title_sim=1.00,0.6,same recording
+1227,Mahraganat,Wegz,Amira,itunes_artist,not checked,catalog,4181049572.0,Amira,Y,Wegz,Amira,Y,269.0,title_sim=1.00,0.2,same recording
+1228,Mahraganat,DJ Totti,Maasel,itunes_artist,not checked,catalog,2171417967.0,Maasel,Y,DJ Totti,Mahragan El Qahera,Y,249.0,title_sim=1.00,0.5,same recording
+1229,Mahraganat,El Dakhlaweya,توينز الشظية ( الجزء الثالث ),itunes_artist,not checked,catalog,2785752972.0,توينز الشظية ( الجزء الثالث ),Y,El Dakhlowya,توينز الشظية ( الجزء الثالث ),Y,394.0,title_sim=1.00,0.2,same recording
+1230,Mahraganat,El Sawareekh,Papa & El Aesaba,itunes_artist,not checked,catalog,1666638162.0,Papa & El Aesaba,Y,El Sawareekh,Papa & El Aesaba,Y,181.0,title_sim=1.00,0.9,same recording
+1231,Mahraganat,Hamo Bika,Wesh Ghadab,itunes_artist,not checked,search,694342252.0,Wesh Ghadab,Y,Hamo Bika,Wesh Ghadab,Y,373.0,q=Hamo Bika Wesh Ghadab,0.4,same recording
+1232,Mahraganat,Mohamed Ramadan,معاك للصبح,itunes_artist,not checked,catalog,3679168892.0,معاك للصبح,Y,Mohamed Ramadan,معاك للصبح,Y,175.0,title_sim=1.00,0.7,same recording
+1233,Mahraganat,Wegz,واحد وعشرين,itunes_artist,not checked,catalog,3642674992.0,واحد وعشرين,Y,Wegz,واحد وعشرين,Y,231.0,title_sim=1.00,0.0,same recording
+1234,Mahraganat,DJ Totti,أهرب؟,itunes_artist,not checked,skeleton_review,3399524421.0,Ahrab?,N,DJ Totti,3ala Fen?,Y,209.0,skel=1.00 (hrb~hrb); dur_diff=1s,0.5,same recording
+1235,Mahraganat,El Dakhlaweya,هارد كور,itunes_artist,not checked,catalog,2878132752.0,هارد كور,Y,El Dakhlowya,هارد كور,Y,194.0,title_sim=1.00,0.8,same recording
+1236,Mahraganat,El Sawareekh,El Leila Bazet (feat. Zoka & 3enba),itunes_artist,not checked,catalog,2364019185.0,El Leila Bazet,Y,El Sawareekh,El Leila Bazet,Y,220.0,title_sim=1.00,0.9,same recording
+1237,Mahraganat,Hamo Bika,Gish El Atareen,itunes_artist,not checked,catalog,592185072.0,Gish El Atareen,Y,Hamo Bika,Hamo Bika Collection,Y,426.0,title_sim=1.00,0.1,same recording
+1238,Mahraganat,Mohamed Ramadan,1 (رقم واحد),itunes_artist,not checked,catalog,3527732171.0,1 (رقم واحد),Y,Mohamed Ramadan,1 (رقم واحد),Y,151.0,title_sim=1.00,0.4,same recording
+1239,Mahraganat,Wegz,Mama Afrikya (feat. Seyi Vibez),itunes_artist,not checked,catalog,4345933182.0,Mama Afrikya (feat. Seyi Vibez),Y,Wegz,AQAREB (Deluxe Edition),Y,169.0,title_sim=1.00,0.7,same recording
+1240,Mahraganat,DJ Totti,Ana Msh Dealer Ya Hkoma (Dj Totti Remix),itunes_artist,not checked,catalog,3457753481.0,Ana Msh Dealer Ya Hkoma,N,DJ Totti,Ana Msh Dealer Ya Hkoma (Dj Totti Remix),Y,205.0,title_sim=1.00,0.1,same recording
+1241,Mahraganat,El Dakhlaweya,Nas,itunes_artist,not checked,catalog,1016773462.0,Nas,Y,El Dakhlowya,Nas,Y,367.0,title_sim=1.00,0.7,same recording
+1242,Mahraganat,El Sawareekh,Mahragan Ely Byshtky Mnna,itunes_artist,not checked,catalog,2364143425.0,Mahragan Ely Byshtky Mnna,Y,El Sawareekh,Mahragan Ely Byshtky Mnna,Y,186.0,title_sim=1.00,0.0,same recording
+1243,Mahraganat,Hamo Bika,Hanedrab Tala2at 7aya,itunes_artist,not checked,catalog,957788042.0,Hanedrab Tala2at 7aya,Y,Hamo Bika,Hanedrab Tala2at 7aya,Y,360.0,title_sim=1.00,0.1,same recording
+1244,Mahraganat,Mohamed Ramadan,Toxic,itunes_artist,not checked,catalog,3693598252.0,Toxic,Y,Mohamed Ramadan,Toxic,Y,176.0,title_sim=1.00,0.7,same recording
+1245,Mahraganat,Wegz,عفاريت الأسفلت,itunes_artist,not checked,catalog,3641934382.0,عفاريت الأسفلت,Y,Wegz,عفاريت الأسفلت,Y,204.0,title_sim=1.00,0.8,same recording
+1246,Mahraganat,DJ Totti,Intro,itunes_artist,not checked,catalog,2171417947.0,Intro,Y,DJ Totti,Mahragan El Qahera,Y,123.0,title_sim=1.00,0.1,same recording
+1247,Mahraganat,El Dakhlaweya,الدخلاوية وال4 اخوات,itunes_artist,not checked,catalog,1129313322.0,الدخلاوية وال4 اخوات,Y,El Dakhlowya,الدخلاوية وال4 اخوات,Y,423.0,title_sim=1.00,0.2,same recording
+1248,Mahraganat,El Sawareekh,Dam Hamy (feat. Ibrahim El Gendy),itunes_artist,not checked,catalog,2363952395.0,Dam Hamy,Y,El Sawareekh,Dam Hamy,Y,173.0,title_sim=1.00,0.5,same recording
+1249,Mahraganat,Hamo Bika,Abtal Bezyada,itunes_artist,not checked,catalog,594691992.0,Abtal Bezyada,Y,Hamo Bika,Mesh Habayeb,Y,403.0,title_sim=1.00,0.7,same recording
+1250,Mahraganat,Mohamed Ramadan,Beep Beep,itunes_artist,not checked,catalog,3722071702.0,Beep Beep,Y,Mohamed Ramadan,Beep Beep,Y,198.0,title_sim=1.00,0.7,same recording
+1251,Mahraganat,Wegz,اللقطة,itunes_artist,not checked,catalog,3641996022.0,اللقطة,Y,Wegz,اللقطة,Y,261.0,title_sim=1.00,0.0,same recording
+1252,Mahraganat,DJ Totti,Gowaya,itunes_artist,not checked,catalog,3202213831.0,Gowaya,Y,DJ Totti,Gowaya,Y,211.0,title_sim=1.00,0.0,same recording
+1253,Mahraganat,El Dakhlaweya,وتعالى يا اللي ما ليك صاحب,itunes_artist,not checked,catalog,1129313832.0,وتعالى يا اللي ما ليك صاحب,Y,El Dakhlowya,وتعالى يا اللي ما ليك صاحب,Y,347.0,title_sim=1.00,0.6,same recording
+1254,Mahraganat,El Sawareekh,Ennas Di Teslak,itunes_artist,not checked,catalog,1362624032.0,Ennas Di Teslak,Y,El Sawareekh,Ennas Di Teslak,Y,174.0,title_sim=1.00,0.0,same recording
+1255,Mahraganat,Hamo Bika,Ehna Al Marekh,itunes_artist,not checked,catalog,1017772392.0,Ehna Al Marekh,Y,Hamo Bika,Ehna Al Marekh,Y,380.0,title_sim=1.00,0.9,same recording
+1256,Mahraganat,Mohamed Ramadan,!تصدق ولا متصدقش ؟,itunes_artist,not checked,catalog,3557922901.0,!تصدق ولا متصدقش ؟,Y,Mohamed Ramadan,!تصدق ولا متصدقش ؟,Y,146.0,title_sim=1.00,0.3,same recording
+1257,Mahraganat,Wegz,Keify Keda (feat. Disco Misr),itunes_artist,not checked,search,1527596262.0,Keify Keda,Y,Wegz,Keify Keda,Y,193.0,q=Wegz Keify Keda (feat. Disco Misr),0.6,same recording
+1258,Mahraganat,DJ Totti,Harfoosh,itunes_artist,not checked,catalog,2171417977.0,Harfoosh,Y,DJ Totti,Mahragan El Qahera,Y,240.0,title_sim=1.00,0.8,same recording
+1259,Mahraganat,El Dakhlaweya,فرحه الحراق هوجان,itunes_artist,not checked,catalog,1123528162.0,فرحه الحراق هوجان,Y,El Dakhlowya,فرحه الحراق هوجان,Y,133.0,title_sim=1.00,0.0,same recording
+1260,Mahraganat,El Sawareekh,Coco Wawa,itunes_artist,not checked,search,1068875652.0,Coco Wawa,Y,El Sawareekh,Coco Wawa,Y,199.0,q=El Sawareekh Coco Wawa,0.4,same recording
+1261,Mahraganat,Hamo Bika,El Alam El Fasel,itunes_artist,not checked,catalog,592185062.0,El Alam El Fasel,Y,Hamo Bika,Hamo Bika Collection,Y,413.0,title_sim=1.00,0.9,same recording
+1262,Mahraganat,Mohamed Ramadan,صحابي عزموني,itunes_artist,not checked,catalog,3570638121.0,صحابي عزموني,Y,Mohamed Ramadan,صحابي عزموني,Y,148.0,title_sim=1.00,0.9,same recording
+1263,Mahraganat,Wegz,Noor Ainy (feat. حمود السمه),itunes_artist,not checked,catalog,4345933342.0,Noor Ainy (feat. Humood Al Semah),Y,Wegz,AQAREB (Deluxe Edition),Y,219.0,title_sim=1.00,0.2,same recording
+1264,Mahraganat,DJ Totti,أنسي؟,itunes_artist,not checked,skeleton_review,3399524411.0,Ansa?,N,DJ Totti,3ala Fen?,Y,284.0,skel=1.00 (ns~ns); dur_diff=0s,0.1,same recording
+1265,Mahraganat,El Dakhlaweya,La3net El Mosha3'been,itunes_artist,not checked,catalog,1016626062.0,La3net El Mosha3'been,Y,El Dakhlowya,La3net El Mosha3'been,Y,455.0,title_sim=1.00,0.4,same recording
+1266,Mahraganat,El Sawareekh,Mesh Hategy (feat. Abo El Anwar),itunes_artist,not checked,search,2122716947.0,Mesh Hategy,Y,El Sawareekh,Mesh Hategy (feat. Abo El Anwar),Y,170.0,q=El Sawareekh Mesh Hategy (feat. Abo El Anwar),0.7,same recording
+1267,Mahraganat,Hamo Bika,اي لاف يو بيبي (feat. Ali Adora & Nour Eltot),itunes_artist,not checked,catalog,1452411612.0,اي لاف يو بيبي,Y,Hamo Bika,اي لاف يو بيبي,Y,265.0,title_sim=1.00,0.5,same recording
+1268,Mahraganat,Mohamed Ramadan,رووووح - ROO7,itunes_artist,not checked,catalog,4165982642.0,رووووح - ROO7,Y,Mohamed Ramadan,رووووح - ROO7,Y,129.0,title_sim=1.00,0.2,same recording
+1269,Mahraganat,Wegz,علي راحتي,itunes_artist,not checked,catalog,3642675012.0,علي راحتي,Y,Wegz,جزيرة البطل,Y,222.0,title_sim=1.00,1.0,same recording
+1270,Mahraganat,DJ Totti,Khartoosh,itunes_artist,not checked,catalog,2171417957.0,Khartoosh,Y,DJ Totti,Mahragan El Qahera,Y,221.0,title_sim=1.00,0.2,same recording
+1271,Mahraganat,El Dakhlaweya,فرحة احمد ابو زيد,itunes_artist,not checked,catalog,1121907662.0,فرحة احمد ابو زيد,Y,El Dakhlowya,فرحة احمد ابو زيد,Y,379.0,title_sim=1.00,0.0,same recording
+1272,Mahraganat,El Sawareekh,Trampoline,itunes_artist,not checked,catalog,2363953655.0,Trampoline,Y,El Sawareekh,Trampoline,Y,238.0,title_sim=1.00,0.5,same recording
+1273,Mahraganat,Hamo Bika,Rab El Kon Mayzna Bmiza,itunes_artist,not checked,not found,,,,,,,,,,
+1274,Mahraganat,Mohamed Ramadan,MR.1 - مستر وان,itunes_artist,not checked,catalog,4319377772.0,MR.1 - مستر وان,Y,Mohamed Ramadan,MR.1 - مستر وان,Y,136.0,title_sim=1.00,0.0,same recording
+1275,Mahraganat,Wegz,الغسالة,itunes_artist,not checked,catalog,3641932652.0,الغسالة,Y,Wegz,الغسالة,Y,171.0,title_sim=1.00,0.7,same recording
+1276,Mahraganat,DJ Totti,Late,itunes_artist,not checked,catalog,2171417997.0,Late,Y,DJ Totti,Mahragan El Qahera,Y,238.0,title_sim=1.00,0.7,same recording
+1277,Mahraganat,El Dakhlaweya,200 على 100,itunes_artist,not checked,catalog,3304501781.0,200 على 100,Y,El Dakhlowya,200 علي 100,Y,214.0,title_sim=1.00,0.8,same recording
+1278,Mahraganat,El Sawareekh,سكران خربان (شوفت نملة عاملة عاملة),itunes_artist,not checked,search,3323986941.0,سكران خربان (شوفت نملة عاملة عاملة),Y,El Sawareekh,سكران خربان (شوفت نملة عاملة عاملة),Y,214.0,q=El Sawareekh سكران خربان,0.6,same recording
+1279,Mahraganat,Hamo Bika,Asef Mahtot Fi Hezamy El Nasef,itunes_artist,not checked,search,694342542.0,Asef Mahtot F Hezamy El Nasef,N,Hamo Bika,Asef Mahtot F Hezamy El Nasef,Y,425.0,q=Hamo Bika Asef Mahtot Fi Hezamy El Nasef,0.6,same recording
+1280,Mahraganat,Mohamed Ramadan,كوكا كان كولا كان,itunes_artist,not checked,catalog,3513349131.0,كوكا كان كولا كان,Y,Mohamed Ramadan,كوكا كان كولا كان,Y,100.0,title_sim=1.00,0.2,same recording
+1281,Mahraganat,Wegz,Kalam Forsan (feat. Mohamed Mounir),itunes_artist,not checked,catalog,4345933292.0,Kalam Forsan (feat. Mohamed Mounir),Y,Wegz,AQAREB (Deluxe Edition),Y,216.0,title_sim=1.00,0.0,same recording
+1282,Mahraganat,DJ Totti,Negm Elshasha,itunes_artist,not checked,catalog,1689673227.0,Negm Elshasha,Y,DJ Totti,Negm Elshasha,Y,161.0,title_sim=1.00,0.3,same recording
+1283,Mahraganat,El Dakhlaweya,فرتكة فرتكة,itunes_artist,not checked,catalog,3550040841.0,فرتكة فرتكة,Y,El Dakhlowya,فرتكة فرتكة,Y,358.0,title_sim=1.00,0.4,same recording
+1284,Mahraganat,El Sawareekh,Bm Bm Tm Tm,itunes_artist,not checked,catalog,2363948175.0,Bm Bm Tm Tm,Y,El Sawareekh,Bm Bm Tm Tm,Y,212.0,title_sim=1.00,0.2,same recording
+1285,Mahraganat,Hamo Bika,"Wada3 Ya Donia (feat. Ali Adora, Nour el Tot & Hassan Shakosh)",itunes_artist,not checked,search,736145712.0,Mahragan Wada3 Ya Donia,N,Hamo Bika,Mahragan Wada3 Ya Donia,Y,395.0,q=Hamo Bika wada3 ya donia,0.4,same recording
+1286,Mahraganat,Mohamed Ramadan,Ana Enta (Delarue & Orio Remix),itunes_artist,not checked,catalog,4043923291.0,Ana Enta (Delarue & Orio Remix),Y,Mohamed Ramadan,Ana Enta (Delarue & Orio Remix),Y,154.0,title_sim=1.00,0.8,same recording
+1287,Mahraganat,Wegz,Bad Days,itunes_artist,not checked,catalog,4345933142.0,Bad Days,Y,Wegz,AQAREB (Deluxe Edition),Y,195.0,title_sim=1.00,0.8,same recording
+1288,Mahraganat,DJ Totti,النسيان,itunes_artist,not checked,skeleton_review,3399524391.0,El Nesyan,N,DJ Totti,3ala Fen?,Y,128.0,skel=1.00 (lnsn~lnsn); dur_diff=0s,0.1,same recording
+1289,Mahraganat,El Dakhlaweya,طبع أسود,itunes_artist,not checked,catalog,1121907482.0,طبع أسود,Y,El Dakhlowya,طبع أسود,Y,241.0,title_sim=1.00,0.3,same recording
+1290,Mahraganat,El Sawareekh,El Wad By3iat Leeh,itunes_artist,not checked,catalog,2363953675.0,El Wad By3iat Leeh,Y,El Sawareekh, El Wad By3iat Leeh,Y,206.0,title_sim=1.00,0.7,same recording
+1291,Mahraganat,Hamo Bika,Mahragan Gornal Kalam,itunes_artist,not checked,search,4374437761.0,Mahragan Gornal Kalam,Y,Hamo Bika,Mahragan Gornal Kalam,Y,272.0,q=Hamo Bika Mahragan Gornal Kalam,0.0,same recording
+1292,Mahraganat,Mohamed Ramadan,Jeddah Ghair,itunes_artist,not checked,search,3532015241.0,Jeddah Ghair,Y,Mohamed Ramadan,Jeddah Ghair,Y,156.0,q=Mohamed Ramadan Jeddah Ghair,0.7,same recording
+1293,Mahraganat,Wegz,سكرتي,itunes_artist,not checked,catalog,3652424102.0,سكرتي,Y,Wegz,سكرتي,Y,210.0,title_sim=1.00,0.9,same recording
+1294,Mahraganat,DJ Totti,و ليه؟,itunes_artist,not checked,skeleton_review,3399524431.0,W Leeh?,N,DJ Totti,3ala Fen?,Y,180.0,skel=1.00 (lh~lh); dur_diff=0s,0.0,same recording
+1295,Mahraganat,El Dakhlaweya,El Sha3waza,itunes_artist,not checked,catalog,1015585872.0,El Sha3waza,Y,El Dakhlowya,El Sha3waza,Y,413.0,title_sim=1.00,0.7,same recording
+1296,Mahraganat,El Sawareekh,Maganin,itunes_artist,not checked,search,3460886661.0,Maganin,Y,El Sawareekh,Maganin,Y,146.0,q=El Sawareekh Maganin,0.7,same recording
+1297,Mahraganat,Hamo Bika,شايف كلابش في ايدك (feat. Hamo ElTikha),itunes_artist,not checked,catalog,2329198975.0,شايف كلابش في ايدك,Y,Hamo Bika,شايف كلابش في ايدك,Y,222.0,title_sim=1.00,0.3,same recording
+1298,Mahraganat,Mohamed Ramadan,Ensay,itunes_artist,not checked,not found,,,,,,,,,,
+1299,Mahraganat,Wegz,أسياد الصوت (feat. LZHYMR),itunes_artist,not checked,catalog,3642675002.0,أسياد الصوت,Y,Wegz,أسياد الصوت,Y,188.0,title_sim=1.00,0.6,same recording
+1300,Mahraganat,DJ Totti,اغنيلك؟,itunes_artist,not checked,skeleton_review,3399524441.0,Aghanelak?,N,DJ Totti,3ala Fen?,Y,173.0,skel=1.00 (gnlk~gnlk); dur_diff=1s,0.9,same recording
+1301,Mahraganat,El Dakhlaweya,الشوط الاول,itunes_artist,not checked,catalog,3250114311.0,الشوط الاول,Y,El Dakhlowya,الشوط الاول,Y,338.0,title_sim=1.00,0.1,same recording
+1302,Mahraganat,El Sawareekh,Ehna El Sohab,itunes_artist,not checked,catalog,2363708335.0,Ehna El Sohab,Y,El Sawareekh,Ehna El Sohab,Y,164.0,title_sim=1.00,0.8,same recording
+1303,Mahraganat,Hamo Bika,Kart Ahmar (feat. Hasan Shakoush),itunes_artist,not checked,catalog,952400392.0,Kart Ahmar,Y,Hamo Bika,Kart Ahmar,Y,360.0,title_sim=1.00,0.1,same recording
+1304,Mahraganat,Mohamed Ramadan,Brown Skin Girl,itunes_artist,not checked,catalog,4003466531.0,Brown Skin Girl,Y,Noizy,Brown Skin Girl,Y,152.0,title_sim=1.00,1.0,same recording
+1305,Mahraganat,Wegz,منحوس,itunes_artist,not checked,catalog,3448789611.0,منحوس,Y,Wegz,منحوس,Y,246.0,title_sim=1.00,0.1,same recording
+1306,Mahraganat,DJ Totti,Bahlam Maak (Dj Totti Remix),itunes_artist,not checked,catalog,2320511045.0,Bahlam Maak,N,DJ Totti,Bahlam Maak (Dj Totti Remix),Y,204.0,title_sim=1.00,0.7,same recording
+1307,Mahraganat,El Dakhlaweya,باريس اسكندرية,itunes_artist,not checked,catalog,1130397202.0,باريس اسكندرية,Y,El Dakhlowya,باريس اسكندرية,Y,444.0,title_sim=1.00,0.4,same recording
+1308,Mahraganat,El Sawareekh,Telephony Beyren,itunes_artist,not checked,search,3638792642.0,Telephony Beyren,Y,El Sawareekh,Telephony Beyren,N,132.0,q=El Sawareekh Telephony Beyren,0.0,same recording
+1309,Mahraganat,Hamo Bika,100 Fol Hez Haza (feat. Hamada El Asmar),itunes_artist,not checked,catalog,3092091691.0,100 Fol Hez Haza,Y,Hamo Bika,100 Fol Hez Haza,Y,288.0,title_sim=1.00,0.1,same recording
+1310,Mahraganat,Mohamed Ramadan,YALLA,itunes_artist,not checked,search,3463504011.0,YALLA,Y,Mohamed Ramadan,YALLA,Y,131.0,q=Mohamed Ramadan YALLA,0.2,same recording
+1311,Mahraganat,Wegz,باظت,itunes_artist,not checked,catalog,3644676912.0,باظت,Y,Wegz,باظت,Y,161.0,title_sim=1.00,0.1,same recording
+1312,Mahraganat,DJ Totti,مين مع مين؟,itunes_artist,not checked,skeleton_review,3399524451.0,Men M3 Men?,N,DJ Totti,3ala Fen?,Y,150.0,skel=1.00 (mnmn~mnmn); dur_diff=1s,0.6,same recording
+1313,Mahraganat,El Dakhlaweya,لفة غدر,itunes_artist,not checked,catalog,2827080482.0,لفة غدر,Y,El Dakhlowya,لفة غدر,Y,246.0,title_sim=1.00,0.4,same recording
+1314,Mahraganat,El Sawareekh,Far7et El Marg,itunes_artist,not checked,search,2845593602.0,Far7et El Marg,Y,El Sawareekh,Far7et El Marg,Y,179.0,q=El Sawareekh Far7et El Marg,0.3,same recording
+1315,Mahraganat,Hamo Bika,Kolo Festek (feat. Filo & Abo El Shouq),itunes_artist,not checked,catalog,900049802.0,Kolo Festek (feat. Filo & Abo El Shouq),Y,Hamo Bika,Kolo Festek (feat. Filo & Abo El Shouq),Y,227.0,title_sim=1.00,0.3,same recording
+1316,Mahraganat,Mohamed Ramadan,Players,itunes_artist,not checked,not found,,,,,,,,,,
+1317,Mahraganat,Wegz,مش فير,itunes_artist,not checked,catalog,3641996032.0,مش فير,Y,Wegz,مش فير,Y,230.0,title_sim=1.00,1.0,same recording
+1318,Mahraganat,DJ Totti,Ablatena,itunes_artist,not checked,catalog,1656144452.0,Ablatena,Y,DJ Totti,Ablatena,Y,141.0,title_sim=1.00,0.6,same recording
+1319,Mahraganat,El Dakhlaweya,Far7et Sha3er El 3'ya,itunes_artist,not checked,catalog,1017771772.0,Far7et Sha3er El 3'ya,Y,El Dakhlowya,Far7et Sha3er El 3'ya,Y,376.0,title_sim=1.00,0.8,same recording
+1320,Mahraganat,El Sawareekh,2oll Ya Rayek,itunes_artist,not checked,search,2106372637.0,2oll Ya Rayek,Y,El Sawareekh,2oll Ya Rayek,Y,161.0,q=El Sawareekh 2oll Ya Rayek,0.7,same recording
+1321,Mahraganat,Hamo Bika,انا راجع يا شوية جواجع (feat. Hamo ElTikha & Nour Eltot),itunes_artist,not checked,catalog,1818238407.0,انا راجع يا شوية جواجع,Y,Hamo Bika,انا راجع يا شوية جواجع,Y,206.0,title_sim=1.00,0.4,same recording
+1322,Mahraganat,Mohamed Ramadan,Wala Lela,itunes_artist,not checked,catalog,3605446082.0,Wala Lela,Y,Imanbek,Wala Lela,Y,132.0,title_sim=1.00,0.6,same recording
+1323,Mahraganat,Wegz,TNKR.,itunes_artist,not checked,catalog,3227008121.0,TNKR.,Y,Wegz,GADWAL EL DARB,Y,147.0,title_sim=1.00,0.7,same recording
+1324,Mahraganat,El Dakhlaweya,قصة مندرة بحري,itunes_artist,not checked,catalog,1123527972.0,قصة مندرة بحري,Y,El Dakhlowya,قصة مندرة بحري,Y,450.0,title_sim=1.00,0.4,same recording
+1325,Mahraganat,El Sawareekh,Ya Dmo3,itunes_artist,not checked,catalog,2363950755.0,Ya Dmo3,Y,El Sawareekh,Ya Dmo3,Y,138.0,title_sim=1.00,0.7,same recording
+1326,Mahraganat,Hamo Bika,هلا والله,itunes_artist,not checked,not found,,,,,,,,,,
+1327,Mahraganat,Mohamed Ramadan,Sah-Sah,itunes_artist,not checked,not found,,,,,,,,,,
+1328,Mahraganat,Wegz,خد و هات,itunes_artist,not checked,catalog,3448789541.0,خد و هات,Y,Wegz,خد و هات,Y,160.0,title_sim=1.00,0.1,same recording
+1329,Mahraganat,El Dakhlaweya,بوم طخ,itunes_artist,not checked,catalog,1121907902.0,بوم طخ,Y,El Dakhlowya,بوم طخ,Y,399.0,title_sim=1.00,0.2,same recording
+1330,Mahraganat,El Sawareekh,El Fra7 By3mel Ezay,itunes_artist,not checked,catalog,2363948485.0,El Fra7 By3mel Ezay,Y,El Sawareekh,El Fra7 By3mel Ezay,Y,93.0,title_sim=1.00,0.2,same recording
+1331,Mahraganat,Hamo Bika,Mahragan Adek Ala El Touch,itunes_artist,not checked,catalog,708467342.0,Mahragan Adek Ala El Touch,Y,Hamo Bika,Hamo Bika Collection,Y,392.0,title_sim=1.00,0.8,same recording
+1332,Mahraganat,Mohamed Ramadan,I DON'T KNOW,itunes_artist,not checked,not found,,,,,,,,,,
+1333,Mahraganat,Wegz,ساليني,itunes_artist,not checked,catalog,3642643952.0,ساليني,Y,Wegz,ساليني,Y,174.0,title_sim=1.00,0.5,same recording
+1334,Mahraganat,El Dakhlaweya,دخلاوية يلا,itunes_artist,not checked,catalog,2779594771.0,دخلاوية يلا,Y,El Dakhlowya,دخلاوية يلا,Y,296.0,title_sim=1.00,0.9,same recording
+1335,Mahraganat,El Sawareekh,Al Shaytan,itunes_artist,not checked,search,2141738467.0,Al Shaytan,Y,El Sawareekh,Al Shaytan,Y,144.0,q=El Sawareekh Al Shaytan,0.0,same recording
+1336,Mahraganat,Hamo Bika,Esood Ardena,itunes_artist,not checked,catalog,592185052.0,Esood Ardena,Y,Hamo Bika,Hamo Bika Collection,Y,364.0,title_sim=1.00,0.6,same recording
+1337,Mahraganat,Mohamed Ramadan,بحب اتصور كده,itunes_artist,not checked,not found,,,,,,,,,,
+1338,Mahraganat,Wegz,كان نفسي,itunes_artist,not checked,catalog,3642675042.0,كان نفسي,Y,Wegz,جزيرة البطل,Y,253.0,title_sim=1.00,0.3,same recording
+1339,Mahraganat,El Dakhlaweya,حكاية العطارين ج٣,itunes_artist,not checked,catalog,2930471931.0,حكاية العطارين ج٣,Y,El Dakhlowya,حكاية العطارين ج٣,Y,429.0,title_sim=1.00,0.3,same recording
+1340,Mahraganat,El Sawareekh,Belhob,itunes_artist,not checked,search,2743740441.0,Belhob,Y,El Sawareekh,Belhob,Y,150.0,q=El Sawareekh Belhob,0.9,same recording
+1341,Mahraganat,Hamo Bika,Mahragan Hebouny Fi Weshy,itunes_artist,not checked,catalog,751245222.0,Mahragan Hebouny Fi Weshy,Y,Hamo Bika,Mahragan Hebouny Fi Weshy,Y,369.0,title_sim=1.00,0.6,same recording
+1342,Mahraganat,Mohamed Ramadan,Ki Yesralek - حبيبي مالك,itunes_artist,not checked,catalog,4111183291.0,Ki Yesralek - حبيبي مالك,Y,Kader Japonais,Ki Yesralek - حبيبي مالك,Y,150.0,title_sim=1.00,0.1,same recording
+1343,Mahraganat,Wegz,Ezz Al Arab (Music from the Fifa World Cup Qatar 2022 Official Soundtrack),itunes_artist,not checked,catalog,2068776327.0,EZZ AL ARAB (Music from the FIFA World Cup Qatar 2022 Official Soundtrack),Y,Wegz,EZZ AL ARAB (Music from the FIFA World Cup Qatar 2022 Official Soundtrack),Y,213.0,title_sim=1.00,0.8,same recording
+1344,Mahraganat,El Dakhlaweya,عايزين من الأخضر,itunes_artist,not checked,catalog,2815627362.0,عايزين من الأخضر,Y,El Dakhlowya,عايزين من الأخضر,Y,238.0,title_sim=1.00,0.0,same recording
+1345,Mahraganat,El Sawareekh,Azamat Albeya,itunes_artist,not checked,catalog,2363953005.0,Azamat Albeya,Y,El Sawareekh,Azamat Albeya,Y,198.0,title_sim=1.00,0.5,same recording
+1346,Mahraganat,Hamo Bika,Ayesh Mazbot,itunes_artist,not checked,catalog,594692002.0,Ayesh Mazbot,Y,Hamo Bika,Mesh Habayeb,Y,366.0,title_sim=1.00,0.6,same recording
+1347,Mahraganat,Wegz,نصين,itunes_artist,not checked,catalog,3641992632.0,نصين,Y,Wegz,نصين,Y,143.0,title_sim=1.00,0.6,same recording
+1348,Mahraganat,El Dakhlaweya,مهرجان الرجولة والشهامة,itunes_artist,not checked,catalog,1631343692.0,مهرجان الرجولة والشهامة,Y,El Dakhlaweya,مهرجان الرجولة والشهامة,Y,489.0,title_sim=1.00,0.8,same recording
+1349,Mahraganat,El Sawareekh,Kolo Kom,itunes_artist,not checked,search,2741247771.0,Kolo Kom,Y,El Sawareekh,Kolo Kom,Y,179.0,q=El Sawareekh Kolo Kom,0.4,same recording
+1350,Mahraganat,Hamo Bika,Donia Fanya (feat. Weeda),itunes_artist,not checked,catalog,1264546842.0,Donia Fanya,Y,Hamo Bika,Donia Fanya,Y,200.0,title_sim=1.00,0.3,same recording
+1351,Mahraganat,Wegz,الزار,itunes_artist,not checked,catalog,3642675022.0,الزار,Y,Wegz,جزيرة البطل,Y,216.0,title_sim=1.00,0.6,same recording
+1352,Mahraganat,El Dakhlaweya,Sefy El Hara2,itunes_artist,not checked,catalog,1016626922.0,Sefy El Hara2,Y,El Dakhlowya,Sefy El Hara2,Y,389.0,title_sim=1.00,0.1,same recording
+1353,Mahraganat,El Sawareekh,Ya Akhy B2a,itunes_artist,not checked,catalog,2363948855.0,Ya Akhy B2a,Y,El Sawareekh,Ya Akhy B2a,Y,216.0,title_sim=1.00,0.9,same recording
+1354,Mahraganat,Hamo Bika,Masdar Ez3ag Legheiry (feat. Wezza),itunes_artist,not checked,catalog,1104401592.0,Masdar Ez3ag Legheiry (feat. Wezza),Y,Hamo Bika,Masdar Ez3ag Legheiry (feat. Wezza),Y,257.0,title_sim=1.00,0.5,same recording
+1355,Mahraganat,Wegz,Ezay Tfotny,itunes_artist,not checked,catalog,4345933222.0,Ezay Tfotny,Y,Wegz,AQAREB (Deluxe Edition),Y,189.0,title_sim=1.00,0.8,same recording
+1356,Mahraganat,El Dakhlaweya,الفرح,itunes_artist,not checked,catalog,3304501801.0,الفرح,Y,El Dakhlowya,200 علي 100,Y,240.0,title_sim=1.00,0.0,same recording
+1357,Mahraganat,El Sawareekh,3andy Sahb,itunes_artist,not checked,search,2742721121.0,3andy Sahb,Y,El Sawareekh,3andy Saheb,Y,168.0,q=El Sawareekh 3andy Sahb,0.9,same recording
+1358,Mahraganat,Hamo Bika,Darbetna Betewgaa,itunes_artist,not checked,catalog,594692012.0,Darbetna Betewgaa,Y,Hamo Bika,Mesh Habayeb,Y,357.0,title_sim=1.00,0.9,same recording
+1359,Mahraganat,Wegz,مش هقولك بيبي,itunes_artist,not checked,catalog,3448953341.0,مش هقولك بيبي,Y,Wegz,مش هقولك بيبي,Y,199.0,title_sim=1.00,0.1,same recording
+1360,Mahraganat,El Dakhlaweya,فوقوا يا اسيادنا,itunes_artist,not checked,catalog,1123528622.0,فوقوا يا اسيادنا,Y,El Dakhlowya,فوقوا يا اسيادنا,Y,421.0,title_sim=1.00,0.6,same recording
+1361,Mahraganat,El Sawareekh,كتف X كتف (feat. Wezza Montaser & Shobra El General),itunes_artist,not checked,search,2971798881.0,كتف X كتف,Y,El Sawareekh,الديسكو,Y,176.0,q=El Sawareekh كتف X كتف (feat. Wezza Montaser & Shobra El General),0.2,same recording
+1362,Mahraganat,Hamo Bika,اه يا ناري (feat. Hassan Shakosh & Omar Kamal),itunes_artist,not checked,catalog,2944026961.0,اه يا ناري,Y,Hamo Bika,اه يا ناري,Y,168.0,title_sim=1.00,0.0,same recording
+1363,Mahraganat,Wegz,Ghareeba (feat. ZIAD ZAZA),itunes_artist,not checked,catalog,4345933212.0,Ghareeba (feat. ZIAD ZAZA),Y,Wegz,AQAREB (Deluxe Edition),Y,247.0,title_sim=1.00,0.5,same recording
+1364,Mahraganat,El Dakhlaweya,الله غالب,itunes_artist,not checked,catalog,3304501811.0,الله غالب,Y,El Dakhlowya,200 علي 100,Y,230.0,title_sim=1.00,0.2,same recording
+1365,Mahraganat,El Sawareekh,أصحا يا بابا (feat. Shobra El General & Coolpix),itunes_artist,not checked,search,2971798891.0,أصحا يا بابا,Y,El Sawareekh,الديسكو,Y,199.0,q=El Sawareekh أصحا يا بابا,0.1,same recording
+1366,Mahraganat,Hamo Bika,7 Farkat,itunes_artist,not checked,search,731356342.0,Mahragan 7 Farkat,N,Hamo Bika,Mahragan 7 Farkat,Y,385.0,q=Hamo Bika 7 Farkat,0.5,same recording
+1367,Mahraganat,Wegz,حورية,itunes_artist,not checked,catalog,3642675032.0,حورية,Y,Wegz,جزيرة البطل,Y,187.0,title_sim=1.00,0.4,same recording
+1368,Mahraganat,El Dakhlaweya,ساعه الصفر,itunes_artist,not checked,catalog,1112842732.0,ساعه الصفر,Y,El Dakhlowya,ساعه الصفر,Y,442.0,title_sim=1.00,0.4,same recording
+1369,Mahraganat,El Sawareekh,Heya Ba2et Keda,itunes_artist,not checked,catalog,2363954335.0,Heya Ba2et Keda,Y,El Sawareekh,Heya Ba2et Keda,Y,221.0,title_sim=1.00,0.0,same recording
+1370,Mahraganat,Hamo Bika,Akhtar Akshangy,itunes_artist,not checked,search,694342362.0,Akhtr Akshangy,N,Hamo Bika,Akhtr Akshangy,Y,518.0,q=Hamo Bika Akhtar Akshangy,0.1,same recording
+1371,Mahraganat,Wegz,Msh Kol Marra (feat. Nasser),itunes_artist,not checked,catalog,4345933282.0,Msh Kol Marra (feat. Nasser),Y,Wegz,AQAREB (Deluxe Edition),Y,220.0,title_sim=1.00,0.9,same recording
+1372,Mahraganat,El Dakhlaweya,حديث السن,itunes_artist,not checked,catalog,2797764892.0,حديث السن,Y,El Dakhlowya,حديث السن,Y,199.0,title_sim=1.00,0.3,same recording
+1373,Mahraganat,El Sawareekh,Al Shabab El Kabirah (feat. Zuksh),itunes_artist,not checked,catalog,2363948495.0,Al Shabab El Kabirah,Y,El Sawareekh,Al Shabab El Kabirah,Y,190.0,title_sim=1.00,0.9,same recording
+1374,Mahraganat,Hamo Bika,Alem Fased 2,itunes_artist,not checked,search,694342172.0,Alam Fased 2,N,Hamo Bika,Alam Fased 2,Y,462.0,q=Hamo Bika Alem Fased 2,0.7,same recording
+1375,Mahraganat,Wegz,أنا,itunes_artist,not checked,catalog,4321780032.0,أنا,Y,Wegz,أنا,Y,105.0,title_sim=1.00,0.4,same recording
+1376,Mahraganat,El Dakhlaweya,متركبش عـ السلام,itunes_artist,not checked,catalog,1131306542.0,متركبش عـ السلام,Y,El Dakhlowya,متركبش عـ السلام,Y,403.0,title_sim=1.00,0.4,same recording
+1377,Mahraganat,El Sawareekh,Saheb El Senen,itunes_artist,not checked,catalog,2363953695.0,Saheb El Senen,Y,El Sawareekh,Saheb El Senen,Y,176.0,title_sim=1.00,0.1,same recording
+1378,Mahraganat,Hamo Bika,Bent El Batal,itunes_artist,not checked,catalog,1017771992.0,Bent El Batal,Y,Hamo Bika,Bent El Batal,Y,371.0,title_sim=1.00,0.8,same recording
+1379,Mahraganat,Wegz,Bey Ulu ma y Ulu,itunes_artist,not checked,catalog,4345933122.0,Bey Ulu ma y Ulu,Y,Wegz,AQAREB (Deluxe Edition),Y,169.0,title_sim=1.00,0.0,same recording
+1380,Mahraganat,El Dakhlaweya,العو بيفجع,itunes_artist,not checked,catalog,1131434292.0,العو بيفجع,Y,El Dakhlowya,العو بيفجع,Y,356.0,title_sim=1.00,0.8,same recording
+1381,Mahraganat,El Sawareekh,Fargello (feat. Shobra El General & El KVP),itunes_artist,not checked,search,3493846571.0,Fargello,Y,El Sawareekh,Fargello (feat. Shobra El General & EL KVP),Y,178.0,q=El Sawareekh Fargello (feat. Shobra El General & El KVP),0.3,same recording
+1382,Mahraganat,Hamo Bika,أصحابي أخصامي (الجزء التاني),itunes_artist,not checked,catalog,2689820432.0,أصحابي أخصامي (الجزء التاني),Y,Hamo Bika,أصحابي أخصامي (الجزء التاني),Y,343.0,title_sim=1.00,0.4,same recording
+1383,Mahraganat,Wegz,حواري,itunes_artist,not checked,catalog,3641996072.0,حواري,Y,Wegz,حواري,Y,188.0,title_sim=1.00,0.9,same recording
+1384,Mahraganat,El Dakhlaweya,العيش والملح,itunes_artist,not checked,catalog,3304501821.0,العيش والملح,Y,El Dakhlowya,200 علي 100,Y,238.0,title_sim=1.00,0.4,same recording
+1385,Mahraganat,El Sawareekh,بلعبها تاتا,itunes_artist,not checked,search,3514187711.0,بلعبها تاتا,Y,El Sawareekh,بلعبها تاتا,Y,156.0,q=El Sawareekh بلعبها تاتا,0.3,same recording
+1386,Mahraganat,Hamo Bika,Khaleg El Atareen,itunes_artist,not checked,catalog,1060474672.0,Khaleg El Atareen,Y,Hamo Bika,Khaleg El Atareen,Y,453.0,title_sim=1.00,0.8,same recording
+1387,Mahraganat,Wegz,متواليش,itunes_artist,not checked,catalog,3448774281.0,متواليش,Y,Wegz,متواليش,Y,166.0,title_sim=1.00,0.8,same recording
+1388,Mahraganat,El Dakhlaweya,باب عمر باشا,itunes_artist,not checked,catalog,1131307052.0,باب عمر باشا,Y,El Dakhlowya,باب عمر باشا,Y,407.0,title_sim=1.00,0.5,same recording
+1389,Mahraganat,El Sawareekh,El Nas Betbos,itunes_artist,not checked,search,2738706761.0,El Nas Betbos,Y,El Sawareekh,El Nas Betbos,Y,160.0,q=El Sawareekh El Nas Betbos,0.8,same recording
+1390,Mahraganat,Hamo Bika,اصحابي اخصامي 2,itunes_artist,not checked,catalog,3103141501.0,اصحابي اخصامي 2,Y,Hamo Bika,اصحابي اخصامي 2,Y,343.0,title_sim=1.00,0.3,same recording
+1391,Mahraganat,Wegz,تايه,itunes_artist,not checked,catalog,3641934192.0,تايه,Y,Wegz,تايه,Y,186.0,title_sim=1.00,0.1,same recording
+1392,Mahraganat,El Dakhlaweya,صاحبي اللي صاحبته,itunes_artist,not checked,catalog,1123186682.0,صاحبي اللي صاحبته,Y,El Dakhlowya,صاحبي اللي صاحبته,Y,434.0,title_sim=1.00,0.2,same recording
+1393,Mahraganat,El Sawareekh,Dayra,itunes_artist,not checked,search,3638790942.0,Dayra,Y,El Sawareekh,Dayra,N,144.0,q=El Sawareekh Dayra,0.8,same recording
+1394,Mahraganat,Hamo Bika,Mahragan Mabad Fan Eskendereya,itunes_artist,not checked,catalog,708467392.0,Mahragan Mabad Fan Eskendereya,Y,Hamo Bika,Hamo Bika Collection,Y,508.0,title_sim=1.00,0.6,same recording
+1395,Mahraganat,Wegz,"حلوة منك (من فيلم ""ڤوي! ڤوي! ڤوي!"")",itunes_artist,not checked,catalog,3641995652.0,"حلوة منك (من فيلم ""ڤوي! ڤوي! ڤوي!"")",Y,Wegz,"حلوة منك (من فيلم ""ڤوي! ڤوي! ڤوي!"")",Y,210.0,title_sim=1.00,0.3,same recording
+1396,Mahraganat,El Dakhlaweya,قصه كفاح,itunes_artist,not checked,catalog,1112842072.0,قصه كفاح,Y,El Dakhlowya,قصه كفاح,Y,831.0,title_sim=1.00,1.0,same recording
+1397,Mahraganat,El Sawareekh,أنا مش هحب تاني (feat. ONUY & Lil Alex Music),itunes_artist,not checked,search,2971798901.0,أنا مش هحب تاني,Y,El Sawareekh,الديسكو,Y,178.0,q=El Sawareekh أنا مش هحب تاني,0.2,same recording
+1398,Mahraganat,Hamo Bika,Sanat El Awga',itunes_artist,not checked,catalog,1189170962.0,Sanat El Awga',Y,Hamo Bika,Sanat El Awga',Y,224.0,title_sim=1.00,0.0,same recording
+1399,Mahraganat,Wegz,RLVNT.,itunes_artist,not checked,catalog,3227008131.0,RLVNT.,Y,Wegz,GADWAL EL DARB,Y,126.0,title_sim=1.00,0.9,same recording
+1401,Asian Underground,A. R. Rahman,Mumbai Theme Tune,stage1:U01,not matched on Deezer,not found,,,,,,,,,,
+1402,Asian Underground,Amar,Heavy Intro,stage1:U01,not matched on Deezer,not found,,,,,,,,,,
+1406,Asian Underground,Badmarsh,Day By Day (Chris Coco Remix),stage1:U10,not matched on Deezer,catalog,398397782.0,Day by Day,N,Badmarsh & Shri,Signs,Y,277.0,title_sim=1.00,286.8,other version
+1410,Asian Underground,Dum Dum Project,Punjabi 5-0,stage1:U10,not matched on Deezer,album_search,6386843.0,Punjabi Five-0,N,Dum Dum Project Feat The1Shanti,Spiritual Bling,Y,233.0,album=Spiritual Bling,0.7,same recording
+1411,Asian Underground,Equal I,Equation,stage1:U01,not matched on Deezer,not found,,,,,,,,,,
+1413,Asian Underground,Future Soundz of India,Shang High,stage1:U01,not matched on Deezer,not found,,,,,,,,,,
+1416,Asian Underground,Juttla,Bionic Beats,stage1:U08,not matched on Deezer,not found,,,,,,,,,,
+1417,Asian Underground,Kingsuk Biswas,K-Ascendant,stage1:U01,not matched on Deezer,not found,,,,,,,,,,
+1419,Asian Underground,Mo Magic,Mixed Vision,stage1:U05,not matched on Deezer,not found,,,,,,,,,,
+1421,Asian Underground,Osmani Soundz,Spiritual Master Key,stage1:U01,not matched on Deezer,not found,,,,,,,,,,
+1423,Asian Underground,Ravi Harris And The Prophets,Path Of The Blazing Sarong,stage1:U05,not matched on Deezer,search,848072222.0,Path of the Blazing Sarong,Y,Bill Ravi Harris & The Prophets,"BBE20 – Attitude, Belief & Determination",Y,48.0,q=Ravi Harris And The Prophets Path Of The Blazing Sarong,133.0,"same title, length differs"
+1426,Asian Underground,Swami,Valayt khanu ar gaya,stage1:U06,not matched on Deezer,not found,,,,,,,,,,
+1428,Asian Underground,Talvin Singh,Jaan,stage1:U01,not matched on Deezer,not found,,,,,,,,,,
+1429,Asian Underground,Uzma,Yab Yum (Sabres Of Paradise Remix),stage1:U05,not matched on Deezer,not found,,,,,,,,,,
+1431,Asian Underground,Ananda Shankar,Nostalgia,itunes_artist,not checked,catalog,794952772.0,Nostalgia,Y,Ananda Shankar,Shubh - The Auspicious,Y,248.0,title_sim=1.00,0.1,same recording
+1432,Asian Underground,Apache Indian,Don Raja,itunes_artist,not checked,catalog,2448395.0,Don Raja (Prelude),N,Apache Indian,No Reservations,Y,23.0,title_sim=1.00,238.0,other version
+1435,Asian Underground,Black Star Liner,Yemen Cutta Connection Dub,itunes_artist,not checked,search,139076767.0,Yemen Cutta Connection Dub,Y,Black Star Liner,Bombay Nights,Y,220.0,q=Black Star Liner Yemen Cutta Connection Dub,122.5,"same title, length differs"
+1438,Asian Underground,Joi,Nargin,stage1:U06,not matched on Deezer,not found,,,,,,,,,,
+1439,Asian Underground,Juttla,Real Wild Child,stage1:U08,not matched on Deezer,not found,,,,,,,,,,
+1442,Asian Underground,Rishi Rich,Rise & Fall,stage1:U11,not matched on Deezer,not found,,,,,,,,,,
+1444,Asian Underground,Swami,Hommage,stage1:U06,not matched on Deezer,not found,,,,,,,,,,
+1446,Asian Underground,Talvin Singh,Distant God,stage1:U01,not matched on Deezer,not found,,,,,,,,,,
+1447,Asian Underground,A. R. Rahman,Ae Nazneen Suno Na,itunes_artist,not checked,catalog,443872672.0,"Ae Nazneen Suno Na (From ""Dil Hi Dil Mein"")",N,Abhijeet,The Definitive Collection,Y,351.0,title_sim=1.00,2.9,same recording
+1448,Asian Underground,Ananda Shankar,Harmony,itunes_artist,not checked,catalog,794952762.0,Harmony,Y,Ananda Shankar,Shubh - The Auspicious,Y,245.0,title_sim=1.00,0.4,same recording
+1449,Asian Underground,Apache Indian,Fe Real (feat. Maxi Priest),itunes_artist,not checked,catalog,5079579.0,Fe Real,Y,Apache Indian,No Reservations,Y,303.0,title_sim=1.00,1.0,same recording
+1452,Asian Underground,Black Star Liner,Harmon Session Special,itunes_artist,not checked,catalog,1860769987.0,Harmon Session Special,Y,Black Star Liner,Yemen Cutta Connection,Y,279.0,title_sim=1.00,0.5,same recording
+1454,Asian Underground,Joi,E.S.V.,stage1:U06,not matched on Deezer,not found,,,,,,,,,,
+1455,Asian Underground,Juttla,How Much Reality Can You Take?,stage1:U08,not matched on Deezer,search,1150426132.0,How Much Reality Can You Take? (Juttla Remix),N,Banco de Gaia,Igizeh (Special Edition),Y,285.0,q=Juttla How Much Reality Can You Take?,0.7,same recording
+1458,Asian Underground,Rishi Rich,Nahin Tere Jeha Hor Disda (feat. Javeed Bashir),itunes_artist,not checked,catalog,106278866.0,Nahin Tere Jeha Hor Disda,Y,Rishi Rich,Simply Rich,Y,261.0,title_sim=1.00,0.9,same recording
+1460,Asian Underground,TJ Rehmi,Shobha Rock,stage1:U08,not matched on Deezer,album_search,3508073551.0,Shobharock (T.J. Rehmi Mix),N,Trilok Gurtu,Freewheelin' Jazz Soul and Funk,Y,271.0,album=Freewheelin' Jazz Soul and Funk,0.0,same recording
+1462,Asian Underground,Ananda Shankar,Consolation,itunes_artist,not checked,catalog,794952812.0,Consolation,Y,Ananda Shankar,Shubh - The Auspicious,Y,440.0,title_sim=1.00,0.0,same recording
+1463,Asian Underground,Apache Indian,Come Follow Me,itunes_artist,not checked,catalog,2448401.0,Come Follow Me,Y,Apache Indian,No Reservations,Y,281.0,title_sim=1.00,2.5,same recording
+1466,Asian Underground,Black Star Liner,Harmon Looproot (Kid Loops Remix),itunes_artist,not checked,catalog,1899620637.0,Harmon Looproot (Kid Loops Remix),Y,Black Star Liner,Excursion Versions,Y,373.0,title_sim=1.00,0.1,same recording
+1471,Asian Underground,Rishi Rich,Nahin Jeena (feat. Juggy D & Don Dee),itunes_artist,not checked,catalog,106278864.0,Nahin Jeena,Y,Rishi Rich,Simply Rich,Y,246.0,title_sim=1.00,0.9,same recording
+1473,Asian Underground,TJ Rehmi,Non-Violence,stage1:U08,not matched on Deezer,catalog,134384352.0,Non ViolenciA,N,TJ Rehmi,aRRivaL - unreleased from the last century,Y,352.0,title_sim=0.88,0.5,same recording
+1475,Asian Underground,Ananda Shankar,Tears of Joy,itunes_artist,not checked,catalog,794952792.0,Tears of Joy,Y,Ananda Shankar,Shubh - The Auspicious,Y,428.0,title_sim=1.00,0.2,same recording
+1476,Asian Underground,Apache Indian,Aids Warning,itunes_artist,not checked,catalog,2448398.0,Aids Warning,Y,Apache Indian,No Reservations,Y,261.0,title_sim=1.00,1.9,same recording
+1479,Asian Underground,Black Star Liner,Inverse,itunes_artist,not checked,catalog,1860769977.0,Inverse,Y,Black Star Liner,Yemen Cutta Connection,Y,220.0,title_sim=1.00,0.7,same recording
+1480,Asian Underground,Fun-Da-Mental,Mother India,itunes_artist,not checked,catalog,60952689.0,Mother India (Spirit Of The Tiger Moody Boyz Mix),N,Fun Da Mental,Insurgent Remixes,Y,336.0,title_sim=1.00,12.4,other version
+1481,Asian Underground,Joi,Fingers,itunes_artist,not checked,catalog,100536406.0,Fingers,Y,Joi,Joi Sound System,Y,391.0,title_sim=1.00,4.8,"same title, length differs"
+1485,Asian Underground,TJ Rehmi,Transform,itunes_artist,not checked,catalog,71307346.0,Transform,Y,TJ Rehmi,Invisible Rain,Y,359.0,title_sim=1.00,0.6,same recording
+1487,Asian Underground,Ananda Shankar,Inspiration,itunes_artist,not checked,catalog,794952782.0,Inspiration,Y,Ananda Shankar,Shubh - The Auspicious,Y,262.0,title_sim=1.00,0.9,same recording
+1488,Asian Underground,Apache Indian,Boba,itunes_artist,not checked,catalog,2430589.0,Boba,Y,Apache Indian,Make Way For The Indian,Y,305.0,title_sim=1.00,0.1,same recording
+1491,Asian Underground,Black Star Liner,Hooba! Hooba!,itunes_artist,not checked,catalog,1860769967.0,Hooba! Hooba!,Y,Black Star Liner,Yemen Cutta Connection,Y,176.0,title_sim=1.00,0.1,same recording
+1492,Asian Underground,Fun-Da-Mental,The Distorted C,itunes_artist,not checked,catalog,948762.0,The Distorted C,Y,Fun Da Mental,Erotic Terrorism,Y,245.0,title_sim=1.00,0.9,same recording
+1493,Asian Underground,Joi,Asian Vibes,itunes_artist,not checked,catalog,100536412.0,Asian Vibes,Y,Joi,Joi Sound System,Y,348.0,title_sim=1.00,1.8,same recording
+1495,Asian Underground,Panjabi MC,Dhol Jageero Da,itunes_artist,not checked,catalog,3689267822.0,Dhol Jageero Da (The Reggae Remix),N,Panjabi MC,Steel Bangle,Y,301.0,title_sim=1.00,36.3,other version
+1497,Asian Underground,TJ Rehmi,Invisible Rain,itunes_artist,not checked,catalog,71307343.0,Invisible Rain,Y,TJ Rehmi,Invisible Rain,Y,386.0,title_sim=1.00,0.0,same recording
+1499,Asian Underground,Ananda Shankar,Revolution,itunes_artist,not checked,catalog,794952802.0,Revolution,Y,Ananda Shankar,Shubh - The Auspicious,Y,281.0,title_sim=1.00,0.8,same recording
+1500,Asian Underground,Apache Indian,Armagideon Time (feat. Yami Bolo),itunes_artist,not checked,catalog,2430588.0,Armagideon Time,Y,Apache Indian,Make Way For The Indian,Y,330.0,title_sim=1.00,0.4,same recording
+1503,Asian Underground,Black Star Liner,Duggie Dohl,itunes_artist,not checked,catalog,1899620697.0,Duggie Dohl,Y,Black Star Liner,Excursion Versions,Y,286.0,title_sim=1.00,0.3,same recording
+1504,Asian Underground,Fun-Da-Mental,Fire Water,itunes_artist,not checked,catalog,951084.0,Fire Water,Y,Fun Da Mental,There Shall Be Love!,Y,307.0,title_sim=1.00,0.6,same recording
+1506,Asian Underground,Panjabi MC,Boliyan,itunes_artist,not checked,catalog,3578906231.0,Boliyan,Y,Panjabi MC,Desi,Y,275.0,title_sim=1.00,24.4,"same title, length differs"
+1508,Asian Underground,TJ Rehmi,Dil Mai Durad,itunes_artist,not checked,catalog,941025.0,Dil Mai Durad,Y,TJ Rehmi,Mera Therapy,Y,278.0,title_sim=1.00,0.0,same recording
+1510,Asian Underground,Ananda Shankar,Mother Earth,itunes_artist,not checked,catalog,794952822.0,Mother Earth,Y,Ananda Shankar,Shubh - The Auspicious,Y,491.0,title_sim=1.00,0.3,same recording
+1511,Asian Underground,Apache Indian,Badd Indian,itunes_artist,not checked,catalog,2448407.0,Badd Indian,Y,Apache Indian,No Reservations,Y,273.0,title_sim=1.00,0.3,same recording
+1514,Asian Underground,Black Star Liner,Soft Sitar,itunes_artist,not checked,catalog,1860770007.0,Soft Sitar,Y,Black Star Liner,Yemen Cutta Connection,Y,354.0,title_sim=1.00,0.3,same recording
+1515,Asian Underground,Fun-Da-Mental,The Last Gospel,itunes_artist,not checked,catalog,60952685.0,The Last Gospel (DJ Nasha 100% Remix),N,Fun Da Mental,Insurgent Remixes,Y,409.0,title_sim=1.00,55.3,other version
+1517,Asian Underground,Panjabi MC,Intro,itunes_artist,not checked,catalog,3689267792.0,Intro,Y,Panjabi MC,Steel Bangle,Y,40.0,title_sim=1.00,45.8,"same title, length differs"
+1519,Asian Underground,TJ Rehmi,A Path With a Heart,itunes_artist,not checked,catalog,941047.0,A Path With A Heart,Y,TJ Rehmi,Mera Therapy,Y,309.0,title_sim=1.00,0.0,same recording
+1521,Asian Underground,Apache Indian,Fix Up,itunes_artist,not checked,catalog,2448397.0,Fix Up,Y,Apache Indian,No Reservations,Y,264.0,title_sim=1.00,1.7,same recording
+1523,Asian Underground,Badmarsh,The Air I Breathe,itunes_artist,not checked,catalog,398323742.0,The Air I Breathe,Y,Badmarsh & Shri,Dancing Drums,Y,385.0,title_sim=1.00,0.7,same recording
+1524,Asian Underground,Black Star Liner,None Stop to the Border,itunes_artist,not checked,catalog,1860769997.0,None Stop to the Border,Y,Black Star Liner,Yemen Cutta Connection,Y,292.0,title_sim=1.00,0.1,same recording
+1525,Asian Underground,Fun-Da-Mental,Sliced Lead,itunes_artist,not checked,catalog,948768.0,Sliced Lead,Y,Fun Da Mental,Erotic Terrorism,Y,293.0,title_sim=1.00,0.0,same recording
+1527,Asian Underground,Panjabi MC,Jugni,itunes_artist,not checked,catalog,3689266892.0,Jugni,Y,Panjabi MC,Switchin',Y,292.0,title_sim=1.00,23.7,"same title, length differs"
+1529,Asian Underground,TJ Rehmi,The Alkhemist,itunes_artist,not checked,catalog,71307344.0,The Alkhemist,Y,TJ Rehmi,Invisible Rain,Y,276.0,title_sim=1.00,1.3,same recording
+1531,Asian Underground,Apache Indian,Ansa Dat,itunes_artist,not checked,catalog,2430592.0,Ansa Dat,Y,Apache Indian,Make Way For The Indian,Y,297.0,title_sim=1.00,0.2,same recording
+1533,Asian Underground,Badmarsh,The Asian Detective,itunes_artist,not checked,catalog,398323712.0,The Asian Detective,Y,Badmarsh & Shri,Dancing Drums,Y,428.0,title_sim=1.00,0.5,same recording
+1534,Asian Underground,Black Star Liner,Annadrone,itunes_artist,not checked,catalog,1899620647.0,Annadrone,Y,Black Star Liner,Excursion Versions,Y,278.0,title_sim=1.00,0.1,same recording
+1535,Asian Underground,Fun-Da-Mental,Dog Tribe,itunes_artist,not checked,catalog,1095196442.0,Dog Tribe,Y,Fun Da Mental,Seize the Time,Y,327.0,title_sim=1.00,0.5,same recording
+1537,Asian Underground,Panjabi MC,Bach Ke,itunes_artist,not checked,search,1638313822.0,Bach Ke,Y,Panjabi MC,Dhol Jageero Da,Y,387.0,q=Panjabi MC Bach Ke,0.9,same recording
+1539,Asian Underground,TJ Rehmi,This Duniya,itunes_artist,not checked,catalog,71307338.0,This Duniya,Y,TJ Rehmi,Invisible Rain,Y,350.0,title_sim=1.00,0.6,same recording
+1541,Asian Underground,Apache Indian,I Pray,itunes_artist,not checked,catalog,2907713791.0,I Pray,Y,Apache Indian,Time For Change,Y,224.0,title_sim=1.00,56.4,"same title, length differs"
+1543,Asian Underground,Badmarsh,130 Steps,itunes_artist,not checked,catalog,398323732.0,130 Steps,Y,Badmarsh & Shri,Dancing Drums,Y,365.0,title_sim=1.00,0.3,same recording
+1544,Asian Underground,Black Star Liner,Ottoman Empire Strikes Back,itunes_artist,not checked,catalog,1860769957.0,Ottoman Empire Strikes Back,Y,Black Star Liner,Yemen Cutta Connection,Y,253.0,title_sim=1.00,0.8,same recording
+1545,Asian Underground,Fun-Da-Mental,Repent,itunes_artist,not checked,catalog,60952693.0,Repent (Remixed by The Germ),N,Fun Da Mental,Insurgent Remixes,Y,366.0,title_sim=1.00,15.7,other version
+1547,Asian Underground,Panjabi MC,Giddeh Wich,itunes_artist,not checked,search,1638313862.0,Giddeh Wich,Y,Panjabi MC,Dhol Jageero Da,Y,245.0,q=Panjabi MC Giddeh Wich,1.0,same recording
+1548,Asian Underground,State of Bengal,Walking On,itunes_artist,not checked,catalog,99280940.0,Walking On,Y,The Ananda Shankar Experience,Walking On,Y,296.0,title_sim=1.00,0.0,same recording
+1549,Asian Underground,TJ Rehmi,Dear Earthling...,itunes_artist,not checked,catalog,71307341.0,Dear Earthling,Y,TJ Rehmi,Invisible Rain,Y,411.0,title_sim=1.00,0.7,same recording
+1551,Asian Underground,Apache Indian,Drink Problems,itunes_artist,not checked,catalog,2448404.0,Drink Problems,Y,Apache Indian,No Reservations,Y,266.0,title_sim=1.00,2.4,same recording
+1553,Asian Underground,Badmarsh,Parallel Crossing,itunes_artist,not checked,catalog,398323772.0,Parallel Crossing,Y,Badmarsh & Shri,Dancing Drums,Y,361.0,title_sim=1.00,0.4,same recording
+1554,Asian Underground,Black Star Liner,Ga Ga,itunes_artist,not checked,catalog,1860770017.0,Ga Ga,Y,Black Star Liner,Yemen Cutta Connection,Y,364.0,title_sim=1.00,0.6,same recording
+1555,Asian Underground,Fun-Da-Mental,Mera Mazab,itunes_artist,not checked,catalog,490181792.0,Mera Mazab (Creed Edit),N,Fun Da Mental,An Influence Invisible,Y,318.0,title_sim=1.00,100.1,other version
+1557,Asian Underground,Panjabi MC,Hai Lachea (Ambient Mix),itunes_artist,not checked,catalog,3419036911.0,Hai Lachea (Ambient Mix),Y,Panjabi MC,Souled Out,Y,371.0,title_sim=1.00,0.2,same recording
+1558,Asian Underground,State of Bengal,Jungle Symphony,itunes_artist,not checked,catalog,99280948.0,Jungle Symphony,Y,The Ananda Shankar Experience,Walking On,Y,218.0,title_sim=1.00,0.0,same recording
+1559,Asian Underground,TJ Rehmi,Shaam Aye,itunes_artist,not checked,catalog,71307340.0,Shaam Aye,Y,TJ Rehmi,Invisible Rain,Y,370.0,title_sim=1.00,1.5,same recording
+1561,Asian Underground,Apache Indian,Everyday,itunes_artist,not checked,catalog,2907713771.0,Everyday,Y,Apache Indian,Time For Change,Y,248.0,title_sim=1.00,0.5,same recording
+1563,Asian Underground,Badmarsh,Lament,itunes_artist,not checked,catalog,398323752.0,Lament,Y,Badmarsh & Shri,Dancing Drums,Y,453.0,title_sim=1.00,0.6,same recording
+1564,Asian Underground,Black Star Liner,Harmon Haroot,itunes_artist,not checked,catalog,1899620727.0,Harmon Haroot,Y,Black Star Liner,Excursion Versions,Y,272.0,title_sim=1.00,0.8,same recording
+1565,Asian Underground,Fun-Da-Mental,Oh Lord !,itunes_artist,not checked,catalog,948736.0,Oh Lord!,Y,Fun Da Mental,Erotic Terrorism,Y,354.0,title_sim=1.00,0.2,same recording
+1567,Asian Underground,Panjabi MC,Gt Road (feat. Kuldeep Manak),itunes_artist,not checked,catalog,3689266872.0,GT Road,Y,Panjabi MC,Switchin',Y,344.0,title_sim=1.00,0.8,same recording
+1568,Asian Underground,State of Bengal,Tori,itunes_artist,not checked,catalog,99280942.0,Tori,Y,The Ananda Shankar Experience,Walking On,Y,495.0,title_sim=1.00,0.5,same recording
+1569,Asian Underground,TJ Rehmi,Nothing Spoken,itunes_artist,not checked,catalog,941052.0,Nothing Spoken,Y,TJ Rehmi,Mera Therapy,Y,287.0,title_sim=1.00,0.2,same recording
+1571,Asian Underground,Apache Indian,Born For A Purpose,itunes_artist,not checked,catalog,2430593.0,Born For A Purpose,Y,Apache Indian,Make Way For The Indian,Y,388.0,title_sim=1.00,0.1,same recording
+1573,Asian Underground,Badmarsh,Simply Rolling,itunes_artist,not checked,catalog,3855772721.0,Simply Rolling,Y,Badmarsh & Shri,Differences,Y,343.0,title_sim=1.00,0.4,same recording
+1574,Asian Underground,Black Star Liner,Harmon Dub,itunes_artist,not checked,catalog,1899620717.0,Harmon Dub,Y,Black Star Liner,Excursion Versions,Y,249.0,title_sim=1.00,0.3,same recording
+1575,Asian Underground,Fun-Da-Mental,President Propaganda,itunes_artist,not checked,catalog,1095196472.0,President Propaganda,Y,Fun Da Mental,Seize the Time,Y,359.0,title_sim=1.00,1.0,same recording
+1577,Asian Underground,Panjabi MC,Dholana (feat. Master Saleem),itunes_artist,not checked,catalog,3578906221.0,Dholana,Y,Panjabi MC,Desi,Y,240.0,title_sim=1.00,0.8,same recording
+1578,Asian Underground,State of Bengal,Betelnutters,itunes_artist,not checked,catalog,99280950.0,Betelnutters,Y,The Ananda Shankar Experience,Walking On,Y,380.0,title_sim=1.00,0.7,same recording
+1579,Asian Underground,TJ Rehmi,Tonik,itunes_artist,not checked,catalog,71307347.0,Tonik,Y,TJ Rehmi,Invisible Rain,Y,272.0,title_sim=1.00,0.8,same recording
+1580,Asian Underground,Talvin Singh,Jihad,stage1:U05,not matched on Deezer,not found,,,,,,,,,,
+1581,Asian Underground,Apache Indian,Guru,itunes_artist,not checked,catalog,2448399.0,Guru,Y,Apache Indian,No Reservations,Y,227.0,title_sim=1.00,2.9,same recording
+1583,Asian Underground,Badmarsh,Mathar,itunes_artist,not checked,catalog,398323762.0,Mathar,Y,Badmarsh & Shri,Dancing Drums,Y,364.0,title_sim=1.00,0.6,same recording
+1584,Asian Underground,Black Star Liner,Jaazzaad Rodeo,itunes_artist,not checked,catalog,1899620747.0,Jaazzaad Rodeo,Y,Black Star Liner,Excursion Versions,Y,353.0,title_sim=1.00,0.5,same recording
+1585,Asian Underground,Fun-Da-Mental,Bullet Solution?,itunes_artist,not checked,catalog,1095196532.0,Bullet Solution?,Y,Fun Da Mental,Seize the Time,Y,356.0,title_sim=1.00,0.7,same recording
+1587,Asian Underground,Panjabi MC,Dil Bharian (feat. Labh Janjua),itunes_artist,not checked,catalog,3578906251.0,Dil Bharian,Y,Panjabi MC,Desi,Y,227.0,title_sim=1.00,0.3,same recording
+1588,Asian Underground,State of Bengal,Throw Down,itunes_artist,not checked,catalog,99280954.0,Throw Down,Y,The Ananda Shankar Experience,Walking On,Y,329.0,title_sim=1.00,0.2,same recording
+1589,Asian Underground,TJ Rehmi,Mind Filter,itunes_artist,not checked,catalog,951286.0,Mind Filter,Y,TJ Rehmi,Mind Filter,Y,263.0,title_sim=1.00,0.5,same recording
+1591,Asian Underground,Apache Indian,Don't Touch (feat. Frankie Paul),itunes_artist,not checked,catalog,2448402.0,Don't Touch,Y,Apache Indian,No Reservations,Y,245.0,title_sim=1.00,1.2,same recording
+1593,Asian Underground,Badmarsh,Disturbed Synapses,itunes_artist,not checked,catalog,398323792.0,Disturbed Synapses,Y,Badmarsh & Shri,Dancing Drums,Y,193.0,title_sim=1.00,0.5,same recording
+1594,Asian Underground,Black Star Liner,Distoten,itunes_artist,not checked,catalog,1899620687.0,Distoten,Y,Black Star Liner,Excursion Versions,Y,249.0,title_sim=1.00,0.8,same recording
+1595,Asian Underground,Fun-Da-Mental,Demonised Soul,itunes_artist,not checked,catalog,60952690.0,Demonised Soul (Indian Ropeman Mix),N,Fun Da Mental,Insurgent Remixes,Y,392.0,title_sim=1.00,155.2,other version
+1597,Asian Underground,Panjabi MC,Bheer Breaks,itunes_artist,not checked,catalog,3689266912.0,Bheer Breaks,Y,Panjabi MC,Switchin',Y,185.0,title_sim=1.00,0.9,same recording
+1598,Asian Underground,State of Bengal,Alma Ata,itunes_artist,not checked,catalog,99280946.0,Alma Ata,Y,The Ananda Shankar Experience,Walking On,Y,299.0,title_sim=1.00,0.5,same recording
+1599,Asian Underground,TJ Rehmi,Bajaman,itunes_artist,not checked,catalog,944542.0,Bajaman,Y,TJ Rehmi,Raag Digitaal,Y,330.0,title_sim=1.00,0.7,same recording
+1601,Asian Underground,Apache Indian,Back Up,itunes_artist,not checked,catalog,2430594.0,Back Up,Y,Apache Indian,Make Way For The Indian,Y,275.0,title_sim=1.00,0.5,same recording
+1603,Asian Underground,Badmarsh,Tribal Warfare,itunes_artist,not checked,catalog,3855772701.0,Tribal Warfare,Y,Badmarsh & Shri,Differences,Y,360.0,title_sim=1.00,0.2,same recording
+1604,Asian Underground,Black Star Liner,"Superfly and Bindi (7"" Version) [Choque Hosein Remix]",itunes_artist,not checked,catalog,700602.0,Superfly and Bindi,N,Black Star Liner,Bengali Bantam Youth Experience,Y,227.0,title_sim=1.00,7.7,other version
+1605,Asian Underground,Fun-Da-Mental,One Ness,itunes_artist,not checked,catalog,948766.0,One Ness,Y,Fun Da Mental,Erotic Terrorism,Y,372.0,title_sim=1.00,0.0,same recording
+1607,Asian Underground,Panjabi MC,Jugni Breaks,itunes_artist,not checked,catalog,3689266922.0,Jugni Breaks,Y,Panjabi MC,Switchin',Y,140.0,title_sim=1.00,0.4,same recording
+1608,Asian Underground,State of Bengal,Tanusree,itunes_artist,not checked,catalog,99280952.0,Tanusree,Y,The Ananda Shankar Experience,Walking On,Y,368.0,title_sim=1.00,0.6,same recording
+1609,Asian Underground,TJ Rehmi,Soft Equations,itunes_artist,not checked,catalog,71307342.0,Soft Equations,Y,TJ Rehmi,Invisible Rain,Y,327.0,title_sim=1.00,2.2,same recording
+1611,Asian Underground,Apache Indian,Calling Out to Jah (feat. Luciano),itunes_artist,not checked,catalog,2907713761.0,Calling Out to Jah,Y,Apache Indian,Time For Change,Y,263.0,title_sim=1.00,0.2,same recording
+1613,Asian Underground,Badmarsh,Salsa Gharana,itunes_artist,not checked,catalog,398323802.0,Salsa Gharana,Y,Badmarsh & Shri,Dancing Drums,Y,224.0,title_sim=1.00,0.6,same recording
+1614,Asian Underground,Black Star Liner,Hindu_Telekinesis.co.uk (Choque Hosein Remix),itunes_artist,not checked,catalog,3102331091.0,Hindu_Telekinesis.co.uk (Choque Hosein Remix),Y,Black Star Liner,Superfly and Bindi,Y,164.0,title_sim=1.00,0.6,same recording
+1615,Asian Underground,Fun-Da-Mental,Godevil,itunes_artist,not checked,catalog,490181712.0,Godevil,Y,Fun Da Mental,An Influence Invisible,Y,279.0,title_sim=1.00,1.3,same recording
+1617,Asian Underground,State of Bengal,Love & Passion,itunes_artist,not checked,catalog,99280956.0,Love & Passion,Y,The Ananda Shankar Experience,Walking On,Y,372.0,title_sim=1.00,0.3,same recording
+1618,Asian Underground,TJ Rehmi,Zindagi,itunes_artist,not checked,catalog,941036.0,Zindagi,Y,TJ Rehmi,Mera Therapy,Y,327.0,title_sim=1.00,0.1,same recording
+1620,Asian Underground,Apache Indian,Caste System (Edit),itunes_artist,not checked,catalog,668943952.0,Caste System (Edit),Y,Apache Indian,Nuff Vibes -EP,Y,220.0,title_sim=1.00,1.4,same recording
+1622,Asian Underground,Badmarsh,Differences,itunes_artist,not checked,catalog,3855772711.0,Differences,Y,Badmarsh & Shri,Differences,Y,449.0,title_sim=1.00,0.4,same recording
+1623,Asian Underground,Fun-Da-Mental,No More Fear,itunes_artist,not checked,catalog,1095196482.0,No More Fear,Y,Fun Da Mental,Seize the Time,Y,315.0,title_sim=1.00,0.6,same recording
+1625,Asian Underground,State of Bengal,Reverse,itunes_artist,not checked,catalog,99280958.0,Reverse,Y,The Ananda Shankar Experience,Walking On,Y,410.0,title_sim=1.00,0.2,same recording
+1626,Asian Underground,TJ Rehmi,Exposure,itunes_artist,not checked,catalog,71307339.0,Exposure,Y,TJ Rehmi,Invisible Rain,Y,259.0,title_sim=1.00,0.1,same recording
+1628,Asian Underground,Apache Indian,Fun,itunes_artist,not checked,catalog,668943972.0,Fun,Y,Apache Indian,Nuff Vibes -EP,Y,245.0,title_sim=1.00,1.2,same recording
+1630,Asian Underground,Badmarsh,Goa Funk,itunes_artist,not checked,catalog,3855772731.0,Goa Funk,Y,Badmarsh & Shri,Differences,Y,384.0,title_sim=1.00,0.5,same recording
+1631,Asian Underground,Fun-Da-Mental,Seize the Time,itunes_artist,not checked,catalog,1095196452.0,Seize the Time,Y,Fun Da Mental,Seize the Time,Y,363.0,title_sim=1.00,0.7,same recording
+1633,Asian Underground,State of Bengal,Ek Bullet,itunes_artist,not checked,catalog,2629647132.0,EK Bullet,Y,State Of Bengal,Visual Audio,Y,367.0,title_sim=1.00,0.8,same recording
+1634,Asian Underground,TJ Rehmi,Mera Therapy,itunes_artist,not checked,catalog,941019.0,Mera Therapy,Y,TJ Rehmi,Mera Therapy,Y,330.0,title_sim=1.00,0.9,same recording
+1636,Asian Underground,Apache Indian,Boom Shak - A - Lak (Func Remix),itunes_artist,not checked,catalog,143426136.0,Boom Shak-A-Lak (2016 Redux),N,Apache Indian,Boom Shack-A-Lak (2016 Redux),Y,234.0,title_sim=1.00,25.9,other version
+1638,Asian Underground,Badmarsh,Interlude,itunes_artist,not checked,catalog,398323782.0,Interlude,Y,Badmarsh & Shri,Dancing Drums,Y,34.0,title_sim=1.00,0.5,same recording
+1639,Asian Underground,Fun-Da-Mental,English Breakfast,itunes_artist,not checked,catalog,1095196522.0,English Breakfast,Y,Fun Da Mental,Seize the Time,Y,299.0,title_sim=1.00,0.3,same recording
+1641,Asian Underground,State of Bengal,Music Is ....,itunes_artist,not checked,catalog,2629647152.0,Music Is ....,Y,State Of Bengal,Visual Audio,Y,332.0,title_sim=1.00,1.0,same recording
+1642,Asian Underground,TJ Rehmi,Who Killed Bhangra?,itunes_artist,not checked,catalog,951293.0,Who Killed Bhangra?,Y,TJ Rehmi,Mind Filter,Y,369.0,title_sim=1.00,0.1,same recording
+1645,Asian Underground,Fun-Da-Mental,New World Order,itunes_artist,not checked,catalog,1095196552.0,New World Order,Y,Fun Da Mental,Seize the Time,Y,288.0,title_sim=1.00,0.1,same recording
+1647,Asian Underground,State of Bengal,Mishti Dance,itunes_artist,not checked,catalog,2629647142.0,Mishti Dance,Y,State Of Bengal,Visual Audio,Y,376.0,title_sim=1.00,0.4,same recording
+1648,Asian Underground,TJ Rehmi,Hypnotic Embrace,itunes_artist,not checked,catalog,71307345.0,Hypnotic Embrace,Y,TJ Rehmi,Invisible Rain,Y,343.0,title_sim=1.00,1.1,same recording
+1651,Asian Underground,Fun-Da-Mental,White Gold Burger,itunes_artist,not checked,catalog,1095196562.0,White Gold Burger,Y,Fun Da Mental,Seize the Time,Y,264.0,title_sim=1.00,0.9,same recording
+1653,Asian Underground,State of Bengal,Anuradha’s Wedding,itunes_artist,not checked,catalog,2629647122.0,Anuradha’s Wedding,Y,State Of Bengal,Visual Audio,Y,271.0,title_sim=1.00,0.6,same recording
+1654,Asian Underground,TJ Rehmi,Stepping Stones,itunes_artist,not checked,catalog,941021.0,Stepping Stones,Y,TJ Rehmi,Mera Therapy,Y,323.0,title_sim=1.00,0.4,same recording
+1657,Asian Underground,Fun-Da-Mental,Mr Bubbleman,itunes_artist,not checked,catalog,1095196512.0,Mr Bubbleman,Y,Fun Da Mental,Seize the Time,Y,414.0,title_sim=1.00,0.9,same recording
+1659,Asian Underground,State of Bengal,Burn Your Toes (Instrumental),itunes_artist,not checked,catalog,2629575292.0,Burn Your Toes,N,State Of Bengal,Rama Communication,Y,397.0,title_sim=1.00,0.8,same recording
+1660,Asian Underground,TJ Rehmi,Spiritual Technology,itunes_artist,not checked,catalog,71307348.0,Spiritual Technology,Y,TJ Rehmi,Invisible Rain,Y,319.0,title_sim=1.00,0.1,same recording
+1663,Asian Underground,Fun-Da-Mental,Dollars or Sense,itunes_artist,not checked,catalog,1095196492.0,Dollars or Sense,Y,Fun Da Mental,Seize the Time,Y,374.0,title_sim=1.00,0.4,same recording
+1664,Asian Underground,Nitin Sawhney,Acquired Dreams,itunes_artist,not checked,not found,,,,,,,,,,
+1665,Asian Underground,TJ Rehmi,Raagmania,itunes_artist,not checked,catalog,951288.0,Raagmania,Y,TJ Rehmi,Mind Filter,Y,302.0,title_sim=1.00,0.8,same recording
+1668,Asian Underground,Fun-Da-Mental,See I A,itunes_artist,not checked,catalog,948759.0,See I A,Y,Fun Da Mental,Erotic Terrorism,Y,300.0,title_sim=1.00,0.0,same recording
+1669,Asian Underground,Nitin Sawhney,Cold & Intimate,itunes_artist,not checked,not found,,,,,,,,,,
+1670,Asian Underground,TJ Rehmi,Fear Is the Enemy,itunes_artist,not checked,catalog,941044.0,Fear Is The Enemy,Y,TJ Rehmi,Mera Therapy,Y,268.0,title_sim=1.00,0.1,same recording
+1673,Asian Underground,Fun-Da-Mental,Mental Violence (In-Stru-Mental Mix),itunes_artist,not checked,search,620501542.0,Mental Violence (In-Stru-Mental Mix),Y,Fun Da Mental,"Creative, Innovative, Uncompromising",Y,299.0,q=Fun-Da-Mental Mental Violence (In-Stru-Mental Mix),0.4,same recording
+1674,Asian Underground,Nitin Sawhney,Chetan Jeevan (Conscious Life),itunes_artist,not checked,catalog,4193601.0,Chetan Jeevan (Conscious Life),Y,Nitin Sawhney,Human,Y,191.0,title_sim=1.00,0.2,same recording
+1675,Asian Underground,TJ Rehmi,Whisper the Meaning,itunes_artist,not checked,catalog,951314.0,Whisper the Meaning,Y,TJ Rehmi,Mind Filter,Y,308.0,title_sim=1.00,0.1,same recording
+1676,Asian Underground,Talvin Singh,Friendship,itunes_artist,not checked,catalog,1215699792.0,Friendship,Y,Talvin Singh,Vira,Y,1114.0,title_sim=1.00,0.1,same recording
+1678,Asian Underground,Fun-Da-Mental,Blood In Transit,itunes_artist,not checked,catalog,948749.0,Blood In Transit,Y,Fun Da Mental,Erotic Terrorism,Y,83.0,title_sim=1.00,0.9,same recording
+1679,Asian Underground,Nitin Sawhney,Developed,itunes_artist,not checked,not found,,,,,,,,,,
+1680,Asian Underground,TJ Rehmi,Levitate,itunes_artist,not checked,catalog,941029.0,Levitate,Y,TJ Rehmi,Mera Therapy,Y,305.0,title_sim=1.00,0.8,same recording
+1681,Asian Underground,Talvin Singh,O.K.,itunes_artist,not checked,catalog,1158983.0,OK (Album Version),N,Talvin Singh,OK,Y,255.0,title_sim=0.80,0.3,same recording
+1683,Asian Underground,Fun-Da-Mental,Deathening Silence,itunes_artist,not checked,catalog,948756.0,Deathening Silence,Y,Fun Da Mental,Erotic Terrorism,Y,282.0,title_sim=1.00,0.5,same recording
+1684,Asian Underground,TJ Rehmi,Intezaar,itunes_artist,not checked,catalog,941040.0,Intezaar,Y,TJ Rehmi,Mera Therapy,Y,345.0,title_sim=1.00,0.6,same recording
+1685,Asian Underground,Talvin Singh,Vira,itunes_artist,not checked,catalog,1215699812.0,Vira,Y,Talvin Singh,Vira,Y,924.0,title_sim=1.00,0.4,same recording
+1687,Asian Underground,Fun-Da-Mental,Sunday School,itunes_artist,not checked,catalog,951087.0,Sunday School,Y,Fun Da Mental,There Shall Be Love!,Y,352.0,title_sim=1.00,0.8,same recording
+1688,Asian Underground,TJ Rehmi,Elastic,itunes_artist,not checked,catalog,951298.0,Elastic,Y,TJ Rehmi,Mind Filter,Y,226.0,title_sim=1.00,0.2,same recording
+1689,Asian Underground,Talvin Singh,One World,itunes_artist,not checked,catalog,1215699822.0,One World,Y,Talvin Singh,Vira,Y,1194.0,title_sim=1.00,0.0,same recording
+1691,Asian Underground,Fun-Da-Mental,"When I Want Your Opinion, I’ll Give It to You",itunes_artist,not checked,catalog,948709.0,"When I Want Your Opinion, I'll Give It To You",Y,Fun Da Mental,With Intent To Pervert The Cause Of Injustice!,Y,348.0,title_sim=1.00,0.6,same recording
+1692,Asian Underground,TJ Rehmi,Herbal Therapy,itunes_artist,not checked,catalog,941059.0,Herbal Therapy,Y,TJ Rehmi,Mera Therapy,Y,330.0,title_sim=1.00,0.3,same recording
+1693,Asian Underground,Talvin Singh,Bobby Style,itunes_artist,not checked,not found,,,,,,,,,,
+1695,Asian Underground,Fun-Da-Mental,Spy-cat,itunes_artist,not checked,catalog,951090.0,Spy-cat,Y,Fun Da Mental,There Shall Be Love!,Y,317.0,title_sim=1.00,0.6,same recording
+1696,Asian Underground,TJ Rehmi,Prisoners of Freedom,itunes_artist,not checked,catalog,951304.0,Prisoners of Freedom,Y,TJ Rehmi,Mind Filter,Y,353.0,title_sim=1.00,0.2,same recording
+1697,Asian Underground,Talvin Singh,Soft Works,itunes_artist,not checked,not found,,,,,,,,,,
+1699,Asian Underground,Fun-Da-Mental,Dog War,itunes_artist,not checked,catalog,948698.0,Dog War,Y,Fun Da Mental,With Intent To Pervert The Cause Of Injustice!,Y,560.0,title_sim=1.00,0.1,same recording
+1700,Asian Underground,TJ Rehmi,Destination,itunes_artist,not checked,catalog,951307.0,Destination,Y,TJ Rehmi,Mind Filter,Y,299.0,title_sim=1.00,0.9,same recording
+1702,Asian Underground,Fun-Da-Mental,Tongue Gone Cold,itunes_artist,not checked,catalog,948772.0,Tongue Gone Cold,Y,Fun Da Mental,Erotic Terrorism,Y,440.0,title_sim=1.00,0.9,same recording
+1703,Asian Underground,TJ Rehmi,Skrutinizer,itunes_artist,not checked,catalog,951305.0,Skrutinizer,Y,TJ Rehmi,Mind Filter,Y,308.0,title_sim=1.00,0.9,same recording
+1704,Asian Underground,Asian Dub Foundation,Committed to Life,itunes_artist,not checked,catalog,429340752.0,Committed To Life,Y,Asian Dub Foundation,Community Music,Y,284.0,title_sim=1.00,0.5,same recording
+1705,Asian Underground,Fun-Da-Mental,There Shall Be Love,itunes_artist,not checked,catalog,951095.0,There Shall Be Love,Y,Fun Da Mental,There Shall Be Love!,Y,293.0,title_sim=1.00,0.3,same recording
+1706,Asian Underground,TJ Rehmi,Hit n' Bliss,itunes_artist,not checked,catalog,951296.0,Hit n' Bliss,Y,TJ Rehmi,Mind Filter,Y,252.0,title_sim=1.00,0.3,same recording
+1707,Asian Underground,Asian Dub Foundation,Dhol Rinse,itunes_artist,not checked,catalog,1364145642.0,Dhol Rinse,Y,Asian Dub Foundation,Enemy of the Enemy (Remastered),Y,197.0,title_sim=1.00,0.4,same recording
+1708,Asian Underground,Fun-Da-Mental,Tagai Soul (Temple of Sound Jubilee Mix),itunes_artist,not checked,catalog,60952688.0,Tagai Soul (Temple Of Sound Jubilee Mix),Y,Fun Da Mental,Insurgent Remixes,Y,214.0,title_sim=1.00,0.2,same recording
+1709,Asian Underground,TJ Rehmi,The Return,itunes_artist,not checked,catalog,951312.0,The Return,Y,TJ Rehmi,Mind Filter,Y,355.0,title_sim=1.00,0.1,same recording
+1710,Asian Underground,Asian Dub Foundation,Buzzing (Live),itunes_artist,not checked,not found,,,,,,,,,,
+1711,Asian Underground,Fun-Da-Mental,Fartherland,itunes_artist,not checked,catalog,1095196542.0,Fartherland,Y,Fun Da Mental,Seize the Time,Y,358.0,title_sim=1.00,0.0,same recording
+1712,Asian Underground,TJ Rehmi,Exploration: 1995,itunes_artist,not checked,catalog,951302.0,Exploration: 1995,Y,TJ Rehmi,Mind Filter,Y,637.0,title_sim=1.00,0.8,same recording
+1713,Asian Underground,Asian Dub Foundation,Blowback,itunes_artist,not checked,catalog,1364145612.0,Blowback,Y,Asian Dub Foundation,Enemy of the Enemy (Remastered),Y,176.0,title_sim=1.00,0.1,same recording
+1714,Asian Underground,Fun-Da-Mental,Wandering Soul,itunes_artist,not checked,catalog,951089.0,Wandering Soul,Y,Fun Da Mental,There Shall Be Love!,Y,263.0,title_sim=1.00,0.8,same recording
+1715,Asian Underground,TJ Rehmi,Second Filter,itunes_artist,not checked,catalog,951317.0,Second Filter,Y,TJ Rehmi,Mind Filter,Y,352.0,title_sim=1.00,0.5,same recording
+1716,Asian Underground,Asian Dub Foundation,Enemy of the Enemy,itunes_artist,not checked,catalog,1364145672.0,Enemy of the Enemy,Y,Asian Dub Foundation,Enemy of the Enemy (Remastered),Y,284.0,title_sim=1.00,0.0,same recording
+1717,Asian Underground,Fun-Da-Mental,Bubbleman,itunes_artist,not checked,catalog,948715.0,Bubbleman,Y,Fun Da Mental,With Intent To Pervert The Cause Of Injustice!,Y,343.0,title_sim=1.00,0.3,same recording
+1718,Asian Underground,TJ Rehmi,Ek Rasta,itunes_artist,not checked,catalog,944532.0,Ek Rasta,Y,TJ Rehmi,Raag Digitaal,Y,409.0,title_sim=1.00,0.7,same recording
+1719,Asian Underground,Asian Dub Foundation,Change a Gonna Come,itunes_artist,not checked,catalog,937160.0,Change A Gonna Come,Y,Asian Dub Foundation,Frontline 1993-97 (Rarities & Remixed),Y,197.0,title_sim=1.00,0.7,same recording
+1720,Asian Underground,Fun-Da-Mental,All Seeing Heart,itunes_artist,not checked,catalog,951098.0,All Seeing Heart,Y,Fun Da Mental,There Shall Be Love!,Y,487.0,title_sim=1.00,0.7,same recording
+1721,Asian Underground,TJ Rehmi,The Healer,itunes_artist,not checked,catalog,944535.0,The Healer,Y,TJ Rehmi,Raag Digitaal,Y,306.0,title_sim=1.00,0.8,same recording
+1722,Asian Underground,Asian Dub Foundation,19 Rebellions,itunes_artist,not checked,catalog,1364145602.0,19 Rebellions,Y,Asian Dub Foundation,Enemy of the Enemy (Remastered),Y,322.0,title_sim=1.00,0.0,same recording
+1723,Asian Underground,Fun-Da-Mental,X-Cra-Mental,itunes_artist,not checked,search,620501502.0,X-cra-mental,Y,Fun Da Mental,"Creative, Innovative, Uncompromising",Y,351.0,q=Fun-Da-Mental X-Cra-Mental,0.1,same recording
+1724,Asian Underground,TJ Rehmi,Nobody Knows,itunes_artist,not checked,catalog,944548.0,Nobody Knows,Y,TJ Rehmi,Raag Digitaal,Y,239.0,title_sim=1.00,0.7,same recording
+1725,Asian Underground,Asian Dub Foundation,Digital Underclass,itunes_artist,not checked,catalog,650802862.0,Digital Underclass,Y,Asian Dub Foundation,Under The Influence (Rafi's Revenge Bonus Tracks),Y,287.0,title_sim=1.00,0.4,same recording
+1726,Asian Underground,Fun-Da-Mental,Furious,itunes_artist,not checked,catalog,948757.0,Furious,Y,Fun Da Mental,Erotic Terrorism,Y,165.0,title_sim=1.00,1.0,same recording
+1727,Asian Underground,TJ Rehmi,Believe,itunes_artist,not checked,catalog,944538.0,Believe,Y,TJ Rehmi,Raag Digitaal,Y,225.0,title_sim=1.00,0.1,same recording
+1728,Asian Underground,Asian Dub Foundation,Basta,itunes_artist,not checked,catalog,1364145652.0,Basta,Y,Asian Dub Foundation,Enemy of the Enemy (Remastered),Y,273.0,title_sim=1.00,0.3,same recording
+1729,Asian Underground,Fun-Da-Mental,"Sin, In the Name Of...",itunes_artist,not checked,catalog,948695.0,"Sin, In The Name Of...",Y,Fun Da Mental,With Intent To Pervert The Cause Of Injustice!,Y,415.0,title_sim=1.00,0.9,same recording
+1730,Asian Underground,TJ Rehmi,Bud Detecta,itunes_artist,not checked,catalog,944544.0,Bud Detecta,Y,TJ Rehmi,Raag Digitaal,Y,248.0,title_sim=1.00,0.6,same recording
+1731,Asian Underground,Asian Dub Foundation,2 Face,itunes_artist,not checked,catalog,1364145622.0,2 Face,Y,Asian Dub Foundation,Enemy of the Enemy (Remastered),Y,314.0,title_sim=1.00,0.5,same recording
+1732,Asian Underground,Fun-Da-Mental,Back To Basix,itunes_artist,not checked,catalog,1095196572.0,Back To Basix,Y,Fun Da Mental,Seize the Time,Y,552.0,title_sim=1.00,0.4,same recording
+1733,Asian Underground,TJ Rehmi,Drone Zone,itunes_artist,not checked,catalog,944549.0,Drone Zone,Y,TJ Rehmi,Raag Digitaal,Y,386.0,title_sim=1.00,0.0,same recording
+1734,Asian Underground,Asian Dub Foundation,Cyberabad,itunes_artist,not checked,catalog,1364145662.0,Cyberabad,Y,Asian Dub Foundation,Enemy of the Enemy (Remastered),Y,302.0,title_sim=1.00,0.1,same recording
+1735,Asian Underground,Fun-Da-Mental,Intolerant Gold Burger,itunes_artist,not checked,catalog,948702.0,Intolerant Gold Burger,Y,Fun Da Mental,With Intent To Pervert The Cause Of Injustice!,Y,489.0,title_sim=1.00,0.5,same recording
+1736,Asian Underground,TJ Rehmi,Partial Eclipse,itunes_artist,not checked,catalog,944547.0,Partial Eclipse,Y,TJ Rehmi,Raag Digitaal,Y,286.0,title_sim=1.00,0.7,same recording
+1737,Asian Underground,Asian Dub Foundation,C.A.G.C (Via Pirate Satellite),itunes_artist,not checked,catalog,937189.0,C.A.G.C (Via Pirate Satellite),Y,Asian Dub Foundation,Frontline 1993-97 (Rarities & Remixed),Y,420.0,title_sim=1.00,0.1,same recording
+1738,Asian Underground,Fun-Da-Mental,More Than a Hundred Times,itunes_artist,not checked,catalog,951093.0,More Than a Hundred Times,Y,Fun Da Mental,There Shall Be Love!,Y,217.0,title_sim=1.00,0.2,same recording
+1739,Asian Underground,Fun-Da-Mental,Liberating Gold Burger,itunes_artist,not checked,catalog,948725.0,Liberating Gold Burger,Y,Fun Da Mental,With Intent To Pervert The Cause Of Injustice!,Y,274.0,title_sim=1.00,0.9,same recording
+1740,Asian Underground,Fun-Da-Mental,My Gration,itunes_artist,not checked,catalog,948705.0,My Gration,Y,Fun Da Mental,With Intent To Pervert The Cause Of Injustice!,Y,408.0,title_sim=1.00,0.7,same recording
+1741,Asian Underground,Fun-Da-Mental,Chains With Names,itunes_artist,not checked,catalog,948718.0,Chains With Names,Y,Fun Da Mental,With Intent To Pervert The Cause Of Injustice!,Y,348.0,title_sim=1.00,0.1,same recording
+1742,Asian Underground,Fun-Da-Mental,Oppress the Oppressor,itunes_artist,not checked,catalog,948728.0,Oppress The Oppressor,Y,Fun Da Mental,With Intent To Pervert The Cause Of Injustice!,Y,349.0,title_sim=1.00,0.6,same recording
+1743,Asian Underground,Fun-Da-Mental,Rape (Tune Out Edit),itunes_artist,not checked,catalog,490181702.0,Rape (Tune Out Edit),Y,Fun Da Mental,An Influence Invisible,Y,208.0,title_sim=1.00,0.6,same recording
+1744,Asian Underground,Fun-Da-Mental,Race2war,itunes_artist,not checked,catalog,948722.0,Race2War,Y,Fun Da Mental,With Intent To Pervert The Cause Of Injustice!,Y,314.0,title_sim=1.00,1.0,same recording
+1745,Asian Underground,Fun-Da-Mental,Human Waves,itunes_artist,not checked,catalog,951100.0,Human Waves,Y,Fun Da Mental,There Shall Be Love!,Y,61.0,title_sim=1.00,0.0,same recording
+1746,Asian Underground,Fun-Da-Mental,Amputate (Surgical Mix),itunes_artist,not checked,catalog,490181752.0,Amputate (Surgical Mix),Y,Fun Da Mental,An Influence Invisible,Y,271.0,title_sim=1.00,0.6,same recording
+1747,Asian Underground,Fun-Da-Mental,Global Tales,itunes_artist,not checked,catalog,948729.0,Global Tales,Y,Fun Da Mental,With Intent To Pervert The Cause Of Injustice!,Y,63.0,title_sim=1.00,0.8,same recording
+1748,Asian Underground,Fun-Da-Mental,Death In Silence (Pollution Mix),itunes_artist,not checked,catalog,940977.0,Death In Silence (Pollution Mix),Y,Fun Da Mental,Demonised Soul,Y,272.0,title_sim=1.00,0.6,same recording
+1749,Asian Underground,Fun-Da-Mental,Sufi Inca,itunes_artist,not checked,not found,,,,,,,,,,

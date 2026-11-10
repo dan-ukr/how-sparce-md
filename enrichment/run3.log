@@ -1,0 +1,29 @@
+22:26:58 tracks 25/602  mb=17  dz=7
+22:26:58 tracks 50/602  mb=22  dz=9
+22:26:58 tracks 75/602  mb=30  dz=14
+22:26:58 tracks 100/602  mb=35  dz=16
+22:26:58 tracks 125/602  mb=46  dz=28
+22:26:58 tracks 150/602  mb=63  dz=51
+22:26:58 tracks 175/602  mb=79  dz=76
+22:26:58 tracks 200/602  mb=93  dz=99
+22:26:58 tracks 225/602  mb=104  dz=119
+22:26:58 tracks 250/602  mb=109  dz=142
+22:26:58 tracks 275/602  mb=122  dz=166
+22:26:58 tracks 300/602  mb=137  dz=190
+22:26:58 tracks 325/602  mb=156  dz=215
+22:26:58 tracks 350/602  mb=168  dz=232
+22:26:58 tracks 375/602  mb=175  dz=244
+22:26:58 tracks 400/602  mb=182  dz=253
+22:26:58 tracks 425/602  mb=187  dz=257
+22:26:58 tracks 450/602  mb=187  dz=259
+22:26:58 tracks 475/602  mb=191  dz=265
+22:26:58 tracks 500/602  mb=195  dz=272
+22:26:58 tracks 525/602  mb=219  dz=288
+22:26:58 tracks 550/602  mb=244  dz=312
+22:26:58 tracks 575/602  mb=269  dz=326
+22:26:58 tracks 600/602  mb=288  dz=339
+22:26:58 artists 290 {'confirmed_title': 139, 'candidate_unconfirmed': 95, 'not_found': 56}
+22:26:58 mb artist detail done
+22:26:59 deezer artist fallback done {'track': 154, 'artist_title_overlap': 8}
+22:26:59 wikidata/deezer/listenbrainz done
+22:27:02 wrote C:\Users\redmi\Desktop\python\capstone\enrichment\enriched_2026-11-02.xlsx | failed requests: 0
